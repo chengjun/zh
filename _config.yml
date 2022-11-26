@@ -11,9 +11,9 @@ title                    : "王成军"
 title_separator          : "-"
 name                     : "中文网站"
 description              : "教育是点燃火焰"
-url                      : https://chengjun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/zh" # the subpath of your site, e.g. "/blog"
-repository               : "chengjun/zh"
+url                      : https://socratesclub.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "SocratesClub/SocratesClub.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
