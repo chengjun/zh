@@ -1,11 +1,5 @@
-- Revise Static Markdown Pages https://github.com/SocratesClub/SocratesClub.github.io/tree/gh-pages/_pages
-   - ✏️ about [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/gh-pages/_pages/about.md) 
-   - ✏️ publications [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/gh-pages/_pages/publications.md)
-   - ✏️ teach [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/gh-pages/_pages/teach.md)
-   - ✏️ project [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/gh-pages/_pages/project.md)
-   - ✏️ service [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/gh-pages/_pages/service.md)
-   - ✏️ cv [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/gh-pages/_pages/cv.md)
-- Set Navigation https://github.com/SocratesClub/SocratesClub.github.io/blob/gh-pages/_data/navigation.yml
+- Revise Static Markdown Pages in the `_pages` folder
+- Set Navigation in the `navigation.yml` file within the `_data` folder
 
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
