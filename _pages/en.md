@@ -223,7 +223,7 @@ My professional affiliations include:
 
 <img width="961" alt="image" src="https://user-images.githubusercontent.com/543384/185576901-cd007dc4-92d9-46b7-824e-316c0de22ff3.png">
 
-✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/gh-pages/_pages/en.md)
+✏️ [Edit this page](https://github.com/{{site.repository}}edit/gh-pages/_pages/en.md)
 
 <!--<img align="middle" src="/img/undraw_news.svg" width = 400px/>-->
 
