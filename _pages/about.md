@@ -56,7 +56,7 @@ redirect_from:
   
   {{ site.url }}
 
-✏️ [Edit this page]({{site.repository}}edit/gh-pages/_pages/about.md)
+✏️ [Edit this page](https://github.com/{{site.repository}}edit/gh-pages/_pages/about.md)
 
 <br>
 
