@@ -1,25 +1,25 @@
 # main links links
 main:
   - title: "研究"
-    url: publications/
+    url: /publications/
 
   # - title: "演讲"
-    # url: talks/    
+    # url: /talks/    
 
   - title: "教学"
-    url: teach/    
+    url: /teach/    
     
   - title: "项目"
-    url: project/
+    url: /project/
   
   - title: "服务"
-    url: service/
+    url: /service/
         
   # - title: "博客"
-    # url: year-archive/
+    # url: /year-archive/
     
   - title: "简历"
-    url: cv/
+    url: /cv/
     
   - title: "English"
     url: https://chengjun.github.io/
