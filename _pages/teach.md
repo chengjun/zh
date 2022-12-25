@@ -21,13 +21,18 @@ author_profile: true
 
 ## 未来课程
 
+### 学术写作
+
 1. 我计划根据刘军强老师的著作《写作是门手艺》开设本科生毕业论文写作课程，课程的[Github代码仓库](https://github.com/SocratesAcademy/craft). 
    - 课程的 [Jupyter Notebook](https://nbviewer.jupyter.org/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb?flush_cache=true) 和 [Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/The-Craft-of-Writing.ipynb#/). 
-   - 我发现龙虾教授Jordan B Peterson 的The Essay Writing Guide也很有帮助。我将其修改为slides，并添加了一些注解，见[写作的力量](https://computational-communication.com/workshop/notebook/Essay%20Writing%20Guide.slides.html#/). 
-   - 此外，我非常推荐贝克尔的书 **Writing for Social Scientists**。为此，我制作了本书对应的[Jupyter Notebook](https://nbviewer.org/github/SocratesAcademy/tricks/blob/main/Writing4SocialScientists.ipynb) 和 [Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/tricks/blob/main/Writing4SocialScientists.ipynb#/). 
-   - 类似的，Anthony Miles所写的**A Taxonomy of Research Gaps**同样具有启发，我也制作了相应的[Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/WritingResearchGaps.ipynb#/).
+1. 龙虾教授Jordan B Peterson 的The Essay Writing Guide也很有帮助。我将其修改为slides，并添加了一些注解，见[写作的力量](https://computational-communication.com/workshop/notebook/Essay%20Writing%20Guide.slides.html#/). 
+1. 此外，我非常推荐贝克尔的书 **Writing for Social Scientists**。为此，我制作了本书对应的[Jupyter Notebook](https://nbviewer.org/github/SocratesAcademy/tricks/blob/main/Writing4SocialScientists.ipynb) 和 [Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/tricks/blob/main/Writing4SocialScientists.ipynb#/). 
+1. 类似的，Anthony Miles所写的**A Taxonomy of Research Gaps**同样具有启发，我也制作了相应的[Slides](https://nbviewer.jupyter.org/format/slides/github/SocratesAcademy/craft/blob/main/WritingResearchGaps.ipynb#/).
 
-2. 我读完了[「原因と結果」の経済学―――データから真実を見抜く思考法](https://www.amazon.co.jp/%E3%80%8C%E5%8E%9F%E5%9B%A0%E3%81%A8%E7%B5%90%E6%9E%9C%E3%80%8D%E3%81%AE%E7%B5%8C%E6%B8%88%E5%AD%A6%E2%80%95%E2%80%95%E2%80%95%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%9C%9F%E5%AE%9F%E3%82%92%E8%A6%8B%E6%8A%9C%E3%81%8F%E6%80%9D%E8%80%83%E6%B3%95-%E4%B8%AD%E5%AE%A4%E7%89%A7%E5%AD%90/dp/447803947X)。本书可以用来开设*因果推断101*课程。我同样制作了[Slides](https://nbviewer.org/format/slides/github/socrateslab/causal101/blob/main/causal101.ipynb#/)和[Jupyter Notebook](https://nbviewer.org/github/socrateslab/causal101/blob/main/causal101.ipynb). 
+### 因果推断
+1. 我读完了[「原因と結果」の経済学―――データから真実を見抜く思考法](https://www.amazon.co.jp/%E3%80%8C%E5%8E%9F%E5%9B%A0%E3%81%A8%E7%B5%90%E6%9E%9C%E3%80%8D%E3%81%AE%E7%B5%8C%E6%B8%88%E5%AD%A6%E2%80%95%E2%80%95%E2%80%95%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%9C%9F%E5%AE%9F%E3%82%92%E8%A6%8B%E6%8A%9C%E3%81%8F%E6%80%9D%E8%80%83%E6%B3%95-%E4%B8%AD%E5%AE%A4%E7%89%A7%E5%AD%90/dp/447803947X)。本书可以用来开设*因果推断101*课程。我同样制作了[Slides](https://nbviewer.org/format/slides/github/socrateslab/causal101/blob/main/causal101.ipynb#/)和[Jupyter Notebook](https://nbviewer.org/github/socrateslab/causal101/blob/main/causal101.ipynb). 
+2. 我非常推荐[**Causal Inference for The Brave and True**](https://matheusfacure.github.io/python-causality-handbook/landing-page.html).
+
 
 ## 课程讲义
 
