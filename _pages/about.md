@@ -41,13 +41,11 @@ redirect_from:
 ## 苏格拉底学园
  
 1. **群体动力学播客**已经[上线了!](https://www.ximalaya.com/album/69292192) 
-2. 我正在组织一个名为 “计算传播学”的[豆瓣小组](https://www.douban.com/group/webmining/).
-3. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)上线了！
+2. 我正在组织一个名为 “计算传播学”的[豆瓣小组](https://www.douban.com/group/webmining/)，如果你想要看到我平时在鼓捣什么东西，可以看这里。
+3. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)上线了！这里有我和苏格拉底实验室成员以及其他学生正在阅读的文献，欢迎关注。
 4. [**计算传播学讲义**](https://chengjun.github.io/mybook/) 网络版上线! 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8"></script>
-
-
 
   
 <br>
