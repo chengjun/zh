@@ -89,17 +89,18 @@ redirect_from:
 16. 卢林艳, 李媛媛, 卢功靖, 刘熠, **王成军** * (2021) [社交机器人驱动的计算宣传：社交机器人识别及其行为特征分析](http://dx.doi.org/10.16196/j.cnki.issn.1673-4793.2021.02.004). 中国传媒大学学报（自然科学版).28 (02):34-43+53. [Data & Code](https://github.com/socrateslab/cbjs).
 17. **王成军**，党明辉，杜骏飞 (2019) [找回失落的参考群体:对沉默的螺旋理论的边界条件的考察](http://mall.cnki.net/magazine/Article/XWDX201904005.htm). 新闻大学. 156:13-29. （入选人大复印资料新闻与传播2019年第8期）[Data & Code](https://github.com/socrateslab/sos), [ Netlogo Web](https://socrateslab.github.io/sos/index.html).
 18. **王成军** (2017).[计算社会科学视野下的新闻学研究：挑战与机遇](http://kns.cnki.net/kcms/detail/detail.aspx?filename=XWDX201704006&dbcode=CJFQ). 新闻大学. 4:26-32. （入选人大复印资料新闻与传播2017年第10期）
-19. 杜骏飞, 曲飞帆, **王成军**（2016）[2015年中国新闻传播学论著评析](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDPREP&filename=YANJ201612007). 新闻与传播研究.12:108-119.
-20. 张晓雨,**王成军** *(2016)[数据可视化报道在数据新闻中的实践——以《卫报》和财新网为例](http://zwcy.cbpt.cnki.net/WKD/WebPublication/paperDigest.aspx?paperID=3d061ce4-e195-4428-8707-33d8a622115e).中国网络传播研究.(01):283-308.
-21. 陈志聪,秦强,**王成军** *(2016)[作为社会动员过程的互联网众筹公益——以腾讯乐捐为例](http://zwcy.cbpt.cnki.net/WKD/WebPublication/paperDigest.aspx?paperID=056e5263-bc9e-4c6a-a1e8-bb35a80bd5bd).中国网络传播研究.(01):173-190.
-22. 王成军 (2016) [大数据计算与《纸牌屋》生成](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=SJXW201605024). 传媒评论. 5:63-66.
-23. 王成军 (2016) [计算传播学的起源、概念与应用](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=BJXZ201603016). 编辑学刊. 3:59-64.
-24. 王成军（2015）[计算传播学: 作为计算社会科学的传播学](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CFJD&dbname=CJFDLASN2015&filename=ZWCY201400013).中国网络传播研究. 8:193-208.
-25. 王成军（2015）[“今日头条”的技术逻辑: 网络爬虫+矩阵筛选](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=SJXW201510017).传媒评论.10:34-37.
-26. 祝建华,彭泰权,梁海,**王成军**,秦洁,陈鹤鑫 (2014) [计算社会科学在新闻传播研究中的应用](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2014&filename=KYXH201402001). 科研信息化技术与应用. 5 (2), 3-13
-27. **王成军**,刘德寰,杨旭 (2011) 从自我实现到群体互动——“人肉搜索”的动机、态度和行为研究,中国传媒报告.10(02):63-73.
-28. **王成军**,刘德寰 (2011) 移動的時尚: 追求時尚與手機互聯網的使用，香港《传媒透视》. (07):12-15.
-29. **王成军**,张昕之 (2011) “众说纷纭”抑或“一言九鼎”？——以卡扎菲官邸攻陷事件在新浪微博上的信息扩散为例，香港《传媒透视》. (09):12-13.
+19. 任昌辉，巢乃鹏，李永刚，袁光锋，王成军，郭小安，褚建勋 （2017）中国网络内容监管与治理研究:图景与展望. 中国网络传播研究. 2:145-164.
+20. 杜骏飞, 曲飞帆, **王成军**（2016）[2015年中国新闻传播学论著评析](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDPREP&filename=YANJ201612007). 新闻与传播研究.12:108-119.
+21. 张晓雨,**王成军** *(2016)[数据可视化报道在数据新闻中的实践——以《卫报》和财新网为例](http://zwcy.cbpt.cnki.net/WKD/WebPublication/paperDigest.aspx?paperID=3d061ce4-e195-4428-8707-33d8a622115e).中国网络传播研究.(01):283-308.
+22. 陈志聪,秦强,**王成军** *(2016)[作为社会动员过程的互联网众筹公益——以腾讯乐捐为例](http://zwcy.cbpt.cnki.net/WKD/WebPublication/paperDigest.aspx?paperID=056e5263-bc9e-4c6a-a1e8-bb35a80bd5bd).中国网络传播研究.(01):173-190.
+23. 王成军 (2016) [大数据计算与《纸牌屋》生成](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=SJXW201605024). 传媒评论. 5:63-66.
+24. 王成军 (2016) [计算传播学的起源、概念与应用](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2016&filename=BJXZ201603016). 编辑学刊. 3:59-64.
+25. 王成军（2015）[计算传播学: 作为计算社会科学的传播学](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CFJD&dbname=CJFDLASN2015&filename=ZWCY201400013).中国网络传播研究. 8:193-208.
+26. 王成军（2015）[“今日头条”的技术逻辑: 网络爬虫+矩阵筛选](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2015&filename=SJXW201510017).传媒评论.10:34-37.
+27. 祝建华,彭泰权,梁海,**王成军**,秦洁,陈鹤鑫 (2014) [计算社会科学在新闻传播研究中的应用](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2014&filename=KYXH201402001). 科研信息化技术与应用. 5 (2), 3-13
+28. **王成军**,刘德寰,杨旭 (2011) 从自我实现到群体互动——“人肉搜索”的动机、态度和行为研究,中国传媒报告.10(02):63-73.
+29. **王成军**,刘德寰 (2011) 移動的時尚: 追求時尚與手機互聯網的使用，香港《传媒透视》. (07):12-15.
+30. **王成军**,张昕之 (2011) “众说纷纭”抑或“一言九鼎”？——以卡扎菲官邸攻陷事件在新浪微博上的信息扩散为例，香港《传媒透视》. (09):12-13.
 
 # 图书、章节和翻译
 
