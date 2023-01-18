@@ -9,7 +9,6 @@ author_profile: true
 1. **Cheng-Jun Wang**, Lihan Yan, Haochuan Cui * (2022). Unpacking the Essential Tension of Knowledge Recombination: Analyzing the Impact of Knowledge Spanning on Citation Counts and Disruptive Innovation. In Submission. 
 2. Xinzhi Zhang, Zepeng Gou, Youqing Wu, Cheng-Jun Wang * (2022) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. In Submission.
 3. Haochuan Cui, Tiewei Li *, **Cheng-Jun Wang** * (2022). Moving Up the Ladder of Abstraction: How to Span the Boundaries of Knowledge Space in the Online Knowledge Market?. Under Review.
-4. 卢林艳、李玉端、王成军 * (2022) 人工智能时代媒体行业的技能与未来就业：基于机器学习和网络分析. In Press. 新闻大学.
 
 # 研究进展
 
