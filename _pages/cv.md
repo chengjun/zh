@@ -80,7 +80,7 @@ redirect_from:
 8. **Wang C.J.**, Wu L. *(2016) The Scaling of Attention Networks. Physica A: Statistical Mechanics and its Applications. 448:196–204, [doi: 10.1016/j.physa.2015.12.081](http://dx.doi.org/10.1016/j.physa.2015.12.081)
 9. Chandra Y. *, Jiang, C.L., **Wang C.J.** (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE. 11(3):e0151342, [doi: 10.1371/journal.pone.0151342](http://dx.doi.org/10.1371/journal.pone.0151342)
 10. **Wang C.J.** *, Wang P.P., Zhu J.J.H. (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking. 16(9): 679-685. [doi:10.1089/cyber.2012.0409](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409). [SSCI, Ranking 4/72 in Communication by 5-year IF].
-11. 卢林艳、李玉端、**王成军** * (2023) 人工智能时代媒体行业的技能与未来就业：基于机器学习和网络分析的方法. 新闻大学. 201(1):106-122.
+11. 卢林艳、李玉端、**王成军** * (2023) 人工智能时代媒体行业的技能与未来就业：基于机器学习和网络分析的方法. 新闻大学. 201(1):106-122. [数据&代码](https://github.com/socrateslab/future-employment).
 12. 陈志聪、周钰、巢乃鹏、 **王成军** * (2022)社会加速与传播游戏之间的张力：移动阅读的碎片化、多样性与持续性.《新闻与传播研究》.(10)：17-33.
 13. 苟泽鹏,董 悦,闫一帆, **王成军** * (2021) [数据科学的浪潮：计算社会科学研究综述](https://dx.doi.org/10.19946/j.issn.1006-2815.2021.02.002). 科学经济社会. 39(163):1-16. 
 14. 王成军 * (2021) 寻找公众注意力爆发的起源：以YouTube视频扩散为例. 东岳论丛. 320（02):142-153.
