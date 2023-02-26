@@ -207,18 +207,20 @@ My professional affiliations include:
 
 
 # 获奖
-1. 2022年度“南京大学育教融合奖” (2022年10月）
-2. 2021年计算传播学年会优秀论文三等奖（2021年7月）
-3. Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)
-4. Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)
-5. Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)
-6. Outstanding Academic Performance Award for Research Degree Students (OAPA, Aug, 2012)
-7. Travel Grant from Interpersonal Communication Division of ICA 2012 (May, 2012)
-8. Top 3 Conference Paper Award of 2nd Honours Symposium for Asian Ph.D Students in Communication Research, Singapore (Nov, 2011)
-9. Outstanding Paper Award of 11th China Communication conference (Jun, 2010)
-10. P & G Award of China Market Research (Nov, 2009)
-11. Outstanding Paper Award of People.com (Oct, 2009)
-12. Top Award of the Challenge Cup of Peking University (Jun, 2009)
+1. 江苏省委宣传部与南京大学部校共建新闻传播学院“紫金学者奖励计划”（2021-2022）
+2. 2022年度“南京大学育教融合奖” (2022）
+2. 中国新闻史学会计算传播学研究委员会年会优秀论文三等奖（2021）
+3. 《计算传播学导论》获得辽宁省优秀教材（高等教育类）（2020）
+4. Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)
+5. Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)
+6. Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)
+7. Outstanding Academic Performance Award for Research Degree Students (OAPA, Aug, 2012)
+8. Travel Grant from Interpersonal Communication Division of ICA 2012 (May, 2012)
+9. Top 3 Conference Paper Award of 2nd Honours Symposium for Asian Ph.D Students in Communication Research, Singapore (Nov, 2011)
+10. Outstanding Paper Award of 11th China Communication conference (Jun, 2010)
+11. P & G Award of China Market Research (Nov, 2009)
+12. Outstanding Paper Award of People.com (Oct, 2009)
+13. Top Award of the Challenge Cup of Peking University (Jun, 2009)
 
 # 软件
 1. [flownetwork](https://pypi.python.org/pypi/flownetwork), a Python package for flow network analysis.
