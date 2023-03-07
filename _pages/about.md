@@ -44,7 +44,7 @@ redirect_from:
 2. 我正在组织一个名为 “计算传播学”的[豆瓣小组](https://www.douban.com/group/webmining/)，如果你想要看到我平时在鼓捣什么东西，可以看这里。
 3. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)上线了！这里有我和苏格拉底实验室成员以及其他学生正在阅读的文献，欢迎关注。
 4. [**计算传播学讲义**](https://chengjun.github.io/mybook/) 网络版上线! 
-5. 欢迎来玩我使用[Microsoft MakeCode Arcade](https://arcade.makecode.com/)制作的[飞车游戏](https://chengjun.github.io/racer-makecode/)。游戏比较简单，只能只用A、B两个按钮操作。
+5. 欢迎来玩我使用[Microsoft MakeCode Arcade](https://arcade.makecode.com/)制作的[飞车游戏](https://chengjun.github.io/racer-makecode/)。使用A、B两个按钮操作。
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8"></script>
 
