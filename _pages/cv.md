@@ -210,7 +210,7 @@ My professional affiliations include:
 1. 江苏省委宣传部与南京大学部校共建新闻传播学院“紫金学者奖励计划”（2021-2022）
 2. 2022年度“南京大学育教融合奖” (2022）
 2. 中国新闻史学会计算传播学研究委员会年会优秀论文三等奖（2021）
-3. 《计算传播学导论》获得辽宁省优秀教材（高等教育类）（2020）
+3. 《社交网络上的计算传播学》获得辽宁省优秀教材（高等教育类）（2020）
 4. Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)
 5. Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)
 6. Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)
