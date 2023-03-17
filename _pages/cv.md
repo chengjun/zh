@@ -165,7 +165,7 @@ redirect_from:
 - Ph.D Course [Computational Communication Research Workshop](https://github.com/socrateslab/workshop/) (2020-Now)
 - Master Course [Big Data Mining and Analysis](https://github.com/chengjun/mybook/discussions) (2018-Now)
 - Undergraduate Course [Computational Social Science](https://github.com/SocratesAcademy/css/) (2020-Now)
-- Undergraduate Course [Data Journalism](https://github.com/data-journalism/data-journalism.github.io/discussions) (2015-Now)
+- Undergraduate Course [Data Journalism](https://github.com/data-journalism/data-journalism.github.io/discussions) (2015-2022)
 - Undergraduate Course [Python Programming Basics For Data Science](https://github.com/socratesacademy/datascience/) (2017-2019)
 - FDU Graduate Course [Introduction to Computational Communication](https://github.com/computational-class/cjc/) (2015-2021)
 - MOOC Course [Digital Marketing](https://www.icourse163.org/course/20201232-1462060162) (2020-Now)
