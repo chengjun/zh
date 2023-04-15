@@ -120,7 +120,7 @@ redirect_from:
 
 
 # 会议论文
-1. Yunjie Fei, Zhicong Chen, **Cheng-Jun Wang** (2013) Unleashing the Power of Narratives in News: The Impact of Wall Street Journal's Economic Narratives on the U.S. Subprime Crisis (2005-2009). The 9th International Conference on Computational Social Science (IC2S2 2023). July 17-20, 2023. Copenhagen, Denmark.
+1. Yunjie Fei, Zhicong Chen, **Cheng-Jun Wang** (2023) Unleashing the Power of Narratives in News: The Impact of Wall Street Journal's Economic Narratives on the U.S. Subprime Crisis (2005-2009). The 9th International Conference on Computational Social Science (IC2S2 2023). July 17-20, 2023. Copenhagen, Denmark.
 2. Yixiao Sun; Xue-Fei Yan; Yaotian Zhang; Zhicong Chen; **Cheng-Jun Wang** * (2023) From Imperialism to Cultural Imperialism: Localized Versus Globalized Advertisements of Imported Commodities in China (1932–1937). To be presented at the 73rd Annual International Communication Association Conference, Reclaiming Authenticity in Communication, 25-29 May 2023, Toronto, Ontario, Canada.
 3. Lihan Yan; Yiwei Ni; Xiangling Tan; Xinya Jiang; Zhicong Chen;**Cheng-Jun Wang** * (2023) The Narrative Gene of Collective Gatekeeping: Pandemic, Government Regularization, Economic Development, and the Publicness of Weibo Hot Search (2020-2021). To be presented at the 73rd Annual International Communication Association Conference, 25-29 May 2023, Toronto, Ontario, Canada. 
 4. Zepeng Gou; Youqin Wu; Xinzhi Zhang; **Cheng-Jun Wang** *  (2023)Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. To be presented at the 73rd Annual International Communication Association Conference, 25-29 May 2023, Toronto, Ontario, Canada.
