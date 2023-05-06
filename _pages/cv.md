@@ -64,7 +64,6 @@ redirect_from:
 7. Yuanyuan Li and Cheng-Jun Wang * (2022) Network Agenda setting and Risk Perception During a Major Public Health Emergency. In Writing the Chinese Version. 
 8. Yunjie Fei and Cheng-Jun Wang * (2022) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing the Chinese Version. 
 9. Yiwei Ni and Cheng-Jun Wang * (2022) Narrative Economics of Weibo Hot Search from 2019 to 2021. In Writing the Chinese Version. 
-10. Shunjie Zhang, Cheng-Jun Wang *, and Haiyan Zhou * (2022) The resurgence of class narratives: The production and reproduction of the “capitalist” discourse on the Chinese Internet. In preparation.
 
 # 期刊论文
  \* 表示通讯作者
