@@ -20,7 +20,7 @@ author_profile: true
 - 本科课程 [数据科学Python编程基础](https://github.com/socratesacademy/datascience/) (2017-2019)
 - 复旦大学硕士课程 [计算新闻传播学](https://github.com/computational-class/cjc/) (2015-2021)
 
-## 未来课程
+## 自我学习
 
 ### 学术写作
 
