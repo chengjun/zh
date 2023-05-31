@@ -68,7 +68,7 @@ redirect_from:
 
 # 期刊论文
  \* 表示通讯作者
-1. Haochuan Cui, Tiewei Li *, **Cheng-Jun Wang** * (2023). Moving Up the Ladder of Abstraction: How to Span the Boundaries of Knowledge Space in the Online Knowledge Market?. Accepted by Humanities and Social Sciences Communications. [DOI : 10.1057/s41599-023-01774-z](http://dx.doi.org/10.1057/s41599-023-01774-z). Data & Code: https://osf.io/epqtx/
+1. Haochuan Cui, Tiewei Li *, **Cheng-Jun Wang** * (2023). Moving Up the Ladder of Abstraction: How to Span the Boundaries of Knowledge Space in the Online Knowledge Market?. Accepted by Humanities and Social Sciences Communications. [DOI : 10.1057/s41599-023-01774-z](http://dx.doi.org/10.1057/s41599-023-01774-z). Data & Code: [https://osf.io/epqtx/](https://osf.io/epqtx/)
 2. Zhang Y., Feng M., Shang K.K. *, Ran Y., **Wang C.J.** * (2022) Peeking strategy for Online News Diffusion Prediction via Machine Learning. Physica A: Statistical Mechanics and its Applications.598:127357. [doi: 10.1016/j.physa.2022.127357](http://dx.doi.org/10.1016/j.physa.2022.127357).
 3. **Wang C.J.** * , Zhu, J.J.H.(2021) Jumping over the Network Threshold of Information Diffusion: Testing the Threshold Hypothesis of Social Influence. [Internet Research](https://www.emerald.com/insight/content/doi/10.1108/INTR-08-2019-0313/full/html). 31(5):1677-1694 [doi:10.1108/INTR-08-2019-0313](https://doi.org/10.1108/INTR-08-2019-0313)
 4. Yan X.F., **Wang C.J.** * (2021) With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs' Public Participation on Sina Weibo. Chinese Journal of Communication. 14(4):430-450. [doi:10.1080/17544750.2021.1915833](https://doi.org/10.1080/17544750.2021.1915833)
