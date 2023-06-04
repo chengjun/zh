@@ -48,8 +48,8 @@ author_profile: true
 
 <br>
 
-![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
 
+<img width="964" alt="image" src="https://github.com/chengjun/zh/assets/543384/6efa85e2-8413-44fe-915b-0b0045c3960f">
 
 ✏️ [Edit this page](https://github.com/{{site.repository}}edit/gh-pages/_pages/publications.md)
 
