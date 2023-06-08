@@ -155,8 +155,10 @@ redirect_from:
 
 # 主旨演讲
 
-1. Wang, C.J. (2022) Computational Narrative. The 2nd Workshop on Computatinal Methods in Social Sciences & ICA Reginal Hubs. May 28, 2022. Hefei, China. 
-1. Wang, C.J. (2021) Information Diffusion, Attention Flow, and Computational Narrative: Reflection on the Logic of Computational Social Science. The 1st Workshop on Computatinal Methods in Social Sciences & ICA Reginal Hubs. May 29, 2021. Hefei, China. 
+1. Wang, C.J. (2023) Spanning the Boundaries of Knowledge Space. The 3rd Workshop on Computatinal Methods in Social Sciences & ICA Reginal Hubs. May 27, 2022. Hefei, China.
+2. Wang, C.J. (2022) Computational Narrative. The 2nd Workshop on Computatinal Methods in Social Sciences & ICA Reginal Hubs. May 28, 2022. Hefei, China. 
+3. Wang, C.J. (2021) Information Diffusion, Attention Flow, and Computational Narrative: Reflection on the Logic of Computational Social Science. The 1st Workshop on Computatinal Methods in Social Sciences & ICA Reginal Hubs. May 29, 2021. Hefei, China. 
+4. Wang, C.J. (2021) Information Diffusion, Attention Flow, and Computational Narrative: Reflection on the Logic of Computational Social Science. The Annual Conference of Computational Communication Research. 2021. Xi'An, China. 
 
 # 工作坊
 1. Wang, C.J.(2014) Web Data Analysis. City University of Hong Kong, Department of Media and Communication. The Web Mining Workshop. 4.22-4.25
