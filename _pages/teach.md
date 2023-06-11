@@ -13,6 +13,7 @@ author_profile: true
 - 硕士课程 [计算传播学导论](https://github.com/chengjun/mybook/discussions) (2018-现在)
 - 本科课程 [计算社会科学](https://github.com/SocratesAcademy/css/) (2020-现在)
 - 本科课程 [学术论文写作](https://github.com/SocratesAcademy/craft/) (2023-现在)
+- 暑期课程 [社会科学家的机器学习](https://github.com/computational-class/machine-learning) (2023)
 
 ### 慕课课程 
 - [数字营销](https://www.icourse163.org/course/20201232-1462060162) (2020-现在)
