@@ -54,6 +54,7 @@ redirect_from:
 4. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
 5. Bin Yang, Naipeng Chao, **Cheng-Jun Wang** * (2023) The Inequality of Engagement in Science Communication: The Spread of COVID-19-related Research on Twitter. In Submission.
 6. Qiaoqi Zhang,  **Cheng-Jun Wang** * (2023) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. In Submission.
+7. Yan Xue-Fei, Lu Linyan, CHEN Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
 
 
 # 研究进展
@@ -61,7 +62,6 @@ redirect_from:
 1. Cheng-Jun Wang * (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. Work in progress.
 3. Yaotian Zhang, Keke Shang, and Cheng-Jun Wang * (2022) The Impact of Category Spanning on Economic Revenue in the Digital Marketplace: Analyzing the NFT Trade Network. In the process of data analysis. 
 4. Shengchun Huang, Zhuo Chen *, Cheng-Jun Wang * (2022) Weaving Behavioral Cocoons in Modern Life: Understanding Social Acceleration with Word Embeddings. In Writing.
-6. Linyan Lu and Cheng-Jun Wang * (2022) From social acceleration to behavioral cocoon: The impact of digital media use on social acceleration, behavioral cocoon, and mental health. In Writing the Chinese Version. 
 7. Yuanyuan Li and Cheng-Jun Wang * (2022) Network Agenda setting and Risk Perception During a Major Public Health Emergency. In Writing the Chinese Version. 
 8. Yunjie Fei and Cheng-Jun Wang * (2023) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing. 
 9. Yiwei Ni and Cheng-Jun Wang * (2022) Narrative Economics of Weibo Hot Search from 2019 to 2021. In Writing the Chinese Version. 
