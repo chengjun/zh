@@ -54,7 +54,7 @@ redirect_from:
 4. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
 5. Bin Yang, Naipeng Chao, **Cheng-Jun Wang** * (2023) The Inequality of Engagement in Science Communication: The Spread of COVID-19-related Research on Twitter. In Submission.
 6. Qiaoqi Zhang,  **Cheng-Jun Wang** * (2023) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. In Submission.
-7. Yan Xue-Fei, Lu Linyan, CHEN Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
+7. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
 
 
 # 研究进展
