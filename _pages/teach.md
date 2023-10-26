@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+![image](https://github.com/chengjun/zh/assets/543384/8af15b94-e6af-4c7b-8ec2-8a13ce2e99cd)
+
+
 
 ## 开设课程
 - 博士课程 [计算传播研究工作坊](https://github.com/socrateslab/workshop/discussions) (2020-现在)
