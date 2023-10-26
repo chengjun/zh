@@ -8,25 +8,6 @@ author_profile: true
 ![image](https://github.com/chengjun/zh/assets/543384/4319634c-582e-4bf2-92b0-ea156e4f0828)
 
 
-# 工作论文
-
-1. Xinzhi Zhang, Zepeng Gou, Youqing Wu, **Cheng-Jun Wang** * (2023) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. In Submission.
-2. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
-5. Bin Yang, Naipeng Chao, **Cheng-Jun Wang** * (2023) The Inequality of Engagement in Science Communication: The Spread of COVID-19-related Research on Twitter. In Submission.
-6. Qiaoqi Zhang,  **Cheng-Jun Wang** * (2023) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. In Submission.
-7. Yan Xue-Fei, Lu Linyan, CHEN Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
-
-
-
-# 研究进展
-
-1. Cheng-Jun Wang * (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. Work in progress.
-3. Yaotian Zhang, Keke Shang, and Cheng-Jun Wang * (2022) The Impact of Category Spanning on Economic Revenue in the Digital Marketplace: Analyzing the NFT Trade Network. In the process of data analysis. 
-4. Shengchun Huang, Zhuo Chen *, Cheng-Jun Wang * (2022) Weaving Behavioral Cocoons in Modern Life: Understanding Social Acceleration with Word Embeddings. In Writing.
-7. Yuanyuan Li and Cheng-Jun Wang * (2022) Network Agenda setting and Risk Perception During a Major Public Health Emergency. In Writing the Chinese Version. 
-8. Yunjie Fei and Cheng-Jun Wang * (2022) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing the Chinese Version. 
-9. Yiwei Ni and Cheng-Jun Wang * (2022) Narrative Economics of Weibo Hot Search from 2019 to 2021. In Writing the Chinese Version. 
-
 # 图书项目
 
 <img src="https://user-images.githubusercontent.com/543384/195964017-43b9085d-2f13-4f89-9025-61faa1717c70.png" align = "middle" width = "300px">
