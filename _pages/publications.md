@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "研究脉络"
 permalink: /publications/
 author_profile: true
 ---
