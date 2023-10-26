@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![image](https://github.com/chengjun/zh/assets/543384/3278a1dd-025c-42bb-958f-8df6830da52d)
+![image](https://github.com/chengjun/zh/assets/543384/bda67b7c-d081-4d74-b3a7-aaf3fd14b963)
 
 
 1. 数字媒体时代中国故事和中国声音的计算叙事研究，**国家社会科学基金一般项目**（项目编号 22BXW032，20万元），2022/10-2025/12，主持
