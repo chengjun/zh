@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-![image](https://github.com/chengjun/zh/assets/543384/56e00c04-d23a-409e-91b7-ee3f4cb75764)
 
 
 ![image](https://github.com/chengjun/zh/assets/543384/4319634c-582e-4bf2-92b0-ea156e4f0828)
@@ -20,18 +19,8 @@ author_profile: true
 - 计传岛微信公众号推文[《岛友说 王成军：人工智能时代的计算叙事研究》](https://mp.weixin.qq.com/s/YRXD0TQVJKyNeYN9rbUpmg)
 
 
+![image](https://github.com/chengjun/zh/assets/543384/56e00c04-d23a-409e-91b7-ee3f4cb75764)
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-<!--
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
 
 
 <br>
