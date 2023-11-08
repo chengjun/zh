@@ -69,7 +69,7 @@ redirect_from:
 
 ‡ 表示共同一作
 
-1. Bin Yang, Naipeng Chao *, **Cheng-Jun Wang** * (2023) A Solid Camp with Flowing Soldiers: Heterogeneous Public Engagement with Science Communication on Twitter. Humanities and Social Sciences Communications. Accept. Simulation Code: [https://osf.io/8p5am/](https://osf.io/8p5am/)
+1. Bin Yang, Naipeng Chao *, **Cheng-Jun Wang** * (2023) A Solid Camp with Flowing Soldiers: Heterogeneous Public Engagement with Science Communication on Twitter. Humanities and Social Sciences Communications. [doi: 10.1057/s41599-023-02331-4](https://doi.org/10.1057/s41599-023-02331-4). Simulation Code: [https://osf.io/8p5am/](https://osf.io/8p5am/)
 2. **Wang C.J.**, Yan L. ‡, Cui H * (2023). Unpacking the Essential Tension of Knowledge Recombination: Analyzing the Impact of Knowledge Spanning on Citation Counts and Disruptive Innovation. Journal of Informetrics. 17(4):101451.  [doi: 10.1016/j.joi.2023.101451](https://doi.org/10.1016/j.joi.2023.101451)
 3. Cui H., Li T.*, **Wang C.J.** * (2023). Climbing Up the Ladder of Abstraction: How to Span the Boundaries of Knowledge Space in the Online Knowledge Market?. Humanities and Social Sciences Communications. 10:351 [doi : 10.1057/s41599-023-01774-z](http://dx.doi.org/10.1057/s41599-023-01774-z). Data & Code: [https://osf.io/epqtx/](https://osf.io/epqtx/)
 4. Zhang Y., Feng M., Shang K.K. *, Ran Y., **Wang C.J.** * (2022) Peeking strategy for Online News Diffusion Prediction via Machine Learning. Physica A: Statistical Mechanics and its Applications.598:127357. [doi: 10.1016/j.physa.2022.127357](http://dx.doi.org/10.1016/j.physa.2022.127357)
