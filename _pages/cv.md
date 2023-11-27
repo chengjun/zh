@@ -213,8 +213,10 @@ My professional affiliations include:
 2. **International Conference of Computational Social Science (IC2S2)**
    - I served as a *Programme Commitee* member
 4. 中国新闻史学会计算传播学专业委员会（CCRA）
-   - I served as the Secretary General of CCRA from 2018 to 2020. 
-5. [SocialMeta2023](https://socialmeta2023.github.io/)
+   - 秘书长(2018-2020)
+5. 中国信息学会社交媒体处理专业委员会（SMP)
+   - 委员
+6. [SocialMeta2023](https://socialmeta2023.github.io/)
    - I served as a *Programme Commitee* member 
 
 
