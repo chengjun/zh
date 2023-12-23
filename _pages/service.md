@@ -50,6 +50,15 @@ author_profile: true
 
 ![image](https://user-images.githubusercontent.com/543384/147380016-da65a625-6480-47f4-8e27-5034d696f553.png)
 
+## 计算传播学园微信公众号
+
+![image](https://github.com/chengjun/zh/assets/543384/a3b2a406-2103-4e1e-b7e5-9c82a7461b0d)
+
+『柏拉图说』是由南京大学计算传播学实验中心的成员们于2022年4月发起的论文精读与推介活动，我们将定期推送新闻传播学TOP期刊最新内容、新闻传播学前沿及相关量化研究方法论文。我们致力于深耕传播学领域，紧跟专业研究热点，延伸学术视角，拓展群体智慧。
+
+![image](https://github.com/chengjun/zh/assets/543384/f9956b7b-dc4c-4707-a1a6-7894bec6b62f)
+
+
 ##  苏格拉底学园
 
 ![image](https://user-images.githubusercontent.com/543384/192223631-4a53ccfa-3652-4e88-bb7a-74ba51b35171.png)
