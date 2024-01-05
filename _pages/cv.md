@@ -86,7 +86,7 @@ redirect_from:
 16. Chandra Y. *, Jiang, C.L., **Wang C.J.** (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE. 11(3):e0151342, [doi: 10.1371/journal.pone.0151342](http://dx.doi.org/10.1371/journal.pone.0151342)
 17. **Wang C.J.** *, Wang P.P., Zhu J.J.H. (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking. 16(9): 679-685. [doi:10.1089/cyber.2012.0409](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409). [SSCI, Ranking 4/72 in Communication by 5-year IF].
 18. 李媛媛, 闫丽涵, 姜新雅, 任磊, **王成军** * (2023) 应急科普中的多元行动者:使用微博数据分析应急科普主体间的议程设置. 中国网络传播研究. 23:183-214. 
-19. 卢林艳, 李玉端, **王成军** * (2023) 人工智能时代媒体行业的技能与未来就业：基于机器学习和网络分析的方法. 新闻大学. 201(1):106-122. [数据&代码](https://github.com/socrateslab/future-employment).
+19. 卢林艳, 李玉端, **王成军** * (2023) 人工智能对媒体行业技能与未来就业的影响——基于机器学习和网络分析的方法. 新闻大学. 201(1):106-122, [doi: 10.20050/j.cnki.xwdx.2023.01.009](	http://dx.doi.org/10.20050/j.cnki.xwdx.2023.01.009). [数据&代码](https://github.com/socrateslab/future-employment).
 20. 陈志聪, 周钰, 巢乃鹏, **王成军** * (2022)社会加速与传播游戏之间的张力：移动阅读的碎片化、多样性与持续性.《新闻与传播研究》.(10)：17-33.
 21. 苟泽鹏, 董 悦, 闫一帆, **王成军** * (2021) [数据科学的浪潮：计算社会科学研究综述](https://dx.doi.org/10.19946/j.issn.1006-2815.2021.02.002). 科学经济社会. 39(163):1-16. 
 22. 王成军 * (2021) 寻找公众注意力爆发的起源：以YouTube视频扩散为例. 东岳论丛. 320（02):142-153.
