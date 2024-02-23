@@ -3,6 +3,7 @@ layout: archive
 title: "学术简历"
 permalink: /cv/
 author_profile: true
+toc: true
 redirect_from:
   - /resume
 ---
