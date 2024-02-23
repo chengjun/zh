@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: archive
 title: "学术简历"
 permalink: /cv/
 author_profile: true
