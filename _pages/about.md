@@ -3,7 +3,7 @@ permalink: /
 title: ""
 layout: single
 header:
-  overlay_image: image-alignment-1200x4002.jpg
+  overlay_image: socrates.png
 excerpt: ""
 author_profile: true
 redirect_from: 
