@@ -3,7 +3,7 @@ permalink: /
 title: ""
 layout: single
 header:
-  overlay_image: socrates.png
+  overlay_image: Socrate_congeda_la_propria_famiglia.jpeg
 excerpt: ""
 author_profile: true
 redirect_from: 
