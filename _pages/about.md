@@ -3,8 +3,6 @@ permalink: /
 title: ""
 layout: single
 header:
-  overlay_color: "FEFBF6"
-  overlay_filter: "0.1"
   overlay_image: /images/image-alignment-1200x4002.jpg
 excerpt: ""
 author_profile: true
