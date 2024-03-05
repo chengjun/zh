@@ -16,6 +16,8 @@ redirect_from:
 
 <!--<img src="https://user-images.githubusercontent.com/543384/196112048-b50d92cb-2c4c-4999-b851-ef9d0805a141.png" align = "middle" width = "500px">-->
 
+![socratesgif](https://chengjun.github.io/img/tt.gif)
+
 ## 新书出版
 
 专著[《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/)于2022年7月在科学出版社正式出版！
