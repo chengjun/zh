@@ -27,7 +27,7 @@ redirect_from:
 
 <br>
 
-- 本书获评中国新闻史学会2023年“新闻传播学学术精品”推介计划优秀作品
+- 本书获评中国新闻史学会“新闻传播学学术精品”推介计划优秀作品（2023）、第五届青年新媒体学术研究“启皓奖”卓越学术奖（2024）
 - 观点+访谈｜王成军：跨越网络的门槛——社交媒体上的信息扩散 [链接🔗](https://chengjun.github.io/zh/posts/2022/09/threshold-book/)
 - 后记：站在沙堆旁边的人 [链接🔗](https://book.douban.com/review/14549470/)
 - Github代码仓库 [链接🔗](https://github.com/chengjun/thresholdbook)
