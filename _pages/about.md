@@ -16,7 +16,8 @@ redirect_from:
 
 <!--<img src="https://user-images.githubusercontent.com/543384/196112048-b50d92cb-2c4c-4999-b851-ef9d0805a141.png" align = "middle" width = "500px">-->
 
-![socratesgif](https://chengjun.github.io/img/tt.gif)
+<img src="https://chengjun.github.io/img/tt.gif" align = "middle" width = "800px">
+
 
 ## 新书出版
 
