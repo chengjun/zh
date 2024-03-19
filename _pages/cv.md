@@ -15,28 +15,28 @@ redirect_from:
 此外，他领导了一个名为[苏格拉底实验室](https://chengjun.github.io/socrateslab/)的小团队，成员包括博士生、硕士生和本科生。他致力于采用计算社会科学视角研究人类传播行为，包括信息扩散、注意力流动和计算叙事。著作《跨越网络的门槛：社交媒体上的信息扩散》（2022）；合著《计算传播学导论》(2018)、《社交网络上的计算传播学》(2015)。
 
 
-# 联系信息
+## 联系信息
 - 南京大学新闻传播学院，计算传播学实验中心
 - 中国江苏省南京市栖霞区仙林大道163号，南京大学（仙林校区）紫金楼307 (邮编210023).
 - 邮箱: wangchj04 at 126.com
 - 网站: [https://chengjunwang.com/](https://chengjunwang.com/)
 - ORCID: [0000-0002-9507-2888](http://orcid.org/0000-0002-9507-2888)
 
-# 教育经历
+## 教育经历
 
 - 2010/09-2014/10，香港城市大学，媒体与传播系，博士
 - 2008/09-2010/06，北京大学，新闻与传播学院，硕士
 - 2004/09-2008/06，兰州大学，新闻与传播学院，学士
 - 2012/02-2012/06，学术访问, 澳大利亚国立大学，人口与社会研究中心
   
-# 职业经历
+## 职业经历
 
 - 2017/12-现在，南京大学，新闻传播学院，副教授
 - 2014/11-2017/12，南京大学，新闻传播学院，助理研究员
 - 2010/09-现在，香港城市大学媒体与传播系,互联网挖掘实验室, 研究员
 - 2014/03-2014/09, 腾讯公司，知识发现小组，实习
 
-# 研究项目
+## 研究项目
 
 1. 数字媒体时代中国故事和中国声音的计算叙事研究，国家社会科学基金一般项目（项目编号 22BXW032，20万元），2022/10-2025/12，主持
 2. **人工智能时代的计算叙事研究**，南京大学新时代文科卓越研究计划“中长期研究专项”（项目编号 14914211），2022/01-2024/12，主持
@@ -49,14 +49,14 @@ redirect_from:
 
 
 
-# 工作论文
+## 工作论文
 1. Xinzhi Zhang, Zepeng Gou, Youqing Wu, **Cheng-Jun Wang** * (2023) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. In Submission.
 2. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
 4. Qiaoqi Zhang,  **Cheng-Jun Wang** * (2023) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. In Submission.
 5. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
 
 
-# 研究进展
+## 研究进展
 
 1. Cheng-Jun Wang * (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. Work in progress.
 3. Yaotian Zhang, Keke Shang, and Cheng-Jun Wang * (2022) The Impact of Category Spanning on Economic Revenue in the Digital Marketplace: Analyzing the NFT Trade Network. In the process of data analysis. 
@@ -64,7 +64,7 @@ redirect_from:
 8. Yunjie Fei and Cheng-Jun Wang * (2023) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing. 
 9. Yiwei Ni and Cheng-Jun Wang * (2022) Narrative Economics of Weibo Hot Search from 2019 to 2021. In Writing the Chinese Version. 
 
-# 期刊论文
+## 期刊论文
 \* 表示通讯作者
 
 ‡ 表示共同一作
@@ -109,24 +109,24 @@ redirect_from:
 38. **王成军**,刘德寰 (2011) 移動的時尚: 追求時尚與手機互聯網的使用，香港《传媒透视》. (07):12-15.
 39. **王成军**,张昕之 (2011) “众说纷纭”抑或“一言九鼎”？——以卡扎菲官邸攻陷事件在新浪微博上的信息扩散为例，香港《传媒透视》. (09):12-13.
 
-# 图书、章节和翻译
+## 图书、章节和翻译
 
-## 图书
+### 图书
 1. 王成军（2022）[《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/). 北京：科学出版社. [Github Repository](https://github.com/chengjun/thresholdbook) & [References](https://www.zotero.org/wangchj2020/collections/AEYS2R5X).
 2. 王成军 (2019) [《计算传播学讲义》](https://chengjun.github.io/mybook/). Jupyter Book. 
 3. 张伦、王成军、许小可（2018）[《计算传播学导论》](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社.
 4. 许小可、胡海波、张伦、王成军 （2015）《社交网络上的计算传播学》. 北京：高等教育出版社.
 
-## 章节
+### 章节
 1. 王成军 (2022) [沉默的螺旋：多主体模型](https://github.com/socrateslab/sos).周葆华（编）《大数据时代的计算舆论学：理论、方法与案例》.上海：复旦大学出版社. pp. 384-417.
 2. 張倫、彭泰權、**王成軍**、梁海、祝建華 (2021) [從邊陲到主流的自然路徑：華人計算傳播學者的參與和體驗](https://computational-communication.com/blog/2021/11/01/ccr-history/). 《中華傳播研究的傳承與創新》.李立峯、黃煜(主編).香港：香港中文大学出版社.pp. 399-419.
 3. 王成军、吴令飞 (2017) 空间约束的人类行为. 胡泳、王俊秀（编）《连接之后: 公共空间重建与权力再分配》.北京:人民邮电出版社. pp. 262-271.
 
-## 翻译
+### 翻译
 1. 王薇、王成军、王颖、刘璟 （翻译）(2013). 《社会网络分析：方法与实践》. 北京：机械工业出版社. [Translation of the book Social Network Analysis for Startups: Finding connections on the Social Web., by Maksim Tsvetovat & Alexander Kouznetsov. (2011). O’Reilly Media]
 
 
-# 会议论文
+## 会议论文
 1. Fan, H., Yan, L., & **Wang, C. J.** * (2024). Moral Foundations of Hate Speech: Evidence from the Tweets of Russo-Ukrainian War. ICA 2024, Gold Coast, Australia.
 2. Chen Z., Meng X., **Wang, C. J.** * (2024). The Dark Web Privacy Dilemma: Talkativeness, Linguistic Diversity, and User Engagement on the Cryptomarket Forums. ICA 2024, Gold Coast, Australia.
 3. Yan X.F., Shi S. Wei W., & **Wang, C. J.** * (2024) Discussing Housing Price Increases May Leads to a Decrease: How Real Estate Narratives Influence Housing prices in China has been accepted for presentation. The 74th Annual Conference of the International Communication Association (ICA), 20-24 June, 2024, Gold Coast, Australia.
@@ -164,20 +164,20 @@ redirect_from:
 35. Wang, C.J.(2011).The emergence of spiral of silence from individual behaviors: Agent-based modeling of the spiral of silence. The 64th Annual Conference of the World Association for Public Opinion Research (WAPOR), Amsterdam, The Netherlands, September 21-23.
 36. Wang, C.J.(2011).Surfing mobile Internet motivated by fashion attentiveness: An empirical study of China mobile Internet use. International Telecommunications Society Asia-Pacific Regional Conference (ITS), Taibei, Taiwan, June 26-29.
 
-# 主旨演讲
+## 主旨演讲
 
 1. Wang, C.J. (2023) Spanning the Boundaries of Knowledge Space. The 3rd Workshop on Computatinal Methods in Social Sciences & ICA Reginal Hubs. May 27, 2022. Hefei, China.
 2. Wang, C.J. (2022) Computational Narrative. The 2nd Workshop on Computatinal Methods in Social Sciences & ICA Reginal Hubs. May 28, 2022. Hefei, China. 
 3. Wang, C.J. (2021) Information Diffusion, Attention Flow, and Computational Narrative: Reflection on the Logic of Computational Social Science. The 1st Workshop on Computatinal Methods in Social Sciences & ICA Reginal Hubs. May 29, 2021. Hefei, China. 
 4. Wang, C.J. (2021) Information Diffusion, Attention Flow, and Computational Narrative: Reflection on the Logic of Computational Social Science. The Annual Conference of Computational Communication Research. 2021. Xi'An, China. 
 
-# 工作坊
+## 工作坊
 1. Wang, C.J.(2014) Web Data Analysis. City University of Hong Kong, Department of Media and Communication. The Web Mining Workshop. 4.22-4.25
 1. Wang, C.J.(2013) The Way to Computational Communication (通往计算传播学之路). Department of Journalism and Communication, Shenzhen University. Jan 4th.
 1. Wang, C.J.(2012) Jumping over Network Threshold: News Diffusion on News Sharing Website. The seminar of IR and Friends. Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia National University, Canberra. May 14.
 
 
-# 教学
+## 教学
 
 - Ph.D Course [Computational Communication Research Workshop](https://github.com/socrateslab/workshop/) (2020-Now)
 - Master Course [Big Data Mining and Analysis](https://github.com/chengjun/mybook/discussions) (2018-Now)
@@ -187,11 +187,11 @@ redirect_from:
 - FDU Graduate Course [Introduction to Computational Communication](https://github.com/computational-class/cjc/) (2015-2021)
 - MOOC Course [Digital Marketing](https://www.icourse163.org/course/20201232-1462060162) (2020-Now)
 
-# 培训
+## 培训
 - 2021年6月24日-6月25日，计算社会科学暑期学校（北京分会场）（Summer Institute in Computational Social Science in Beijing，SICSS2021-Beijing).
 - 2022年11月16日-12月24日，清华交叉学科研究能力提升计划“大数据与因果推断研讨班”。
 
-# 公共服务
+## 公共服务
 
 - I joined the Editorial Board of [Humanities & Social Sciences Communications](https://www.nature.com/palcomms/).
 - I worked as the editorial director for **Chinese Journal of Computer-Mediated Communication** (《中国网络传播研究》) (2020-Now).
@@ -226,7 +226,7 @@ My professional affiliations include:
    - I served as a *Programme Commitee* member 
 
 
-# 获奖
+## 获奖
 1.  第五届青年新媒体学术研究“启皓奖”卓越学术奖（2024）
 2. 《中国新闻传播学年鉴》年会2021-2022年度优秀青年学人（2024）
 3. 江苏省委宣传部与南京大学部校共建新闻传播学院“紫金学者奖励计划”（2021-2024）
@@ -248,7 +248,7 @@ My professional affiliations include:
 19. Outstanding Paper Award of People.com (Oct, 2009)
 20. Top Award of the Challenge Cup of Peking University (Jun, 2009)
 
-# 软件
+## 软件
 1. [flownetwork](https://pypi.python.org/pypi/flownetwork), a Python package for flow network analysis.
 1. [iching](https://pypi.python.org/pypi/iching/), a Python package that employs the Achillea millefolium method to practise divination of I Ching (易经的蓍草卜卦方法).
 1. [networkdiffusion](https://github.com/chengjun/networkdiffusion), a R package which can help simulate and visualize the network diffusion.
