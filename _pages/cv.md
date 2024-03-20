@@ -49,7 +49,7 @@ redirect_from:
 
 
 ## 工作论文
-1. Yixiao Sun; Xue-Fei Yan; Yaotian Zhang; Jing Chen; Zhicong Chen; **Cheng-Jun Wang** * (2023) Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937). 2nd R&R.
+1. Yixiao Sun; Xue-Fei Yan; Yaotian Zhang; Jing Chen; Zhicong Chen; **Cheng-Jun Wang** * (2024) Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937). 2nd R&R.
 2. Xinzhi Zhang, Zepeng Gou, Youqing Wu, **Cheng-Jun Wang** * (2023) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. In Submission.
 3. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
 4. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
