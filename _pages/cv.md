@@ -10,6 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
+![image](https://github.com/chengjun/zh/assets/543384/fcf58706-420d-46b3-8243-3e350b8563ba)
+
+
 [南京大学新闻传播学院](https://jc.nju.edu.cn/)副教授、博士生导师，[计算传播学实验中心](https://computational-communication.com/)主任，紫金传媒智库高级研究员。
 此外，他领导了一个名为[苏格拉底实验室](https://chengjun.github.io/socrateslab/)的小团队，成员包括博士生、硕士生和本科生。他致力于采用计算社会科学视角研究人类传播行为，包括信息扩散、注意力流动和计算叙事。著作《跨越网络的门槛：社交媒体上的信息扩散》（2022）；合著《计算传播学导论》(2018)、《社交网络上的计算传播学》(2015)。
 
