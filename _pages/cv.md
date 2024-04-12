@@ -127,7 +127,7 @@ redirect_from:
 
 
 ## 会议论文
-1. Yan, L., Cui, H.,& **Wang, C. J.** * (2024) What patents are less likely to be granted? Perspective from patent examiner and disruptive innovation. Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE2024) and the 4th AI + Informetrics (AII2024) at the iConference2024, Changchun, China and Online. 
+1. Yan, L., Cui, H.,& **Wang, C. J.** * (2024) What patents are less likely to be granted? Perspective from patent examiner and disruptive innovation. Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE2024) and the 4th AI + Informetrics (AII2024) at the iConference2024, 23-24 April 2024, Changchun, China and Online. 
 2. Fan, H., Yan, L., & **Wang, C. J.** * (2024). Moral Foundations of Hate Speech: Evidence from the Tweets of Russo-Ukrainian War. ICA 2024, Gold Coast, Australia.
 3. Chen Z., Meng X., **Wang, C. J.** * (2024). The Dark Web Privacy Dilemma: Talkativeness, Linguistic Diversity, and User Engagement on the Cryptomarket Forums. ICA 2024, Gold Coast, Australia.
 4. Yan X.F., Shi S. Wei W., & **Wang, C. J.** * (2024) Discussing Housing Price Increases May Leads to a Decrease: How Real Estate Narratives Influence Housing prices in China has been accepted for presentation. The 74th Annual Conference of the International Communication Association (ICA), 20-24 June, 2024, Gold Coast, Australia.
