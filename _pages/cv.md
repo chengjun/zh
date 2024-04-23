@@ -228,26 +228,27 @@ My professional affiliations include:
 
 
 ## 获奖
-1.  第五届青年新媒体学术研究“启皓奖”卓越学术奖（2024）
-2. 《中国新闻传播学年鉴》年会2021-2022年度优秀青年学人（2024）
-3. 江苏省委宣传部与南京大学部校共建新闻传播学院“紫金学者奖励计划”（2021-2024）
-4. 《跨越网络的门槛》获评中国新闻史学会2023年“新闻传播学学术精品”推介计划优秀作品（2023）
-5. 2023年度南京大学“师德先进”青年教师奖（2023）
-6. 2022年度“南京大学育教融合奖” (2022）
-7. 指导本科生获得南京大学优秀毕业论文二等奖（2022）
-8. 中国新闻史学会计算传播学研究委员会年会优秀论文三等奖（2021）
-9. 江苏省第六届"互联网+"大学生创新创业大赛优秀指导教师奖（2020）
-10. 《社交网络上的计算传播学》获得辽宁省优秀教材（高等教育类）（2020）
-11. Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)
-12. Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)
-13. Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)
-14. Outstanding Academic Performance Award for Research Degree Students (OAPA, Aug, 2012)
-15. Travel Grant from Interpersonal Communication Division of ICA 2012 (May, 2012)
-16. Top 3 Conference Paper Award of 2nd Honours Symposium for Asian Ph.D Students in Communication Research, Singapore (Nov, 2011)
-17. Outstanding Paper Award of 11th China Communication conference (Jun, 2010)
-18. P & G Award of China Market Research (Nov, 2009)
-19. Outstanding Paper Award of People.com (Oct, 2009)
-20. Top Award of the Challenge Cup of Peking University (Jun, 2009)
+1. 中国人民大学新闻学院“明新青年访问学者”计划（2024）
+2. 第五届青年新媒体学术研究“启皓奖”卓越学术奖（2024）
+3. 《中国新闻传播学年鉴》年会2021-2022年度优秀青年学人（2024）
+4. 江苏省委宣传部与南京大学部校共建新闻传播学院“紫金学者奖励计划”（2021-2024）
+5. 《跨越网络的门槛》获评中国新闻史学会2023年“新闻传播学学术精品”推介计划优秀作品（2023）
+6. 2023年度南京大学“师德先进”青年教师奖（2023）
+7. 2022年度“南京大学育教融合奖” (2022）
+8. 指导本科生获得南京大学优秀毕业论文二等奖（2022）
+9. 中国新闻史学会计算传播学研究委员会年会优秀论文三等奖（2021）
+10. 江苏省第六届"互联网+"大学生创新创业大赛优秀指导教师奖（2020）
+11. 《社交网络上的计算传播学》获得辽宁省优秀教材（高等教育类）（2020）
+12. Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)
+13. Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)
+14. Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)
+15. Outstanding Academic Performance Award for Research Degree Students (OAPA, Aug, 2012)
+16. Travel Grant from Interpersonal Communication Division of ICA 2012 (May, 2012)
+17. Top 3 Conference Paper Award of 2nd Honours Symposium for Asian Ph.D Students in Communication Research, Singapore (Nov, 2011)
+18. Outstanding Paper Award of 11th China Communication conference (Jun, 2010)
+19. P & G Award of China Market Research (Nov, 2009)
+20. Outstanding Paper Award of People.com (Oct, 2009)
+21. Top Award of the Challenge Cup of Peking University (Jun, 2009)
 
 ## 软件
 1. [flownetwork](https://pypi.python.org/pypi/flownetwork), a Python package for flow network analysis.
