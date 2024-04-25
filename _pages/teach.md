@@ -18,6 +18,10 @@ author_profile: true
 - 本科课程 [学术论文写作](https://github.com/SocratesAcademy/craft/) (2023-现在)
 - 暑期课程 [社会科学家的机器学习](https://github.com/computational-class/machine-learning) (2023)
 
+![image](https://github.com/chengjun/zh/assets/543384/86c607b6-c2e2-489c-b7d6-a4d56d3b0a04)
+
+教育的目的是点燃学生内心的火焰。我认为传统的师徒制，尤其是苏格拉底方法，是教育的理想方式。苏格拉底与人讨论的方法（Socratic method）往往从被大家深信不疑的常识出发，通过抽丝剥茧不断发问的方式提出质疑，进而找到常识的漏洞和竞争性的解释。常识和竞争性解释之间的巨大张力常常让参与讨论的人瞠目结舌，甚至感觉难以接受。正因为苏格拉底这种发问的方法具有孕育新想法或核心困惑的强大功能，也被后人称为“精神助产术”。
+
 ### 慕课课程 
 - [数字营销](https://www.icourse163.org/course/20201232-1462060162) (2020-现在)
 
