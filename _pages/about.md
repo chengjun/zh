@@ -18,9 +18,7 @@ redirect_from:
 
 <img src="https://chengjun.github.io/img/tt.gif" align = "middle" width = "800px">
 
-##  治学自述
-
-我唯一知道的就是我一无所知 [链接🔗](https://chengjun.github.io/zh/posts/2024/04/my-story/)
+**治学自述**：我唯一知道的就是我一无所知 [链接🔗](https://chengjun.github.io/zh/posts/2024/04/my-story/)
 
 
 ## 新书出版
