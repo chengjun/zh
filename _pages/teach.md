@@ -9,7 +9,7 @@ author_profile: true
 
 ![image](https://github.com/chengjun/zh/assets/543384/52fb59c7-564e-4e63-8272-bdbf0cd37768)
 
-
+王成军（2024）用钻石切割钻石：反思计算传播学的教学思路. [链接🔗](https://chengjun.github.io/zh/posts/2024/05/teaching-reflection/).
 
 ## 开设课程
 - 博士课程 [计算传播研究工作坊](https://github.com/socrateslab/workshop/discussions) (2020-现在)
