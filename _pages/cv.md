@@ -52,15 +52,16 @@ redirect_from:
 
 
 ## 工作论文
-1. Lihan Yan, Haochuan Cui, Cheng-Jun Wang (2024) What patents are less likely to be granted? Perspective from patent examiner and disruptive innovation. In writing.
-2. Xinzhi Zhang, Zepeng Gou, Youqing Wu, **Cheng-Jun Wang** * (2023) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. In Submission.
-3. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
-4. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
-5. Cheng-Jun Wang * (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. Work in progress.
-6. Yaotian Zhang, Keke Shang, and Cheng-Jun Wang * (2022) The Impact of Category Spanning on Economic Revenue in the Digital Marketplace: Analyzing the NFT Trade Network. In the process of data analysis.
-7. Shengchun Huang, Zhuo Chen *, Cheng-Jun Wang * (2022) Weaving Behavioral Cocoons in Modern Life: Understanding Social Acceleration with Word Embeddings. In Writing.
-8. Yunjie Fei and Cheng-Jun Wang * (2023) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing. 
-9. Yiwei Ni and Cheng-Jun Wang * (2022) Narrative Economics of Weibo Hot Search from 2019 to 2021. In Writing the Chinese Version. 
+1. 王成军（2024）计算叙事：人工智能时代的叙事传播研究新范式. 论文手稿.  
+2. Lihan Yan, Haochuan Cui, Cheng-Jun Wang (2024) What patents are less likely to be granted? Perspective from patent examiner and disruptive innovation. In writing.
+3. Xinzhi Zhang, Zepeng Gou, Youqing Wu, **Cheng-Jun Wang** * (2023) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. In Submission.
+4. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
+5. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
+6. Cheng-Jun Wang * (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. Work in progress.
+7. Yaotian Zhang, Keke Shang, and Cheng-Jun Wang * (2022) The Impact of Category Spanning on Economic Revenue in the Digital Marketplace: Analyzing the NFT Trade Network. In the process of data analysis.
+8. Shengchun Huang, Zhuo Chen *, Cheng-Jun Wang * (2022) Weaving Behavioral Cocoons in Modern Life: Understanding Social Acceleration with Word Embeddings. In Writing.
+9. Yunjie Fei and Cheng-Jun Wang * (2023) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing. 
+10. Yiwei Ni and Cheng-Jun Wang * (2022) Narrative Economics of Weibo Hot Search from 2019 to 2021. In Writing the Chinese Version. 
 
 ## 期刊论文
 \* 表示通讯作者
