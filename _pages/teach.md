@@ -47,6 +47,10 @@ author_profile: true
 2. 我非常推荐[**Causal Inference for The Brave and True**](https://matheusfacure.github.io/python-causality-handbook/landing-page.html).
 3. 我参与了马志浩老师开设的因果推断课程，更多信息见课程的[Github讨论区](https://github.com/socrateslab/causal101/discussions)
 
+### 叙事经济学
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1652313350&bvid=BV1cj42197Ho&cid=1487377015&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 
 ## 课程讲义
 
