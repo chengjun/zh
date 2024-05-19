@@ -49,7 +49,7 @@ author_profile: true
 
 ### 叙事经济学
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1652313350&bvid=BV1cj42197Ho&cid=1487377015&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe style="width: 100%; height: 710px; overflow: auto;" src="//player.bilibili.com/player.html?isOutside=true&aid=1652313350&bvid=BV1cj42197Ho&cid=1487377015&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 ## 课程讲义
