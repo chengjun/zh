@@ -76,17 +76,17 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 ## 毕业生
 ### 硕士毕业生
-- 陈志聪 Zhicong Chen (2016) https://zhicongchen.github.io/
-- 李铁薇 Tiewei Li (2017) https://tieweill.github.io/
-- 吴友钦 Youqing Wu (2018) https://iamyourking007.github.io/
-- 徐绘敏 Huimin Xu (2018) https://xuhuimin2017.github.io/
-- 卢功靖 Gongjing Lu (2019) https://lugongjing.github.io/bbiou218/
-- 卢林艳 Linyan Lu (2019) https://linyanlu.github.io/
-- 李媛媛 Yuanyuan Li (2019) https://andrea-lee.github.io/
-- 李玉端 Yuduan Li (2020) https://liyuduan817.github.io/
-- 周钰 Yu Zhou (2020) https://18005176298.github.io/
-- 苟泽鹏 Zepeng Gou (2020) https://pennygou.github.io/
-- 姜新雅 Xinya Jiang (2021 - 2023) https://alexandrajiang.github.io/ 
+- 陈志聪 Zhicong Chen (2016 - 2018) https://zhicongchen.github.io/
+- 李铁薇 Tiewei Li (2017 - 2020) https://tieweill.github.io/
+- 吴友钦 Youqing Wu (2018 - 2021) https://iamyourking007.github.io/
+- 徐绘敏 Huimin Xu (2018 - 2021) https://xuhuimin2017.github.io/
+- 卢功靖 Gongjing Lu (2019 - 2022) https://lugongjing.github.io/bbiou218/
+- 卢林艳 Linyan Lu (2019 - 2022) https://linyanlu.github.io/
+- 李媛媛 Yuanyuan Li (2019 - 2022) https://andrea-lee.github.io/
+- 李玉端 Yuduan Li (2020 - 2023) https://liyuduan817.github.io/
+- 周钰 Yu Zhou (2020 - 2023) https://18005176298.github.io/
+- 苟泽鹏 Zepeng Gou (2020 - 2023) https://pennygou.github.io/
+- 姜新雅 Xinya Jiang (2021 - 2024) https://alexandrajiang.github.io/ 
 
 
 # 实验室活动
