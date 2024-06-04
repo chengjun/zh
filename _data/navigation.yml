@@ -14,6 +14,9 @@ main:
   
   - title: "服务"
     url: /service/
+
+  - title: "苏格拉底实验室"
+    url: /lab/
         
   # - title: "博客"
     # url: /year-archive/
