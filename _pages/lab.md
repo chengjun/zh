@@ -101,12 +101,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 『柏拉图说』是由南京大学计算传播学实验中心的成员们于2022年4月发起的论文精读与推介活动，我们将定期推送新闻传播学TOP期刊最新内容、新闻传播学前沿及相关量化研究方法论文。我们致力于深耕传播学领域，紧跟专业研究热点，延伸学术视角，拓展群体智慧。
 
-
-
 ##  苏格拉底学园
-
-![image](https://user-images.githubusercontent.com/543384/192223631-4a53ccfa-3652-4e88-bb7a-74ba51b35171.png)
-
 
 1. 群体动力学播客[上线了!](https://www.ximalaya.com/album/69292192) 
 2. 计算传播学[豆瓣小组](https://www.douban.com/group/webmining/)
