@@ -13,136 +13,51 @@ Current Members
 ## PhD Students
 
 <div class="row">
+    
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Zihan Wang">
+            <img src="/zh/images/member/yangdongliu.png" class="author__avatar" alt="Yangdong Liu">
       </div>
       <div class="author__content">
-            <p><a href = "https://zihanwangki.github.io/">Zihan Wang</a><br/>(2020 - )</p>
+            <p><a href = "https://yangdong-liu.github.io/">Yangdong Liu</a><br/>(2023 - )</p>
       </div>
       </center>
     </div>
+    
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Zilong Wang">
+            <img src="/zh/images/member/yaotianzhang.jpg" class="author__avatar" alt="Yaotian Zhang">
       </div>
       <div class="author__content">
-            <p><a href = "https://zilongwang.me/">Zilong Wang</a><br/>(2020 - )</p>
+            <p><a href = "https://yaotianzhang.github.io/">Yaotian Zhang</a><br/>(2023 - )</p>
       </div>
       </center>
     </div>
+    
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Chengyu Dong">
+            <img src="/zh/images/member/lihanyan.jpg" class="author__avatar" alt="Lihan Yan">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.chengyu-dong.me/">Chengyu Dong</a><br/>(2021 - )</p>
+            <p><a href = "https://yan-lihan.github.io/">Lihan Yan</a><br/>(2022 - )</p>
       </div>
       </center>
     </div>
+    
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Bill Hogan">
+            <img src="/zh/images/member/xuefeiyan.jpg" class="author__avatar" alt="Xuefei Yan">
       </div>
       <div class="author__content">
-            <p><a href="https://wphogan.github.io/">Bill Hogan</a><br/>(2021 - )</p>
+            <p><a href="https://xuefei-yan.github.io/">Bill Hogan</a><br/>(2022 - )</p>
       </div>
       </center>
     </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Zi Lin">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://zi-lin.com/">Zi Lin</a><br/>(2021 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Weitang Liu">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://scholar.google.com/citations?user=LzhBQRUAAAAJ&hl=en">Weitang Liu</a><br/>(2021 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Dheeraj Mekala">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://dheeraj7596.github.io/">Dheeraj Mekala</a><br/>(2021 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Yangkun Wang">
-      </div>
-      <div class="author__content">
-            <p>Yangkun Wang<br/>(2022 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Yufan Zhuang">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://evanzhuang.github.io/">Yufan Zhuang</a><br/>(2022 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Xintong Li">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://kaylee0501.github.io/">Xintong Li</a><br/>(2023 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Letian Peng">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://komeijiforce.github.io/">Letian Peng</a><br/>(2023 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Feng Yao">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://yaof20.github.io/">Feng Yao</a><br/>(2023 - )</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Yuwei Zhang">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://zhang-yu-wei.github.io/">Yuwei Zhang</a><br/>(2023 - )</p>
-      </div>
-      </center>
-    </div>
+    
 </div>
 
 [🖋 Revise this page](https://github.com/chengjun/zh/edit/gh-pages/_pages/lab.md)
