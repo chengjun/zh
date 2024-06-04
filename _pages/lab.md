@@ -94,7 +94,10 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 ## 苏格拉底研讨会
 
 2024年1月开始，按照《经济学家的手艺》一书的建议，组织**苏格拉底研讨会**活动。
+
 - 每次一个小时
+- 主讲者提前发研讨会信息
+- 主讲者做好ppt
 - 邀请博士生作为与谈人
 
 
