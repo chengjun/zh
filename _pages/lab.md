@@ -97,15 +97,10 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 你可以通过扫描二维码的方式了解我们正在进行的活动，或者观看往期活动的[视频](https://search.bilibili.com/all?keyword=%E7%AC%AC%E8%B0%B7%E8%AF%BB%E4%B9%A6%E4%BC%9A&order=pubdate&duration=0&tids_1=0)。 
 
-![image](https://user-images.githubusercontent.com/543384/147380016-da65a625-6480-47f4-8e27-5034d696f553.png)
-
-## “苏格拉底实验室”微信公众号
-
-![image](https://github.com/chengjun/zh/assets/543384/a3b2a406-2103-4e1e-b7e5-9c82a7461b0d)
+![image](https://github.com/chengjun/zh/assets/543384/f9956b7b-dc4c-4707-a1a6-7894bec6b62f)
 
 『柏拉图说』是由南京大学计算传播学实验中心的成员们于2022年4月发起的论文精读与推介活动，我们将定期推送新闻传播学TOP期刊最新内容、新闻传播学前沿及相关量化研究方法论文。我们致力于深耕传播学领域，紧跟专业研究热点，延伸学术视角，拓展群体智慧。
 
-![image](https://github.com/chengjun/zh/assets/543384/f9956b7b-dc4c-4707-a1a6-7894bec6b62f)
 
 
 ##  苏格拉底学园
