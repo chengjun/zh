@@ -10,7 +10,7 @@ author_profile: true
 
 Welcome to the **Socrates Lab**! We are a small research team affiliated with the [Computational Communication Collaboratory](https://computational-communication.com/), [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University.
 
-Github: https://github.com/socrateslab
+Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 # People
 
@@ -18,12 +18,6 @@ Github: https://github.com/socrateslab
 
 Cheng-Jun Wang [https://chengjun.github.io/](https://chengjun.github.io/)
 
-![image](https://user-images.githubusercontent.com/543384/135433254-b3cc8fa7-55f7-4a83-ae94-2950d0d57270.png)
-
-
-
-Current Members
-======
 
 ## PhD Students
 
@@ -79,8 +73,6 @@ Current Members
 
 - Yixiao Sun (2022 - ) https://sun-yixiao.github.io/ 
 - Yunjie Fei (2022 - ) https://yunjiefei.github.io/ 
-- Xinya Jiang (2021 - ) https://alexandrajiang.github.io/ 
-- Yaotian Zhang (2020 - ) https://yaotianzhang.github.io/ 
 
 ## Graduates 
 ### Master
@@ -94,6 +86,7 @@ Current Members
 - Yuduan Li (2020) https://liyuduan817.github.io/
 - Yu Zhou (2020) https://18005176298.github.io/
 - Zepeng Gou (2020) https://pennygou.github.io/
+- Xinya Jiang (2021 - 2023) https://alexandrajiang.github.io/ 
 
 
 # Activities
@@ -120,12 +113,6 @@ Exited to announce that our **Group Dynamics Podcast** is online! [https://www.x
 
 - https://www.douban.com/group/webmining/
 - https://www.douban.com/group/socratesacademy/
-
-
-## Socrates Team
-
-
-<img src="https://user-images.githubusercontent.com/543384/147183646-2bbc2cd1-42d2-428f-a499-26728d0df048.png" width = "300" align="middle" />
 
 
 [🖋 Revise this page](https://github.com/chengjun/zh/edit/gh-pages/_pages/lab.md)
