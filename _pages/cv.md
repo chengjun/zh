@@ -92,12 +92,12 @@ redirect_from:
 29. 卢功靖, 卢林艳, 李媛媛, **王成军** *（2021）基于议题类型的临近预测：使用社交媒体预测新冠确诊人数. 中国网络传播研究. 20:93-117.
 30. 卢林艳, 李媛媛, 卢功靖, 刘熠, **王成军** * (2021) [社交机器人驱动的计算宣传：社交机器人识别及其行为特征分析](http://dx.doi.org/10.16196/j.cnki.issn.1673-4793.2021.02.004). 中国传媒大学学报（自然科学版).28 (02):34-43+53. [Data & Code](https://github.com/socrateslab/cbjs).
 31. **王成军**，党明辉，杜骏飞 (2019) [找回失落的参考群体:对沉默的螺旋理论的边界条件的考察](http://mall.cnki.net/magazine/Article/XWDX201904005.htm). 新闻大学. 156:13-29. （入选人大复印资料新闻与传播2019年第8期）[Data & Code](https://github.com/socrateslab/sos), [ Netlogo Web](https://socrateslab.github.io/sos/index.html).
-32. **王成军** (2017).[计算社会科学视野下的新闻学研究：挑战与机遇](http://kns.cnki.net/kcms/detail/detail.aspx?filename=XWDX201704006&dbcode=CJFQ). 新闻大学. 4:26-32. （入选人大复印资料新闻与传播2017年第10期）
-33. 任昌辉，巢乃鹏，李永刚，袁光锋，王成军，郭小安，褚建勋 （2017）中国网络内容监管与治理研究:图景与展望. 中国网络传播研究. 2:145-164.
 
 ### 2010-2017    
-1. Jiang C.L *, Yang M, **Wang C.J.** (2017) Self-Disclosure to Parents in Emerging Adulthood: Examining the Roles of Perceived Parental Responsiveness and Separation-Individuation. Journal of Social and Personal Relationships. 34(4): 425-445. [doi: 10.1177 /0265407516640603](http://journals.sagepub.com/doi/full/10.1177/0265407516640603)
-2. **Wang C.J.**, Wu L. *, Zhang, J., Janssen, M. (2016) The Collective Direction of Attention Diffusion. Scientific Reports. 6: 34059. [doi:10.1038/srep34059](http://www.nature.com/articles/srep34059)
+1. **王成军** (2017).[计算社会科学视野下的新闻学研究：挑战与机遇](http://kns.cnki.net/kcms/detail/detail.aspx?filename=XWDX201704006&dbcode=CJFQ). 新闻大学. 4:26-32. （入选人大复印资料新闻与传播2017年第10期）
+2. 任昌辉，巢乃鹏，李永刚，袁光锋，王成军，郭小安，褚建勋 （2017）中国网络内容监管与治理研究:图景与展望. 中国网络传播研究. 2:145-164.
+3. Jiang C.L *, Yang M, **Wang C.J.** (2017) Self-Disclosure to Parents in Emerging Adulthood: Examining the Roles of Perceived Parental Responsiveness and Separation-Individuation. Journal of Social and Personal Relationships. 34(4): 425-445. [doi: 10.1177 /0265407516640603](http://journals.sagepub.com/doi/full/10.1177/0265407516640603)
+4. **Wang C.J.**, Wu L. *, Zhang, J., Janssen, M. (2016) The Collective Direction of Attention Diffusion. Scientific Reports. 6: 34059. [doi:10.1038/srep34059](http://www.nature.com/articles/srep34059)
 3. Wu L., **Wang C.J.** * (2016) Tracing the Attention of Moving Citizens. Scientific Reports. 6, 33103. [doi: 10.1038/srep33103](http://www.nature.com/articles/srep33103)
 19. **Wang C.J.**, Wu L. *(2016) The Scaling of Attention Networks. Physica A: Statistical Mechanics and its Applications. 448:196–204, [doi: 10.1016/j.physa.2015.12.081](http://dx.doi.org/10.1016/j.physa.2015.12.081)
 20. Chandra Y. *, Jiang, C.L., **Wang C.J.** (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE. 11(3):e0151342, [doi: 10.1371/journal.pone.0151342](http://dx.doi.org/10.1371/journal.pone.0151342)
