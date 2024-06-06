@@ -191,7 +191,7 @@ redirect_from:
 - MOOC Course [Digital Marketing](https://www.icourse163.org/course/20201232-1462060162) (2020-Now)
 
 ## 培训
-- 2021年6月24日-6月25日，计算社会科学暑期学校（北京分会场）（Summer Institute in Computational Social Science in Beijing，SICSS2021-Beijing).
+- 2021年6月14日-6月25日，计算社会科学暑期学校（北京分会场）（Summer Institute in Computational Social Science in Beijing，SICSS2021-Beijing).
 - 2022年11月16日-12月24日，清华交叉学科研究能力提升计划“大数据与因果推断研讨班”。
 
 ## 公共服务
