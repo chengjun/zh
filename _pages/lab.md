@@ -14,10 +14,6 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 # 成员
 
-## 实验室主任
-
-王成军 [https://chengjun.github.io/](https://chengjun.github.io/)
-
 
 ## 博士生
 
