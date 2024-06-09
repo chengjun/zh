@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+![image](https://github.com/chengjun/zh/assets/543384/79603db5-e7c8-4f92-a8ad-22ce78baac34)
+
+
 
 欢迎来到**苏格拉底实验室**（**Socrates Lab**）! 我们是隶属于南京大学[新闻传播学院](https://jc.nju.edu.cn/)[计算传播学实验中心](https://computational-communication.com/)的一个小团队.
 
