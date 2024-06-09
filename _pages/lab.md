@@ -29,7 +29,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
             <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Xiao Xiao">
       </div>
       <div class="author__content">
-            <p><a href = "https://Xiaoxiao-tiger.github.io/">肖潇</a><br/>(2023 - )</p>
+            <p><a href = "https://Xiaoxiao-tiger.github.io/">肖潇</a><br/>(2024 - )</p>
       </div>
       </center>
     </div>
