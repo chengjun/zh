@@ -79,8 +79,16 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 ### 硕士生
 
-- 孙逸潇 Yixiao Sun (2022 - ) https://sun-yixiao.github.io/ 
-- 费韵洁 Yunjie Fei (2022 - ) https://yunjiefei.github.io/ 
+- 孙逸潇 (2022-2025) https://sun-yixiao.github.io/ 
+- 费韵洁 (2022-2025) https://yunjiefei.github.io/ 
+- 韦婉茜 (2023-2026) https://weiwanxi-999.github.io/
+- 张含融 (2023-2026) https://Zhang-Hanrong.github.io/
+- 周振锋 (2023-2026) https://zhou-zhen-feng.github.io/
+- 颜肖锴 (2023-2026) https://Hawaii-Yan.github.io/
+- 梁悠悠 (2024-2027) https://youyou-liang.github.io/
+- 张潇逸 (2024-2027) https://xiaoyizhang833.github.io/
+- 黄靖翔 (2024-2027) https://huang-jingxiang.github.io/
+- 安静静 (2024-2027)
 
 ## 毕业生
 ### 硕士毕业生
@@ -95,14 +103,6 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 - 周钰   (2020-2023) https://18005176298.github.io/
 - 苟泽鹏 (2020-2023) https://pennygou.github.io/
 - 姜新雅 (2021-2024) https://alexandrajiang.github.io/
-- 韦婉茜 (2023-2026) https://weiwanxi-999.github.io/
-- 张含融 (2023-2026) https://Zhang-Hanrong.github.io/
-- 周振锋 (2023-2026) https://zhou-zhen-feng.github.io/
-- 颜肖锴 (2023-2026) https://Hawaii-Yan.github.io/
-- 梁悠悠 (2024-2027) https://youyou-liang.github.io/
-- 张潇逸 (2024-2027) https://xiaoyizhang833.github.io/
-- 黄靖翔 (2024-2027) https://huang-jingxiang.github.io/
-- 安静静 (2024-2027)
 
 # 实验室活动
 
