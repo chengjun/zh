@@ -91,7 +91,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 - 梁悠悠 (2024-2027) https://youyou-liang.github.io/
 - 张潇逸 (2024-2027) https://xiaoyizhang833.github.io/
 - 黄靖翔 (2024-2027) https://huang-jingxiang.github.io/
-- 安静静 (2024-2027)
+- 安静静 (2024-2027) https://Jingjing-An.github.io/
 
 ## 毕业生
 ### 硕士毕业生
