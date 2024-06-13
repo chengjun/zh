@@ -89,6 +89,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 - 周振锋 (2023-2026) https://zhou-zhen-feng.github.io/
 - 颜肖锴 (2023-2026) https://Hawaii-Yan.github.io/
 - 梁悠悠 (2024-2027) https://youyou-liang.github.io/
+- 陈敏杨 (2024-2027) https://tba.github.io/
 - 张潇逸 (2024-2027) https://xiaoyizhang833.github.io/
 - 黄靖翔 (2024-2027) https://huang-jingxiang.github.io/
 - 安静静 (2024-2027) https://Jingjing-An.github.io/
