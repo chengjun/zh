@@ -69,7 +69,7 @@ redirect_from:
 ‡ 表示共同一作
 
 1. Sun, Y., Yan, X. F., Zhang, Y., Chen, J., Chen, Z. *, & **Wang, C. J.** *  (2024) Globalization in International Tensions: The Impact of Military Conflicts on the Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937). Chinese Journal of Communication, 1–19. [doi: 10.1080/17544750.2024.2354698](https://doi.org/10.1080/17544750.2024.2354698). Data & Code: [https://doi.org/10.17605/OSF.IO/6S7AQ](https://doi.org/10.17605/OSF.IO/6S7AQ)
-2. Zhang Q. & **Wang C.J.** * (2024) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. Humanities and Social Sciences Communications.11:484. [doi: 10.1057/s41599-024-02983-w](https://doi.org/10.1057/s41599-024-02983-w). Data & Code: [https://doi.org/110.17605/OSF.IO/ZHT8E](https://doi.org/110.17605/OSF.IO/ZHT8E)
+2. Zhang Q. & **Wang C.J.** * (2024) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. Humanities and Social Sciences Communications.11:484. [doi: 10.1057/s41599-024-02983-w](https://doi.org/10.1057/s41599-024-02983-w). Data & Code: [https://doi.org/10.17605/OSF.IO/ZHT8E](https://doi.org/10.17605/OSF.IO/ZHT8E)
 
 ### 2018-2023 
 1. Chen Z., Meng X., **Wang C.J.** * (2023) The Dark Web Privacy Dilemma: Linguistic Diversity, Talkativeness, and User Engagement on the Cryptomarket Forums. Humanities and Social Sciences Communications.10:903 [doi: 10.1057/s41599-023-02424-0](https://doi.org/10.1057/s41599-023-02424-0). Data & Code: [https://osf.io/cv4ef/](https://osf.io/cv4ef/)
