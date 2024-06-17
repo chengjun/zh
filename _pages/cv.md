@@ -253,10 +253,8 @@ My professional affiliations include:
 17. Outstanding Academic Performance Award for Research Degree Students (OAPA, Aug, 2012)
 18. Travel Grant from Interpersonal Communication Division of ICA 2012 (May, 2012)
 19. Top 3 Conference Paper Award of 2nd Honours Symposium for Asian Ph.D Students in Communication Research, Singapore (Nov, 2011)
-20. Outstanding Paper Award of 11th China Communication conference (Jun, 2010)
-21. P & G Award of China Market Research (Nov, 2009)
-22. Outstanding Paper Award of People.com (Oct, 2009)
-23. Top Award of the Challenge Cup of Peking University (Jun, 2009)
+20. 第十一届中国传播学大会优秀论文奖 (2010)
+
 
 ## 软件
 1. [flownetwork](https://pypi.python.org/pypi/flownetwork), a Python package for flow network analysis.
