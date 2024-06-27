@@ -53,7 +53,7 @@ redirect_from:
 
 ## 工作论文
 1. 王成军（2024）计算叙事：人工智能时代的叙事传播研究新范式. 论文手稿.  
-2. Lihan Yan, Haochuan Cui, Cheng-Jun Wang (2024) What patents are less likely to be granted? Perspective from patent examiner and disruptive innovation. In writing.
+2. Yan, Lihan and Cui, Haochuan and Wang, Cheng-Jun, Are Patent Examiners Killing Disruptive Innovation? Analyzing the Effect of Scientific Gatekeeping with USPTO Patent Data (2004-2018). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4877993
 3. Xinzhi Zhang, Zepeng Gou, Youqing Wu, **Cheng-Jun Wang** * (2023) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. In Submission.
 4. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
 5. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
