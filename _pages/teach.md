@@ -12,7 +12,7 @@ author_profile: true
 
 王成军（2024）用钻石切割钻石：反思计算传播学的教学思路. [链接🔗](https://chengjun.github.io/zh/posts/2024/05/teaching-reflection/).
 
-## 2024秋季学期排课信息
+## 2024年秋季学期排课信息
 
 - 《计算传播学导论》周四7-8节课
 - 《新闻传播学术论文写作》周五7-8节课
