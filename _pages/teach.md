@@ -15,7 +15,7 @@ author_profile: true
 ## 2024年秋季学期排课信息
 
 - 《计算传播学导论》周四7-8节课
-- 《新闻传播学术论文写作》周五7-8节课
+- 《新闻传播学术论文写作》周二7-8节课
 
 ## 开设课程
 - 博士课程 [计算传播研究工作坊](https://github.com/socrateslab/workshop/discussions) (2020-现在)
