@@ -12,6 +12,11 @@ author_profile: true
 
 # 图书项目
 
+## 《计算中心论》
+<img src="https://github.com/user-attachments/assets/0c861132-66be-412b-b7c4-4abb548fdbdc" align = "middle" width = "300px">
+
+
+## 《计算叙事》
 <img src="https://user-images.githubusercontent.com/543384/195964017-43b9085d-2f13-4f89-9025-61faa1717c70.png" align = "middle" width = "300px">
 
 
