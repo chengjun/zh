@@ -54,7 +54,6 @@ redirect_from:
 ## 工作论文
 1. 王成军（2024）计算叙事：人工智能时代的叙事传播研究新范式. 论文手稿.  
 2. Yan, Lihan and Cui, Haochuan and Wang, Cheng-Jun, Are Patent Examiners Killing Disruptive Innovation? Analyzing the Effect of Scientific Gatekeeping with USPTO Patent Data (2004-2018). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4877993
-3. Xinzhi Zhang, Zepeng Gou, Youqing Wu, **Cheng-Jun Wang** * (2023) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. In Submission.
 4. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
 5. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
 6. Cheng-Jun Wang * (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. Work in progress.
@@ -68,8 +67,9 @@ redirect_from:
 
 ‡ 表示共同一作
 
-1. Sun, Y., Yan, X. F., Zhang, Y., Chen, J., Chen, Z. *, & **Wang, C. J.** *  (2024) Globalization in International Tensions: The Impact of Military Conflicts on the Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937). Chinese Journal of Communication, 1–19. [doi: 10.1080/17544750.2024.2354698](https://doi.org/10.1080/17544750.2024.2354698). Data & Code: [https://doi.org/10.17605/OSF.IO/6S7AQ](https://doi.org/10.17605/OSF.IO/6S7AQ)
-2. Zhang Q. & **Wang C.J.** * (2024) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. Humanities and Social Sciences Communications.11:484. [doi: 10.1057/s41599-024-02983-w](https://doi.org/10.1057/s41599-024-02983-w). Data & Code: [https://doi.org/10.17605/OSF.IO/ZHT8E](https://doi.org/10.17605/OSF.IO/ZHT8E)
+1. **Cheng-Jun Wang**, Xinzhi Zhang *, Zepeng Gou, Youqing Wu (2023) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. HSSC. Accept in principle. [Data & Code](https://doi.org/10.17605/OSF.IO/MTASG)
+2. Sun, Y., Yan, X. F., Zhang, Y., Chen, J., Chen, Z. *, & **Wang, C. J.** *  (2024) Globalization in International Tensions: The Impact of Military Conflicts on the Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937). Chinese Journal of Communication, 1–19. [doi: 10.1080/17544750.2024.2354698](https://doi.org/10.1080/17544750.2024.2354698). Data & Code: [https://doi.org/10.17605/OSF.IO/6S7AQ](https://doi.org/10.17605/OSF.IO/6S7AQ)
+3. Zhang Q. & **Wang C.J.** * (2024) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. Humanities and Social Sciences Communications.11:484. [doi: 10.1057/s41599-024-02983-w](https://doi.org/10.1057/s41599-024-02983-w). Data & Code: [https://doi.org/10.17605/OSF.IO/ZHT8E](https://doi.org/10.17605/OSF.IO/ZHT8E)
 
 ### 2018-2023 
 1. Chen Z., Meng X., **Wang C.J.** * (2023) The Dark Web Privacy Dilemma: Linguistic Diversity, Talkativeness, and User Engagement on the Cryptomarket Forums. Humanities and Social Sciences Communications.10:903 [doi: 10.1057/s41599-023-02424-0](https://doi.org/10.1057/s41599-023-02424-0). Data & Code: [https://osf.io/cv4ef/](https://osf.io/cv4ef/)
