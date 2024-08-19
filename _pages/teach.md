@@ -16,6 +16,7 @@ author_profile: true
 
 - 《计算传播学导论》（3-17周）周四7-8节课 新传院309
 - 《新闻传播学术论文写作》周二7-8节课
+- 《大模型专业知识库建设》周二3-4节课
 
 ## 开设课程
 - 博士课程 [计算传播研究工作坊](https://github.com/socrateslab/workshop/discussions) (2020-现在)
