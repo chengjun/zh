@@ -15,8 +15,12 @@ author_profile: true
 ## 2024年秋季学期排课信息
 
 - 《计算传播学导论》（3-17周）周四7-8节课 新传院309
-- 《新闻传播学术论文写作》周二7-8节课 1-17周 逸C-201
+- 《新闻传播学术论文写作》(1-17周) 周二7-8节课  逸C-201
 - 《大模型专业知识库建设》周二3-4节课
+- 	专业训练营-计算传播训练营 052200C20
+
+![image](https://github.com/user-attachments/assets/498ec78c-825a-4b08-bbd8-d583eff08d6b)
+
 
 ## 开设课程
 - 博士课程 [计算传播研究工作坊](https://github.com/socrateslab/workshop/discussions) (2020-现在)
