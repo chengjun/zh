@@ -57,17 +57,15 @@ redirect_from:
 4. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
 5. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
 6. Cheng-Jun Wang * (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. Work in progress.
-7. Yaotian Zhang, Keke Shang, and Cheng-Jun Wang * (2022) The Impact of Category Spanning on Economic Revenue in the Digital Marketplace: Analyzing the NFT Trade Network. In the process of data analysis.
-8. Shengchun Huang, Zhuo Chen *, Cheng-Jun Wang * (2022) Weaving Behavioral Cocoons in Modern Life: Understanding Social Acceleration with Word Embeddings. In Writing.
-9. Yunjie Fei and Cheng-Jun Wang * (2023) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing. 
-10. Yiwei Ni and Cheng-Jun Wang * (2022) Narrative Economics of Weibo Hot Search from 2019 to 2021. In Writing the Chinese Version. 
+7. Shengchun Huang, Zhuo Chen *, Cheng-Jun Wang * (2022) Weaving Behavioral Cocoons in Modern Life: Understanding Social Acceleration with Word Embeddings. In Writing.
+8. Yunjie Fei and Cheng-Jun Wang * (2023) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing. 
 
 ## 期刊论文
 \* 表示通讯作者
 
 ‡ 表示共同一作
 
-1. **Cheng-Jun Wang**, Xinzhi Zhang *, Zepeng Gou, Youqing Wu (2024) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. HSSC. Accept in principle. Data & Code: [https://doi.org/10.17605/OSF.IO/MTASG](https://doi.org/10.17605/OSF.IO/MTASG)
+1. **Cheng-Jun Wang**, Xinzhi Zhang *, Zepeng Gou, Youqing Wu (2024) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. Humanities and Social Sciences Communications. Accepted for Publication. Data & Code: [https://doi.org/10.17605/OSF.IO/MTASG](https://doi.org/10.17605/OSF.IO/MTASG)
 2. Sun, Y., Yan, X. F., Zhang, Y., Chen, J., Chen, Z. *, & **Wang, C. J.** *  (2024) Globalization in International Tensions: The Impact of Military Conflicts on the Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937). Chinese Journal of Communication, 1–19. [doi: 10.1080/17544750.2024.2354698](https://doi.org/10.1080/17544750.2024.2354698). Data & Code: [https://doi.org/10.17605/OSF.IO/6S7AQ](https://doi.org/10.17605/OSF.IO/6S7AQ)
 3. Zhang Q. & **Wang C.J.** * (2024) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. Humanities and Social Sciences Communications.11:484. [doi: 10.1057/s41599-024-02983-w](https://doi.org/10.1057/s41599-024-02983-w). Data & Code: [https://doi.org/10.17605/OSF.IO/ZHT8E](https://doi.org/10.17605/OSF.IO/ZHT8E)
 
