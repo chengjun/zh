@@ -48,6 +48,8 @@ redirect_from:
 <br>
 
 
+![image](https://github.com/user-attachments/assets/10d2293b-c90e-4acd-bb76-0e2c305bc198)
+
 ## 苏格拉底学园
  
 1. **群体动力学播客**已经[上线了!](https://www.ximalaya.com/album/69292192) 
@@ -55,6 +57,7 @@ redirect_from:
 3. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)上线了！这里有我和苏格拉底实验室成员以及其他学生正在阅读的文献，欢迎关注。
 4. [**计算传播学讲义**](https://chengjun.github.io/mybook/) 网络版上线! 
 5. 欢迎来玩我使用[Microsoft MakeCode Arcade](https://arcade.makecode.com/)制作的[飞车游戏](https://chengjun.github.io/racer-makecode/)和[jumpy platformer](https://chengjun.github.io/jumpy-platformer)，后者修改了一些基本设置。
+6. 我最喜欢的苏格拉底漫画：[https://existentialcomics.com](https://existentialcomics.com/philosopher/Socrates)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8"></script>
 
