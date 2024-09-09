@@ -236,24 +236,25 @@ My professional affiliations include:
 1. 第十三届江苏省高校哲学社会科学研究成果奖二等奖（2024）
 3. 中国人民大学新闻学院“明新青年访问学者”计划（2024）
 4. 第五届青年新媒体学术研究“启皓奖”卓越学术奖（2024）
-5. 《中国新闻传播学年鉴》2021-2022年度优秀青年学人（2023）
-6. 江苏省委宣传部与南京大学部校共建新闻传播学院“紫金学者奖励计划”（2021-2024）
-7. 中国新闻史学会2023年“新闻传播学学术精品”推介计划优秀作品（2023）
-8. 2023年度南京大学“师德先进”青年教师奖（2023）
-9. 2022年度“南京大学育教融合奖” (2022）
-10. 2023年度南京大学工会积极分子（2023）
-11. 2023年第八届中国数据新闻大赛优秀指导教师奖（2023）
-12. 南京大学校级本科优秀毕业论文指导教师奖（2022）
-13. 中国新闻史学会计算传播学研究委员会年会优秀论文三等奖（2021）
-14. 江苏省第六届"互联网+"大学生创新创业大赛优秀指导教师奖（2020）
-15. 辽宁省优秀教材（高等教育类）（2020）
-16. Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)
-17. Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)
-18. Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)
-19. Outstanding Academic Performance Award for Research Degree Students (OAPA, Aug, 2012)
-20. Travel Grant from Interpersonal Communication Division of ICA 2012 (May, 2012)
-21. Top 3 Conference Paper Award of 2nd Honours Symposium for Asian Ph.D Students in Communication Research, Singapore (Nov, 2011)
-22. 第十一届中国传播学大会优秀论文奖 (2010)
+5. 南京大学教师教学竞赛二等奖（2024）
+6. 《中国新闻传播学年鉴》2021-2022年度优秀青年学人（2023）
+7. 江苏省委宣传部与南京大学部校共建新闻传播学院“紫金学者奖励计划”（2021-2024）
+8. 中国新闻史学会2023年“新闻传播学学术精品”推介计划优秀作品（2023）
+9. 2023年度南京大学“师德先进”青年教师奖（2023）
+10. 2022年度“南京大学育教融合奖” (2022）
+11. 2023年度南京大学工会积极分子（2023）
+12. 2023年第八届中国数据新闻大赛优秀指导教师奖（2023）
+13. 南京大学校级本科优秀毕业论文指导教师奖（2022）
+14. 中国新闻史学会计算传播学研究委员会年会优秀论文三等奖（2021）
+15. 江苏省第六届"互联网+"大学生创新创业大赛优秀指导教师奖（2020）
+16. 辽宁省优秀教材（高等教育类）（2020）
+17. Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)
+18. Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)
+19. Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)
+20. Outstanding Academic Performance Award for Research Degree Students (OAPA, Aug, 2012)
+21. Travel Grant from Interpersonal Communication Division of ICA 2012 (May, 2012)
+22. Top 3 Conference Paper Award of 2nd Honours Symposium for Asian Ph.D Students in Communication Research, Singapore (Nov, 2011)
+23. 第十一届中国传播学大会优秀论文奖 (2010)
 
 
 ## 软件
