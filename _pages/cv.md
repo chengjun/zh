@@ -199,10 +199,10 @@ redirect_from:
 
 ## 公共服务
 
-- I joined the Editorial Board of [Humanities & Social Sciences Communications](https://www.nature.com/palcomms/).
-- I worked as the editorial director for **Chinese Journal of Computer-Mediated Communication** (《中国网络传播研究》) (2020-Now).
+- 《自然》出版集团旗下SSCI一区刊物[Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)编委(2022-至今).
+- CSSCI集刊[《中国网络传播研究》](https://kns.cnki.net/knavi/journals/ZWCY/detail?uniplatform=NZKPT)编辑部主任(2020-至今).
 
-I served as a reviewer for
+审稿人服务：
 
 - Internet Research
 - International Journal of Public Opinion Research (IJPOR)
@@ -216,7 +216,7 @@ I served as a reviewer for
 - 《新闻记者》
 - 《傳播與社會學刊》
 
-My professional affiliations include:
+学术组织：
 
 1. Complex System Society (CSS)
 1. International Communication Association (ICA)
@@ -229,7 +229,7 @@ My professional affiliations include:
 5. 中国信息学会社交媒体处理专业委员会（SMP)
    - 委员
 6. [SocialMeta2023](https://socialmeta2023.github.io/)
-   - I served as a *Programme Commitee* member 
+   - *Programme Commitee* member 
 
 
 ## 获奖
