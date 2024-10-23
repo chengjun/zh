@@ -121,9 +121,10 @@ redirect_from:
 
 ### 图书
 1. 王成军（2022）[《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/). 北京：科学出版社. [Github Repository](https://github.com/chengjun/thresholdbook) & [References](https://www.zotero.org/wangchj2020/collections/AEYS2R5X).
-2. 王成军 (2019) [《计算传播学讲义》](https://chengjun.github.io/mybook/). Jupyter Book. 
-3. 张伦、王成军、许小可（2018）[《计算传播学导论》](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社.
-4. 许小可、胡海波、张伦、王成军 （2015）《社交网络上的计算传播学》. 北京：高等教育出版社.
+2. 王成军 (2019) [《计算传播学讲义》](https://chengjun.github.io/mybook/). Jupyter Book.
+3. 张伦、王成军、许小可（2024）[《计算传播学导论》(第二版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社.
+4. 张伦、王成军、许小可（2018）[《计算传播学导论》(第一版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社.
+5. 许小可、胡海波、张伦、王成军 （2015）《社交网络上的计算传播学》. 北京：高等教育出版社.
 
 ### 章节
 1. 王成军（2024）用钻石切割钻石：反思计算传播学的教学思路.《数智时代的新媒体人才培养》.复旦大学出版社.[链接🔗](https://chengjun.github.io/zh/posts/2024/05/teaching-reflection/).
