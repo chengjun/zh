@@ -205,10 +205,11 @@ redirect_from:
 
 ## 公共服务
 
+### 学术期刊
 - 《自然》出版集团旗下SSCI一区刊物[Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)编委(2022-至今).
 - CSSCI集刊[《中国网络传播研究》](https://kns.cnki.net/knavi/journals/ZWCY/detail?uniplatform=NZKPT)编辑部主任(2020-至今).
 
-审稿人服务：
+### 审稿人
 
 - Internet Research
 - International Journal of Public Opinion Research (IJPOR)
@@ -222,20 +223,22 @@ redirect_from:
 - 《新闻记者》
 - 《傳播與社會學刊》
 
-学术组织：
+### 学术组织
 
-1. Complex System Society (CSS)
-1. International Communication Association (ICA)
-1. World Association of Public Opinion Research (WAPOR)
-1. International Telecommunications Society (ITS)
-2. **International Conference of Computational Social Science (IC2S2)**
-   - I served as a *Programme Commitee* member
-4. 中国新闻史学会计算传播学专业委员会（CCRA）
+1. 中国新闻史学会**智能与计算传播学专业委员会**（CCRA）
    - 秘书长(2018-2020)
-5. 中国信息学会社交媒体处理专业委员会（SMP)
+   - 理事（2018-至今）
+   - 副理事长（20241109-至今）
+2. 中国信息学会社交媒体处理专业委员会（SMP)
    - 委员
-6. [SocialMeta2023](https://socialmeta2023.github.io/)
-   - *Programme Commitee* member 
+3. [SocialMeta2023](https://socialmeta2023.github.io/)
+   - *Programme Commitee* member
+4. Complex System Society (CSS)
+5. International Communication Association (ICA)
+6. World Association of Public Opinion Research (WAPOR)
+7. International Telecommunications Society (ITS)
+8. **International Conference of Computational Social Science (IC2S2)**
+   - I served as a *Programme Commitee* member
 
 
 ## 获奖
