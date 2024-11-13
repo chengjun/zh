@@ -33,5 +33,8 @@ author_profile: true
 
 <img width="964" alt="image" src="https://github.com/chengjun/zh/assets/543384/6efa85e2-8413-44fe-915b-0b0045c3960f">
 
+<iframe src="https://chromedino.com/mario/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
+<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+
 ✏️ [Edit this page](https://github.com/{{site.repository}}edit/gh-pages/_pages/publications.md)
 
