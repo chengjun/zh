@@ -26,7 +26,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/zh/images/bio-photo.jpg" class="author__avatar" alt="Xiao Xiao">
+            <img src="/zh/images/xiaoxiao.jpg" class="author__avatar" alt="Xiao Xiao">
       </div>
       <div class="author__content">
             <p><a href = "https://Xiaoxiao-tiger.github.io/">肖潇</a><br/>(2024 - )</p>
@@ -37,7 +37,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/zh/images/member/yangdongliu.png" class="author__avatar" alt="Yangdong Liu">
+            <img src="/zh/images/member/yangdong.png" class="author__avatar" alt="Yangdong Liu">
       </div>
       <div class="author__content">
             <p><a href = "https://yangdong-liu.github.io/">刘杨栋</a><br/>(2023 - )</p>
