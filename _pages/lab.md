@@ -73,7 +73,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
             <img src="/zh/images/member/xuefeiyan.jpg" class="author__avatar" alt="Xuefei Yan">
       </div>
       <div class="author__content">
-            <p><a href="https://xuefei-yan.github.io/">宴雪菲</a><br/>(2022 - )</p>
+            <p><a href="https://xuefei-yan.github.io/">晏雪菲</a><br/>(2022 - )</p>
       </div>
       </center>
     </div>
