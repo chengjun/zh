@@ -13,10 +13,15 @@ author_profile: true
 # 图书项目
 
 ## 《计算中心论》
+
+计算传播学如何思考理论或有什么理论贡献？事实上，这样的提问也有失公允。这让人想起霍华德·贝克尔（Howard Becker）在其名著《社会学家的窍门》（Tricks of the Trade）中讲到他的导师埃弗里特·休斯（Everett Hughes）的故事。当一群学生围着休斯请教该如何思考理论时，休斯气呼呼地瞪着学生们反问：“关于什么的理论？”因为休斯认为宏大理论是没有价值的，理论是与具体的事物相关的。休斯的这种回答方式颇有禅宗的风采：“本来无一物，何处惹尘埃。”如果提问者没有一个明确的研究对象，没有一个明确的研究问题，就无法空洞地去谈论背后的理论框架。计算传播直接对应的具体事物是计算传播现象和计算传播产业。比如，现在人们都在关注以推荐系统为主要特点的智能媒体对政治极化的影响。如果不去关注这些计算传播现象、不去追踪智能媒体上的人类传播行为、不去测量推荐系统所引入的偏见，就很难回答这种问题。然而休斯式的回答固然高明，也存在问题，主要是没有从认识论的高度明确计算传播学的理论逻辑。比如，当我们思考传播学是什么的时候，我们往往会回到5W模型。当我们思考计算传播学的时候，我们是否存在合适的理论和模型呢？这构成了本书的**核心问题**。
+
+
 <img src="https://github.com/user-attachments/assets/0c861132-66be-412b-b7c4-4abb548fdbdc" align = "middle" width = "300px">
 
 
 ## 《计算叙事》
+
 <img src="https://user-images.githubusercontent.com/543384/195964017-43b9085d-2f13-4f89-9025-61faa1717c70.png" align = "middle" width = "300px">
 
 
@@ -33,8 +38,6 @@ author_profile: true
 
 <img width="964" alt="image" src="https://github.com/chengjun/zh/assets/543384/6efa85e2-8413-44fe-915b-0b0045c3960f">
 
-<iframe src="https://chromedino.com/mario/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
 
 ✏️ [Edit this page](https://github.com/{{site.repository}}edit/gh-pages/_pages/publications.md)
 
