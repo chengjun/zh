@@ -20,6 +20,7 @@ author_profile: true
 <img src="https://github.com/user-attachments/assets/0c861132-66be-412b-b7c4-4abb548fdbdc" align = "middle" width = "300px">
 
 
+欢迎关注本书的[写作进展](https://s.weibo.com/weibo?q=%23%E8%AE%A1%E7%AE%97%E4%B8%AD%E5%BF%83%E8%AE%BA%23)！
 - 学术报告：《计算中心论：计算传播学的理论逻辑》.2024智能与计算传播前沿论坛. 2024年11月29日. 广州. 暨南大学新闻与传播学院
 
 ## 《计算叙事》
