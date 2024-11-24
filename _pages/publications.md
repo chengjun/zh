@@ -20,6 +20,8 @@ author_profile: true
 <img src="https://github.com/user-attachments/assets/0c861132-66be-412b-b7c4-4abb548fdbdc" align = "middle" width = "300px">
 
 
+- 学术报告：《计算中心论：计算传播学的理论逻辑》.2024智能与计算传播前沿论坛. 2024年11月29日. 广州. 暨南大学新闻与传播学院
+
 ## 《计算叙事》
 
 <img src="https://user-images.githubusercontent.com/543384/195964017-43b9085d-2f13-4f89-9025-61faa1717c70.png" align = "middle" width = "300px">
@@ -27,7 +29,7 @@ author_profile: true
 
 我正在筹备写作《**计算叙事**》一书，欢迎关注[本书的Github讨论](https://github.com/chengjun/storybook/discussions)！
 - 计传岛微信公众号推文[《岛友说 王成军：人工智能时代的计算叙事研究》](https://mp.weixin.qq.com/s/YRXD0TQVJKyNeYN9rbUpmg)
-
+- 《数智时代讲好中国故事的计算叙事研究》.中国新闻史学会理事大会. 2024年11月23日. 南京. 
 
 ![image](https://github.com/chengjun/zh/assets/543384/56e00c04-d23a-409e-91b7-ee3f4cb75764)
 
