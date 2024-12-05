@@ -11,11 +11,6 @@ tags:
 
 ![image](https://github.com/user-attachments/assets/41394871-241e-40ab-a5f9-847791ad96b6)
 
-![image](https://github.com/user-attachments/assets/01b4a1ce-0f0f-469a-8571-83d9bbf22bf8)
-
-![image](https://github.com/user-attachments/assets/2aa34bd4-7dcb-404e-bce3-7b5240ecf7cb)
-
-
 **摘要**：计算传播浪潮对人才培养提出了新的挑战：如何面向文科生开设计算传播学课程？本文提出计算中心的知识重组逻辑，通过回顾开设计算传播学课程的案例经验，总结了“用钻石切割钻石”的教学思路，具体而言：一、选择大于培养；二、拥抱文科生的浪漫，注重直觉式理解；三、强调知识重组的计算思维；四、采用案例化教学的逻辑；五、在做中学，快速迭代。最后，本文通过对比费曼学习法和苏格拉底方法反思了教学得失，提出让学生走出课堂，走进实验室的思路。
 
 **关键词**：计算传播学；计算中心；知识重组；苏格拉底方法；费曼学习法
@@ -76,6 +71,12 @@ tags:
 - 王成军. (2016). 计算传播学的起源、概念与应用. 编辑学刊, 3, 59–64.
 - 王成军. (2021). 反思计算社会科学的逻辑：基于拉图尔的“计算中心”概念. 南京社会科学, 04, 122–131.
 - 王成军. (2022). 跨越网络的门槛：社交媒体上的信息扩散. 科学出版社.
+
+
+![image](https://github.com/user-attachments/assets/01b4a1ce-0f0f-469a-8571-83d9bbf22bf8)
+
+![image](https://github.com/user-attachments/assets/2aa34bd4-7dcb-404e-bce3-7b5240ecf7cb)
+
 
 [Edit this page 🖋](https://github.com/chengjun/zh/blob/gh-pages/_posts/2024-05-24-teaching-refelection.md)
 
