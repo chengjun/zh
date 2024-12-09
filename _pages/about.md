@@ -23,7 +23,7 @@ redirect_from:
 
 ## 教材
 
-《计算传播学导论》（第二版）终于赶在年底之前出来了，期待拿到样书!
+《计算传播学导论》（第二版）即将上市，期待拿到样书!
 
 ![image](https://github.com/user-attachments/assets/309f86d9-a9c9-430e-863a-5a7cebe5850c)
 
