@@ -21,6 +21,11 @@ redirect_from:
 
 **治学自述**：我唯一知道的就是我一无所知 [链接🔗](https://chengjun.github.io/zh/posts/2024/04/my-story/)
 
+## 教材
+
+《计算传播学导论》（第二版）终于赶在年底之前出来了，期待拿到样书!
+
+![image](https://github.com/user-attachments/assets/309f86d9-a9c9-430e-863a-5a7cebe5850c)
 
 ## 专著
 
