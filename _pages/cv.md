@@ -118,13 +118,13 @@ redirect_from:
 43. **王成军**,刘德寰 (2011) 移動的時尚: 追求時尚與手機互聯網的使用，香港《传媒透视》. (07):12-15.
 44. **王成军**,张昕之 (2011) “众说纷纭”抑或“一言九鼎”？——以卡扎菲官邸攻陷事件在新浪微博上的信息扩散为例，香港《传媒透视》. (09):12-13.
 
-## 图书、章节和翻译
+## 书籍、章节和翻译
 
-### 图书
+### 书籍
 1. 王成军（2022）[《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/). 北京：科学出版社. [Github Repository](https://github.com/chengjun/thresholdbook) & [References](https://www.zotero.org/wangchj2020/collections/AEYS2R5X).
 2. 王成军 (2019) [《计算传播学讲义》](https://chengjun.github.io/mybook/). Jupyter Book.
-3. 张伦、王成军、许小可（2024）[《计算传播学导论》(第二版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社.
-4. 张伦、王成军、许小可（2018）[《计算传播学导论》(第一版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社.
+3. 张伦、王成军、许小可（2024）[《计算传播学导论》(第二版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社. ISBN: 978-7-303-28461-0
+4. 张伦、王成军、许小可（2018）[《计算传播学导论》(第一版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社. ISBN: 978-7-303-24120-0
 5. 许小可、胡海波、张伦、王成军 （2015）《社交网络上的计算传播学》. 北京：高等教育出版社.
 
 ### 章节
