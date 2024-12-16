@@ -9,7 +9,7 @@ author_profile: true
 
 ![image](https://github.com/chengjun/zh/assets/543384/5d3fbf7a-2076-45a2-94ed-142f94f3f626)
 
-《计算传播学导论》（第二版）终于赶在年底之前出来了，期待拿到样书!
+《计算传播学导论》（第二版）终于赶在年底之前出来了!
 
 ![image](https://github.com/user-attachments/assets/309f86d9-a9c9-430e-863a-5a7cebe5850c)
 
