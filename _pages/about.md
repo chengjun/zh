@@ -23,7 +23,7 @@ redirect_from:
 
 ## 教材
 
-《计算传播学导论》（第二版）正式出版!
+《计算传播学导论》（第二版）于2024年12月正式出版!
 
 ![image](https://github.com/user-attachments/assets/309f86d9-a9c9-430e-863a-5a7cebe5850c)
 
