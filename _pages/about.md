@@ -76,6 +76,12 @@ redirect_from:
   
 ![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
 
+
+
+# 打字机效果示例
+
+这是一个通过 Markdown 和 HTML 实现的打字机效果页面。
+
 <div id="typing" style="display: inline-block; border-right: 2px solid black; white-space: nowrap; overflow: hidden; font-size: 1.5em;"></div>
 
 <script>
@@ -94,6 +100,7 @@ redirect_from:
     // 开始打字效果
     window.onload = typeWriter;
 </script>
+
 
 
   
