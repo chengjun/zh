@@ -75,6 +75,27 @@ redirect_from:
 <br>
   
 ![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
+
+<div id="typing" style="display: inline-block; border-right: 2px solid black; white-space: nowrap; overflow: hidden; font-size: 1.5em;"></div>
+
+<script>
+    const text = "这是通过 Markdown 嵌入 HTML 和 JavaScript 实现的打字效果。";
+    const typingSpeed = 100; // 每个字母出现的速度 (毫秒)
+    let index = 0;
+
+    function typeWriter() {
+        if (index < text.length) {
+            document.getElementById("typing").textContent += text.charAt(index);
+            index++;
+            setTimeout(typeWriter, typingSpeed);
+        }
+    }
+
+    // 开始打字效果
+    window.onload = typeWriter;
+</script>
+
+
   
 ✏️ [Edit this page](https://github.com/{{site.repository}}edit/gh-pages/_pages/about.md)
 
