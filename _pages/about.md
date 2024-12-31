@@ -84,7 +84,7 @@ redirect_from:
 
 <div id="typing" style="display: inline-block; border-right: 2px solid black; white-space: nowrap; overflow: hidden; font-size: 1.5em;"></div>
 
-<script src="{{ site.baseurl }}/assets/js/typing.js"></script>
+<script src="{{ site.baseurl }}/zh/assets/js/typing.js"></script>
 
 
 
