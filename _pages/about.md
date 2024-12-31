@@ -18,10 +18,9 @@ redirect_from:
 
 <img src="https://chengjun.github.io/img/tt.gif" align = "middle" width = "800px">
 
-<div id="typing" style="overflow: hidden; font-size: 1em;"></div>
-
+<!--<div id="typing" style="overflow: hidden; font-size: 1em;"></div>-->
+<div id="typing" style="display: flex; align-items: center; justify-content: center; overflow: hidden; font-size: 1em; text-align: center;"></div>
 <script src="{{ site.baseurl }}/zh/assets/js/typing.js"></script>
-
 <br>
 
 **治学自述**：我唯一知道的就是我一无所知 [链接🔗](https://chengjun.github.io/zh/posts/2024/04/my-story/)
