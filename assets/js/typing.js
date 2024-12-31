@@ -14,14 +14,21 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // 创建 Intersection Observer
-    const observer = new IntersectionObserver((entries) => {
-        entries.forEach((entry) => {
-            if (entry.isIntersecting) {
-                typeWriter(); // 开始打字效果
-                observer.disconnect(); // 打字效果触发后停止监听
-            }
-        });
-    });
+    const observer = new IntersectionObserver(
+        (entries) => {
+            entries.forEach((entry) => {
+                if (entry.isIntersecting) {
+                    // 元素进入视口指定比例时触发
+                    typeWriter();
+                    observer.disconnect(); // 停止观察
+                }
+            });
+        },
+        {
+            threshold: 0.5, // 元素至少有 50% 可见时才触发
+            rootMargin: "0px 0px -10% 0px", // 调整视口范围，延迟触发
+        }
+    );
 
     // 观察目标元素
     observer.observe(typingElement);
