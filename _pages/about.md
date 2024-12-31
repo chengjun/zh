@@ -83,7 +83,7 @@ redirect_from:
 这是一个通过 Markdown 和 HTML 实现的打字机效果页面。
 
 
-<script src="/assets/js/typing.js"></script>
+<script src="/zh/assets/js/typing.js"></script>
 
 
 
