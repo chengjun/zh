@@ -15,6 +15,13 @@ redirect_from:
   - /about.html
 ---
 
+
+
+<div id="typing" style="border-right: 2px solid black; overflow: hidden; font-size: 1.5em;"></div>
+
+<script src="{{ site.baseurl }}/zh/assets/js/typing.js"></script>
+
+
 <!--<img src="https://user-images.githubusercontent.com/543384/196112048-b50d92cb-2c4c-4999-b851-ef9d0805a141.png" align = "middle" width = "500px">-->
 
 <img src="https://chengjun.github.io/img/tt.gif" align = "middle" width = "800px">
@@ -78,13 +85,7 @@ redirect_from:
 
 
 
-# 打字机效果示例
 
-这是一个通过 Markdown 和 HTML 实现的打字机效果页面。
-
-<div id="typing" style="display: inline-block; border-right: 2px solid black; white-space: nowrap; overflow: hidden; font-size: 1.5em;"></div>
-
-<script src="{{ site.baseurl }}/zh/assets/js/typing.js"></script>
 
 
 
