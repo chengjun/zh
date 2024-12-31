@@ -82,8 +82,9 @@ redirect_from:
 
 这是一个通过 Markdown 和 HTML 实现的打字机效果页面。
 
+<div id="typing" style="display: inline-block; border-right: 2px solid black; white-space: nowrap; overflow: hidden; font-size: 1.5em;"></div>
 
-<script src="/zh/assets/js/typing.js"></script>
+<script src="{{ site.baseurl }}/assets/js/typing.js"></script>
 
 
 
