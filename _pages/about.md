@@ -22,6 +22,7 @@ redirect_from:
 
 <script src="{{ site.baseurl }}/zh/assets/js/typing.js"></script>
 
+<br>
 
 **治学自述**：我唯一知道的就是我一无所知 [链接🔗](https://chengjun.github.io/zh/posts/2024/04/my-story/)
 
@@ -79,11 +80,6 @@ redirect_from:
 <br>
   
 ![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
-
-
-
-
-
 
 
   
