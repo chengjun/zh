@@ -14,15 +14,14 @@ redirect_from:
 ---
 
 
+<!--<img src="https://user-images.githubusercontent.com/543384/196112048-b50d92cb-2c4c-4999-b851-ef9d0805a141.png" align = "middle" width = "500px">-->
+
+<img src="https://chengjun.github.io/img/tt.gif" align = "middle" width = "800px">
 
 <div id="typing" style="overflow: hidden; font-size: 1em;"></div>
 
 <script src="{{ site.baseurl }}/zh/assets/js/typing.js"></script>
 
-
-<!--<img src="https://user-images.githubusercontent.com/543384/196112048-b50d92cb-2c4c-4999-b851-ef9d0805a141.png" align = "middle" width = "500px">-->
-
-<img src="https://chengjun.github.io/img/tt.gif" align = "middle" width = "800px">
 
 **治学自述**：我唯一知道的就是我一无所知 [链接🔗](https://chengjun.github.io/zh/posts/2024/04/my-story/)
 
