@@ -15,6 +15,9 @@ author_profile: true
 
 Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
+![image](https://github.com/user-attachments/assets/61b7c86d-b233-4bfe-b231-1f5aeae0e56a)
+
+
 # 成员
 
 
