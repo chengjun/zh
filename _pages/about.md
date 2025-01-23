@@ -35,7 +35,7 @@ redirect_from:
 
 [《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/)于2022年7月在科学出版社正式出版！
 
-<img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
+![thresholdbook](https://github.com/user-attachments/assets/f311a5b1-6f15-4d35-a451-8260f98845f1)
 
 <br>
 
