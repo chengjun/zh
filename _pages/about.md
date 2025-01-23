@@ -29,7 +29,7 @@ redirect_from:
 
 《计算传播学导论》（第二版）于2024年12月正式出版!
 
-![image](https://github.com/user-attachments/assets/309f86d9-a9c9-430e-863a-5a7cebe5850c)
+![ccrbook2024](https://github.com/user-attachments/assets/bfbf3a9a-4653-43ec-bc2b-1338a22b40b7)
 
 ## 专著
 
