@@ -11,7 +11,7 @@ author_profile: true
 
 《计算传播学导论》（第二版）终于赶在年底之前出来了!
 
-![image](https://github.com/user-attachments/assets/309f86d9-a9c9-430e-863a-5a7cebe5850c)
+![image](https://github.com/user-attachments/assets/e960601c-3417-44ab-9849-7a997cf26b60)
 
 
 王成军（2024）用钻石切割钻石：反思计算传播学的教学思路. [链接🔗](https://chengjun.github.io/zh/posts/2024/05/teaching-reflection/).
@@ -34,6 +34,8 @@ author_profile: true
 - 暑期课程 [社会科学家的机器学习](https://github.com/computational-class/machine-learning) (2023)
 
 ![image](https://github.com/chengjun/zh/assets/543384/86c607b6-c2e2-489c-b7d6-a4d56d3b0a04)
+
+
 
 教育的目的是点燃学生内心的火焰。我认为传统的师徒制，尤其是苏格拉底方法，是教育的理想方式。苏格拉底与人讨论的方法（Socratic method）往往从被大家深信不疑的常识出发，通过抽丝剥茧不断发问的方式提出质疑，进而找到常识的漏洞和竞争性的解释。常识和竞争性解释之间的巨大张力常常让参与讨论的人瞠目结舌，甚至感觉难以接受。正因为苏格拉底这种发问的方法具有孕育新想法或核心困惑的强大功能，也被后人称为“精神助产术”。
 
