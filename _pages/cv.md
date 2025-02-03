@@ -58,7 +58,7 @@ redirect_from:
 
 
 ## 工作论文
-1. 王成军（2024）《计算中心论》. 书稿. 
+1. 王成军（2024）《计算中心论》. 书稿. [内容简介&写作进展](https://chengjun.github.io/zh/publications/).
 2. 王成军（2024）计算叙事：人工智能时代的叙事传播研究新范式. 论文手稿.  
 3. Yan, Lihan and Cui, Haochuan and Wang, Cheng-Jun, Are Patent Examiners Killing Disruptive Innovation? Analyzing the Effect of Scientific Gatekeeping with USPTO Patent Data (2004-2018). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4877993
 4. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
