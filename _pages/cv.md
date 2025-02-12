@@ -59,13 +59,14 @@ redirect_from:
 
 ## 工作论文
 1. 王成军（2024）《计算中心论》. 书稿. [内容简介&写作进展](https://chengjun.github.io/zh/publications/).
-2. 王成军（2024）计算叙事：人工智能时代的叙事传播研究新范式. 论文手稿.  
-3. Yan, Lihan and Cui, Haochuan and Wang, Cheng-Jun, Are Patent Examiners Killing Disruptive Innovation? Analyzing the Effect of Scientific Gatekeeping with USPTO Patent Data (2004-2018). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4877993
-4. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
-5. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
-6. Shengchun Huang, Zhuo Chen *, Cheng-Jun Wang * (2022) Weaving Behavioral Cocoons in Modern Life: Understanding Social Acceleration with Word Embeddings. In Writing.
-7. Yunjie Fei and Cheng-Jun Wang * (2023) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing.
-8. Cheng-Jun Wang * (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. Work in progress.
+2. 王成军（2025）计算中心论：智能与计算传播学的理论逻辑刍议. 论文手稿. 
+3. 王成军（2024）计算叙事：人工智能时代的叙事传播研究新范式. 论文手稿.  
+4. Yan, Lihan and Cui, Haochuan and Wang, Cheng-Jun, Are Patent Examiners Killing Disruptive Innovation? Analyzing the Effect of Scientific Gatekeeping with USPTO Patent Data (2004-2018). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4877993
+5. Yaotian Zhang, Gongjing Lu, Yixiao Sun, Zhicong Chen,  **Cheng-Jun Wang** * (2023) Let Us Not Wallow in the Valley of Despair: The Role of Emotion and Narrative in Affective Mobilization. In Submission.
+6. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission.
+7. Shengchun Huang, Zhuo Chen *, Cheng-Jun Wang * (2022) Weaving Behavioral Cocoons in Modern Life: Understanding Social Acceleration with Word Embeddings. In Writing.
+8. Yunjie Fei and Cheng-Jun Wang * (2023) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing.
+9. Cheng-Jun Wang * (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. Work in progress.
 
 
 ## 期刊论文
