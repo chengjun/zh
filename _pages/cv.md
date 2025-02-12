@@ -88,15 +88,16 @@ redirect_from:
 13. Meng F., Sun H., Xie J., **Wang C.J.**, Wu, J., Hu Y. * (2021) Preference for Number of Friends in Online Social Networks. Future Internet. 13(9): 236. [doi:10.3390/fi13090236](https://doi.org/10.3390/fi13090236). 
 14. Xu H, Zhang Z, Wu L *, **Wang C.J.** * (2019) The Cinderella Complex: Word embeddings reveal gender stereotypes in movies and books. PLoS ONE. 14(11): e0225385. [doi:10.1371/journal.pone.0225385](https://doi.org/10.1371/journal.pone.0225385)
 15. **Wang C.J.** * , Zhu, J.J.H.(2019) Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website, Telematics and Informatics. 41:34-45, [doi:10.1016/j.tele.2019.03.001](https://doi.org/10.1016/j.tele.2019.03.001)
-23. 李媛媛, 闫丽涵, 姜新雅, 任磊, **王成军** * (2023) 应急科普中的多元行动者:使用微博数据分析应急科普主体间的议程设置. 中国网络传播研究. 23:183-214. 
-24. 卢林艳, 李玉端, **王成军** * (2023) 人工智能对媒体行业技能与未来就业的影响——基于机器学习和网络分析的方法. 新闻大学. 201(1):106-122, [doi: 10.20050/j.cnki.xwdx.2023.01.009](	http://dx.doi.org/10.20050/j.cnki.xwdx.2023.01.009). [数据&代码](https://github.com/socrateslab/future-employment).
-25. 陈志聪, 周钰, 巢乃鹏, **王成军** * (2022)社会加速与传播游戏之间的张力：移动阅读的碎片化、多样性与持续性.《新闻与传播研究》.(10)：17-33.
-26. 苟泽鹏, 董 悦, 闫一帆, **王成军** * (2021) [数据科学的浪潮：计算社会科学研究综述](https://dx.doi.org/10.19946/j.issn.1006-2815.2021.02.002). 科学经济社会. 39(163):1-16. 
-27. 王成军 * (2021) 寻找公众注意力爆发的起源：以YouTube视频扩散为例. 东岳论丛. 320（02):142-153.
-28. 王成军 *（2021）[反思计算社会科学的逻辑：基于拉图尔的“计算中心”概念](http://dx.doi.org/10.15937/j.cnki.issn1001-8263.2021.04.014). 南京社会科学. 402(04):122-131.
-29. 卢功靖, 卢林艳, 李媛媛, **王成军** *（2021）基于议题类型的临近预测：使用社交媒体预测新冠确诊人数. 中国网络传播研究. 20:93-117.
-30. 卢林艳, 李媛媛, 卢功靖, 刘熠, **王成军** * (2021) [社交机器人驱动的计算宣传：社交机器人识别及其行为特征分析](http://dx.doi.org/10.16196/j.cnki.issn.1673-4793.2021.02.004). 中国传媒大学学报（自然科学版).28 (02):34-43+53. [Data & Code](https://github.com/socrateslab/cbjs).
-31. **王成军**，党明辉，杜骏飞 (2019) [找回失落的参考群体:对沉默的螺旋理论的边界条件的考察](http://mall.cnki.net/magazine/Article/XWDX201904005.htm). 新闻大学. 156:13-29. （入选人大复印资料新闻与传播2019年第8期）[Data & Code](https://github.com/socrateslab/sos), [ Netlogo Web](https://socrateslab.github.io/sos/index.html).
+16. **王成军** *，李蔼洁，张耀天（2024）算法想象视角下推特用户对ChatGPT的技术恐惧.新媒体与网络.1(4) doi: 10.20233/j.cnki.xmtwl.202404004
+17. 李媛媛, 闫丽涵, 姜新雅, 任磊, **王成军** * (2023) 应急科普中的多元行动者:使用微博数据分析应急科普主体间的议程设置. 中国网络传播研究. 23:183-214.
+18. 卢林艳, 李玉端, **王成军** * (2023) 人工智能对媒体行业技能与未来就业的影响——基于机器学习和网络分析的方法. 新闻大学. 201(1):106-122, [doi: 10.20050/j.cnki.xwdx.2023.01.009](	http://dx.doi.org/10.20050/j.cnki.xwdx.2023.01.009). [数据&代码](https://github.com/socrateslab/future-employment).
+19. 陈志聪, 周钰, 巢乃鹏, **王成军** * (2022)社会加速与传播游戏之间的张力：移动阅读的碎片化、多样性与持续性.《新闻与传播研究》.(10)：17-33.
+20. 苟泽鹏, 董 悦, 闫一帆, **王成军** * (2021) [数据科学的浪潮：计算社会科学研究综述](https://dx.doi.org/10.19946/j.issn.1006-2815.2021.02.002). 科学经济社会. 39(163):1-16.
+21. 王成军 * (2021) 寻找公众注意力爆发的起源：以YouTube视频扩散为例. 东岳论丛. 320（02):142-153.
+22. 王成军 *（2021）[反思计算社会科学的逻辑：基于拉图尔的“计算中心”概念](http://dx.doi.org/10.15937/j.cnki.issn1001-8263.2021.04.014). 南京社会科学. 402(04):122-131.
+23. 卢功靖, 卢林艳, 李媛媛, **王成军** *（2021）基于议题类型的临近预测：使用社交媒体预测新冠确诊人数. 中国网络传播研究. 20:93-117.
+24. 卢林艳, 李媛媛, 卢功靖, 刘熠, **王成军** * (2021) [社交机器人驱动的计算宣传：社交机器人识别及其行为特征分析](http://dx.doi.org/10.16196/j.cnki.issn.1673-4793.2021.02.004). 中国传媒大学学报（自然科学版).28 (02):34-43+53. [Data & Code](https://github.com/socrateslab/cbjs).
+25. **王成军**，党明辉，杜骏飞 (2019) [找回失落的参考群体:对沉默的螺旋理论的边界条件的考察](http://mall.cnki.net/magazine/Article/XWDX201904005.htm). 新闻大学. 156:13-29. （入选人大复印资料新闻与传播2019年第8期）[Data & Code](https://github.com/socrateslab/sos), [ Netlogo Web](https://socrateslab.github.io/sos/index.html).
 
 ### 2010-2018    
 1. **王成军** (2017).[计算社会科学视野下的新闻学研究：挑战与机遇](http://kns.cnki.net/kcms/detail/detail.aspx?filename=XWDX201704006&dbcode=CJFQ). 新闻大学. 4:26-32. （入选人大复印资料新闻与传播2017年第10期）
