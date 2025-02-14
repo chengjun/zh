@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "王成军"
-  avatar           : "chengjun.jpeg"
+  avatar           : "chengjun_outline.jpeg" # "chengjun.jpeg"
   bio              : "博士，教授"
   location         : # ""
   employer         : "南京大学"
