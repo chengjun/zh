@@ -90,7 +90,7 @@ redirect_from:
 14. Meng F., Sun H., Xie J., **Wang C.J.**, Wu, J., Hu Y. * (2021) Preference for Number of Friends in Online Social Networks. Future Internet. 13(9): 236. [doi:10.3390/fi13090236](https://doi.org/10.3390/fi13090236). 
 15. Xu H, Zhang Z, Wu L *, **Wang C.J.** * (2019) The Cinderella Complex: Word embeddings reveal gender stereotypes in movies and books. PLoS ONE. 14(11): e0225385. [doi:10.1371/journal.pone.0225385](https://doi.org/10.1371/journal.pone.0225385)
 16. **Wang C.J.** * , Zhu, J.J.H.(2019) Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website, Telematics and Informatics. 41:34-45, [doi:10.1016/j.tele.2019.03.001](https://doi.org/10.1016/j.tele.2019.03.001)
-17. **王成军** *，李蔼洁，张耀天（2024）算法想象视角下推特用户对ChatGPT的技术恐惧.新媒体与网络.1(4) doi: 10.20233/j.cnki.xmtwl.202404004
+17. **王成军** *，李蔼洁，张耀天（2024）算法想象视角下推特用户对ChatGPT的技术恐惧.新媒体与网络.1(4):35-47. doi: 10.20233/j.cnki.xmtwl.202404004
 18. 李媛媛, 闫丽涵, 姜新雅, 任磊, **王成军** * (2023) 应急科普中的多元行动者:使用微博数据分析应急科普主体间的议程设置. 中国网络传播研究. 23:183-214.
 19. 卢林艳, 李玉端, **王成军** * (2023) 人工智能对媒体行业技能与未来就业的影响——基于机器学习和网络分析的方法. 新闻大学. 201(1):106-122, [doi: 10.20050/j.cnki.xwdx.2023.01.009](	http://dx.doi.org/10.20050/j.cnki.xwdx.2023.01.009). [数据&代码](https://github.com/socrateslab/future-employment).
 20. 陈志聪, 周钰, 巢乃鹏, **王成军** * (2022)社会加速与传播游戏之间的张力：移动阅读的碎片化、多样性与持续性.《新闻与传播研究》.(10)：17-33.
