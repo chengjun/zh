@@ -8,6 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
+![image](https://github.com/chengjun/zh/assets/543384/fcf58706-420d-46b3-8243-3e350b8563ba)
+
+
 ## 编委会
 
 - [Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)编委会（Editorial Board，2022年9月-至今）
