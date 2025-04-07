@@ -56,7 +56,9 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
       </div>
       </center>
     </div>
-    
+</div>
+
+<div class="row">
     <div class="column">
       <center>
       <div class="author__avatar">
