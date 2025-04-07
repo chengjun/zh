@@ -24,8 +24,17 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 ## 博士生
 
 <div class="row">
-
-
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="https://github.com/user-attachments/assets/c9b5e011-ff8a-4beb-ae06-28a64a310e0e" class="author__avatar" alt="Cai He">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://caihe1025.github.io/">蔡赫</a><br/>(2025 - )</p>
+      </div>
+      </center>
+    </div>
+    
     <div class="column">
       <center>
       <div class="author__avatar">
