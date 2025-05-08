@@ -40,6 +40,9 @@ author_profile: true
 
 
 我正在筹备写作《**计算叙事**》一书，欢迎关注[本书的Github讨论](https://github.com/chengjun/storybook/discussions)！
+
+![image](https://github.com/user-attachments/assets/f460cde3-8edf-4b9f-9474-9954aa67aab1)
+
 - 计传岛微信公众号推文[《岛友说 王成军：人工智能时代的计算叙事研究》](https://mp.weixin.qq.com/s/YRXD0TQVJKyNeYN9rbUpmg)
 - 《数智时代讲好中国故事的计算叙事研究》.中国新闻史学会理事大会. 2024年11月23日. 南京. 
 - “计算叙事传播”的相关文献积累 [Zotero](https://www.zotero.org/wangchj2020/collections/IQMIS6AC)
