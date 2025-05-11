@@ -58,14 +58,20 @@ redirect_from:
 
 
 ## 工作论文
+
+### 中文
 1. 王成军（2024）《计算中心论》. 书稿. [内容简介&写作进展](https://chengjun.github.io/zh/publications/).
-2. 王成军（2025）计算中心论：智能与计算传播学的理论逻辑刍议. 论文手稿.
-3. 王成军（2024）计算叙事：人工智能时代的叙事传播研究新范式. 论文手稿.  
-5. Yan, Lihan and Cui, Haochuan and Wang, Cheng-Jun, Are Patent Examiners Killing Disruptive Innovation? Analyzing the Effect of Scientific Gatekeeping with USPTO Patent Data (2004-2018). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4877993
-6. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission. 2nd R&R.
-7. Shengchun Huang, Zhuo Chen *, Cheng-Jun Wang * (2022) Weaving Behavioral Cocoons in Modern Life: Understanding Social Acceleration with Word Embeddings. In submission.
-8. Yunjie Fei and Cheng-Jun Wang * (2023) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing.
-9. Cheng-Jun Wang * (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. Work in progress.
+2. 王成军（2025）计算中心论：智能传播学的理论逻辑刍议. 论文手稿.
+3. 王成军（2024）计算叙事：人工智能时代的叙事传播研究新范式. 论文手稿.
+
+### 英文
+1. Zhou, Zhenfeng and Wang, Cheng-Jun, The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800-1920) (March 30, 2025). Available at SSRN: https://ssrn.com/abstract=5244337 or http://dx.doi.org/10.2139/ssrn.5244337
+2. Xiao, Xiao and Wang, Cheng-Jun, The Power of Media in Authoritarian Regimes: The Impact of International News on Political Elites in China (1957-1972) (March 17, 2025). Available at SSRN: https://ssrn.com/abstract=5181247 or http://dx.doi.org/10.2139/ssrn.5181247
+3. Yan, Lihan and Cui, Haochuan and Wang, Cheng-Jun, Are Patent Examiners Killing Disruptive Innovation? Analyzing the Effect of Scientific Gatekeeping with USPTO Patent Data (2004-2018). Available at SSRN: http://dx.doi.org/10.2139/ssrn.4877993
+4. Yan Xue-Fei, Lu Linyan, Chen Zhicong, Wang Cheng-Jun (2023) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. In Submission. 2nd R&R.
+5. Shengchun Huang, Zhuo Chen *, Cheng-Jun Wang * (2022) Weaving Behavioral Cocoons in Modern Life: Understanding Social Acceleration with Word Embeddings. In submission.
+6. Yunjie Fei and Cheng-Jun Wang * (2023) Narrative Economics of the Subprime Mortgage Crisis in the United States from 2007 to 2009. In Writing.
+7. Cheng-Jun Wang * (2017). Leveraging the Flow of Collective Attention for Computational Communication Research. Work in progress.
 
 
 ## 期刊论文
