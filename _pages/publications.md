@@ -54,6 +54,19 @@ author_profile: true
 - 计传岛微信公众号推文[《岛友说 王成军：人工智能时代的计算叙事研究》](https://mp.weixin.qq.com/s/YRXD0TQVJKyNeYN9rbUpmg)
 - 《数智时代讲好中国故事的计算叙事研究》.中国新闻史学会理事大会. 2024年11月23日. 南京. 
 - “计算叙事传播”的相关文献积累 [Zotero](https://www.zotero.org/wangchj2020/collections/IQMIS6AC)
+
+### 相关论文
+#### 工作论文
+1. Zhou, Zhenfeng and Wang, Cheng-Jun, The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800-1920) (March 30, 2025). Available at SSRN: https://ssrn.com/abstract=5244337 or http://dx.doi.org/10.2139/ssrn.5244337
+2. Xiao, Xiao and Wang, Cheng-Jun, The Power of Media in Authoritarian Regimes: The Impact of International News on Political Elites in China (1957-1972) (March 17, 2025). Available at SSRN: https://ssrn.com/abstract=5181247 or http://dx.doi.org/10.2139/ssrn.5181247
+#### 发表论文 
+1. Zhang, Yaotian; Sun, Yixiao ‡; **Wang, Cheng-Jun** * (2025) Unraveling the Shape of Social Media Narratives: Analyzing the Effects of Online Interaction and Narrative Structure on Attention to Digital Asset Transactions. Journal of Broadcasting & Electronic Media. [doi: 10.1080/08838151.2025.2484347](https://doi.org/10.1080/08838151.2025.2484347). Data & Code: [https://osf.io/zhwxy/](https://osf.io/zhwxy/)
+2. Zhang, Yaotian; Sun, Yixiao; Chen, Zhicong *; **Wang, Cheng-Jun** * (2025) Let us not wallow in the valley of despair: The role of emotion, panic, and sympathy discourses in promoting productive actions. International Journal of Business Communication. [doi: 10.1177/23294884251333665](https://doi.org/10.1177/23294884251333665). Data & Code: [doi: 10.0.68.197/OSF.IO/ZHWXY](https://doi.org/10.0.68.197/OSF.IO/ZHWXY)
+3. **Cheng-Jun Wang**, Xinzhi Zhang *, Zepeng Gou, Youqing Wu (2024) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. Humanities and Social Sciences Communications. 11:1173. [doi: 10.1057/s41599-024-03636-8](https://doi.org/10.1057/s41599-024-03636-8). Data & Code: [https://doi.org/10.17605/OSF.IO/MTASG](https://doi.org/10.17605/OSF.IO/MTASG)
+4. Sun, Y., Yan, X. F., Zhang, Y., Chen, J., Chen, Z. *, & **Wang, C. J.** *  (2024) Globalization in International Tensions: The Impact of Military Conflicts on the Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937). Chinese Journal of Communication, 17(4):452–470. [doi: 10.1080/17544750.2024.2354698](https://doi.org/10.1080/17544750.2024.2354698). Data & Code: [https://doi.org/10.17605/OSF.IO/6S7AQ](https://doi.org/10.17605/OSF.IO/6S7AQ)
+5. Zhang Q. & **Wang C.J.** * (2024) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. Humanities and Social Sciences Communications.11:484. [doi: 10.1057/s41599-024-02983-w](https://doi.org/10.1057/s41599-024-02983-w). Data & Code: [https://doi.org/10.17605/OSF.IO/ZHT8E](https://doi.org/10.17605/OSF.IO/ZHT8E)
+6. Chen Z., Meng X., **Wang C.J.** * (2023) The Dark Web Privacy Dilemma: Linguistic Diversity, Talkativeness, and User Engagement on the Cryptomarket Forums. Humanities and Social Sciences Communications.10:903 [doi: 10.1057/s41599-023-02424-0](https://doi.org/10.1057/s41599-023-02424-0). Data & Code: [https://osf.io/cv4ef/](https://osf.io/cv4ef/)
+7. Xu H, Zhang Z, Wu L *, **Wang C.J.** * (2019) The Cinderella Complex: Word embeddings reveal gender stereotypes in movies and books. PLoS ONE. 14(11): e0225385. [doi:10.1371/journal.pone.0225385](https://doi.org/10.1371/journal.pone.0225385)
   
 ![image](https://github.com/chengjun/zh/assets/543384/56e00c04-d23a-409e-91b7-ee3f4cb75764)
 
