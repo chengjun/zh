@@ -56,9 +56,11 @@ author_profile: true
 - “计算叙事传播”的相关文献积累 [Zotero](https://www.zotero.org/wangchj2020/collections/IQMIS6AC)
 
 ### 相关论文
+
 #### 工作论文
 1. Zhou, Zhenfeng and Wang, Cheng-Jun, The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800-1920) (March 30, 2025). Available at SSRN: https://ssrn.com/abstract=5244337 or http://dx.doi.org/10.2139/ssrn.5244337
 2. Xiao, Xiao and Wang, Cheng-Jun, The Power of Media in Authoritarian Regimes: The Impact of International News on Political Elites in China (1957-1972) (March 17, 2025). Available at SSRN: https://ssrn.com/abstract=5181247 or http://dx.doi.org/10.2139/ssrn.5181247
+
 #### 发表论文 
 1. Zhang, Yaotian; Sun, Yixiao ‡; **Wang, Cheng-Jun** * (2025) Unraveling the Shape of Social Media Narratives: Analyzing the Effects of Online Interaction and Narrative Structure on Attention to Digital Asset Transactions. Journal of Broadcasting & Electronic Media. [doi: 10.1080/08838151.2025.2484347](https://doi.org/10.1080/08838151.2025.2484347). Data & Code: [https://osf.io/zhwxy/](https://osf.io/zhwxy/)
 2. Zhang, Yaotian; Sun, Yixiao; Chen, Zhicong *; **Wang, Cheng-Jun** * (2025) Let us not wallow in the valley of despair: The role of emotion, panic, and sympathy discourses in promoting productive actions. International Journal of Business Communication. [doi: 10.1177/23294884251333665](https://doi.org/10.1177/23294884251333665). Data & Code: [doi: 10.0.68.197/OSF.IO/ZHWXY](https://doi.org/10.0.68.197/OSF.IO/ZHWXY)
