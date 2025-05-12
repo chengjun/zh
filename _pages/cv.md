@@ -63,6 +63,7 @@ redirect_from:
 1. 王成军（2024）《计算中心论》. 书稿. [内容简介&写作进展](https://chengjun.github.io/zh/publications/).
 2. 王成军（2025）计算中心论：智能传播学的理论逻辑刍议. 论文手稿.
 3. 王成军（2024）计算叙事：人工智能时代的叙事传播研究新范式. 论文手稿.
+4. 张耀天；王成军 *（2025）跨越懒人行动主义：公共危机中的科学参与、道德基础与情感表达对公众捐款的影响. 投稿中
 
 ### 英文
 1. Zhou, Zhenfeng and Wang, Cheng-Jun, The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800-1920) (March 30, 2025). Available at SSRN: https://ssrn.com/abstract=5244337 or http://dx.doi.org/10.2139/ssrn.5244337
