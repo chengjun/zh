@@ -6,12 +6,6 @@ author_profile: true
 ---
 
 
-
-![image](https://github.com/chengjun/zh/assets/543384/4319634c-582e-4bf2-92b0-ea156e4f0828)
-
-
-# 图书项目
-
 现在和未来十年的主要研究兴趣分为两个方面：一、发展叙事瀑流模型，开展一系列国际传播的计算叙事研究；二、构建计算中心论，提炼计算传播学的理论逻辑。
 
 ## 《计算中心论》
@@ -72,6 +66,7 @@ author_profile: true
   
 ![image](https://github.com/chengjun/zh/assets/543384/56e00c04-d23a-409e-91b7-ee3f4cb75764)
 
+![image](https://github.com/chengjun/zh/assets/543384/4319634c-582e-4bf2-92b0-ea156e4f0828)
 
 
 <br>
