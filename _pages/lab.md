@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-![image](https://github.com/chengjun/zh/assets/543384/79603db5-e7c8-4f92-a8ad-22ce78baac34)
-
-
-
 欢迎来到王成军老师的课题组———**苏格拉底实验室**（**Socrates Lab**）! 我们是隶属于南京大学[新闻传播学院](https://jc.nju.edu.cn/)[计算传播学实验中心](https://socrateslab.github.io/)的一个小团队.
 
 Github: [https://github.com/socrateslab](https://github.com/socrateslab)
@@ -142,11 +138,13 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 ## 第谷读书会
 
-第谷读书会是南京大学计算传播学实验中心的成员们于2018年9月发起的定期读书会，致力于满足参与者在求学过程交流知识的需要。我们将每个星期一起阅读前沿的学术论文、特定的书目，通过成员的互动、交流，促进思想的碰撞，以期从前沿科学领域获得新的研究灵感，孕育全新的科研思想。你可以通过扫描二维码的方式了解我们正在进行的活动，或者观看往期活动的[视频](https://search.bilibili.com/all?keyword=%E7%AC%AC%E8%B0%B7%E8%AF%BB%E4%B9%A6%E4%BC%9A&order=pubdate&duration=0&tids_1=0)。 
+第谷读书会是南京大学计算传播学实验中心的成员们于2018年9月发起的定期读书会（受研讨会影响，现在改为不定期举办），致力于满足参与者在求学过程交流知识的需要。我们将每个星期一起阅读前沿的学术论文、特定的书目，通过成员的互动、交流，促进思想的碰撞，以期从前沿科学领域获得新的研究灵感，孕育全新的科研思想。你可以通过扫描二维码的方式了解我们正在进行的活动，或者观看往期活动的[视频](https://search.bilibili.com/all?keyword=%E7%AC%AC%E8%B0%B7%E8%AF%BB%E4%B9%A6%E4%BC%9A&order=pubdate&duration=0&tids_1=0)。 
 
 ![image](https://github.com/chengjun/zh/assets/543384/f9956b7b-dc4c-4707-a1a6-7894bec6b62f)
 
 『柏拉图说』是由南京大学计算传播学实验中心的成员们于2022年4月发起的论文精读与推介活动，我们将定期推送新闻传播学TOP期刊最新内容、新闻传播学前沿及相关量化研究方法论文。我们致力于深耕传播学领域，紧跟专业研究热点，延伸学术视角，拓展群体智慧。
+
+![image](https://github.com/chengjun/zh/assets/543384/79603db5-e7c8-4f92-a8ad-22ce78baac34)
 
 
 ## 合影
