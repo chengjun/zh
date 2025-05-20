@@ -201,13 +201,16 @@ redirect_from:
 
 ## 教学
 
-- Ph.D Course [Computational Communication Research Workshop](https://github.com/socrateslab/workshop/) (2020-Now)
-- Master Course [Big Data Mining and Analysis](https://github.com/chengjun/mybook/discussions) (2018-Now)
-- Undergraduate Course [Computational Social Science](https://github.com/SocratesAcademy/css/) (2020-Now)
-- Undergraduate Course [Data Journalism](https://github.com/data-journalism/data-journalism.github.io/discussions) (2015-2022)
-- Undergraduate Course [Python Programming Basics For Data Science](https://github.com/socratesacademy/datascience/) (2017-2019)
-- FDU Graduate Course [Introduction to Computational Communication](https://github.com/computational-class/cjc/) (2015-2021)
-- MOOC Course [Digital Marketing](https://www.icourse163.org/course/20201232-1462060162) (2020-Now)
+- 博士课程 [计算传播研究工作坊](https://github.com/socrateslab/workshop/) (2020-Now)
+- 硕士课程 [计算传播学导论](https://github.com/chengjun/mybook/discussions) (2018-Now)
+- 本科课程 [计算社会科学导论](https://github.com/SocratesAcademy/css/) (2020-Now)
+- MOOC课程 [数字营销](https://www.icourse163.org/course/20201232-1462060162) (2020-Now)
+
+### 以往课程  
+- 本科课程 [学术论文写作](https://github.com/SocratesAcademy/craft/) (2023-2024)
+- 本科课程 [数据新闻](https://github.com/data-journalism/data-journalism.github.io/discussions) (2015-2022)
+- 本科课程 [数据科学Python编程基础](https://github.com/socratesacademy/datascience/) (2017-2019)
+- FDU研究生课程 [计算新闻传播学](https://github.com/computational-class/cjc/) (2015-2021)
 
 ## 培训
 - 2021年6月14日-6月25日，计算社会科学暑期学校（北京分会场）（Summer Institute in Computational Social Science in Beijing，SICSS2021-Beijing).
