@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 [南京大学新闻传播学院](https://jc.nju.edu.cn/)教授、博士生导师，[计算传播学实验中心](https://socrateslab.github.io/)主任，紫金传媒智库高级研究员。
-此外，他领导了一个名为[苏格拉底实验室](https://chengjun.github.io/zh/lab/)的小团队，成员包括博士生、硕士生和本科生。他致力于采用计算社会科学视角研究人类传播行为，包括信息扩散、注意力流动和计算叙事。著作《跨越网络的门槛：社交媒体上的信息扩散》（2022）；合著《计算传播学导论》(2018)、《社交网络上的计算传播学》(2015)。
+此外，他领导了一个名为[苏格拉底实验室](https://chengjun.github.io/zh/lab/)的小团队，成员包括博士生、硕士生和本科生。他致力于采用计算社会科学视角研究人类传播行为，包括信息扩散、注意力流动和计算叙事。著作《跨越网络的门槛：社交媒体上的信息扩散》（2022）；合著《计算传播学导论》(2018，2024)、《社交网络上的计算传播学》(2015)。
 
 <a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/cv.md">
   <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
@@ -105,8 +105,6 @@ redirect_from:
 25. 王成军 *（2021）[反思计算社会科学的逻辑：基于拉图尔的“计算中心”概念](http://dx.doi.org/10.15937/j.cnki.issn1001-8263.2021.04.014). 南京社会科学. 402(04):122-131.
 26. 卢功靖, 卢林艳, 李媛媛, **王成军** *（2021）基于议题类型的临近预测：使用社交媒体预测新冠确诊人数. 中国网络传播研究. 20:93-117.
 27. 卢林艳, 李媛媛, 卢功靖, 刘熠, **王成军** * (2021) [社交机器人驱动的计算宣传：社交机器人识别及其行为特征分析](http://dx.doi.org/10.16196/j.cnki.issn.1673-4793.2021.02.004). 中国传媒大学学报（自然科学版).28 (02):34-43+53. [Data & Code](https://github.com/socrateslab/cbjs).
-
-### 2011-2020
 1. Xu H, Zhang Z, Wu L *, **Wang C.J.** * (2019) The Cinderella Complex: Word embeddings reveal gender stereotypes in movies and books. PLoS ONE. 14(11): e0225385. [doi:10.1371/journal.pone.0225385](https://doi.org/10.1371/journal.pone.0225385)
 2. **Wang C.J.** * , Zhu, J.J.H.(2019) Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website, Telematics and Informatics. 41:34-45, [doi:10.1016/j.tele.2019.03.001](https://doi.org/10.1016/j.tele.2019.03.001)
 3. **王成军**，党明辉，杜骏飞 (2019) [找回失落的参考群体:对沉默的螺旋理论的边界条件的考察](http://mall.cnki.net/magazine/Article/XWDX201904005.htm). 新闻大学. 156:13-29. （入选人大复印资料新闻与传播2019年第8期）[Data & Code](https://github.com/socrateslab/sos), [ Netlogo Web](https://socrateslab.github.io/sos/index.html).
