@@ -195,7 +195,7 @@ redirect_from:
 
 ## 工作坊
 1. Wang, C.J.(2014) Web Data Analysis. City University of Hong Kong, Department of Media and Communication. The Web Mining Workshop. 4.22-4.25
-1. Wang, C.J.(2013) The Way to Computational Communication (通往计算传播学之路). Department of Journalism and Communication, Shenzhen University. Jan 4th.
+1. 王成军 (2013) 通往计算传播学之路. 深圳大学传播学院. 深圳. 2013年1月4日.
 1. Wang, C.J.(2012) Jumping over Network Threshold: News Diffusion on News Sharing Website. The seminar of IR and Friends. Commonwealth Scientific and Industrial Research Organisation (CSIRO), Australia National University, Canberra. May 14.
 
 
