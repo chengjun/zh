@@ -20,23 +20,24 @@ author_profile: true
    - 杰出历史人物的跨文化叙事传播研究
 4. 新闻联播项目：投稿中
    - Mirror or Molder? Uncovering the Nexus Between Xinwen Lianbo's International News Narrative and China’s International Economic Relations (2006–2023)
-5. China Daily项目：中美贸易冲突
-6. 民国报纸中外商广告的全球化叙事：已发表
+5. China Daily项目：写作中
+   - 中美贸易冲突
+7. 民国报纸中外商广告的全球化叙事：已发表
    - Sun, Y., Yan, X. F., Zhang, Y., Chen, J., Chen, Z. *, & Wang, C. J. * (2024) Globalization in International Tensions: The Impact of Military Conflicts on the Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937). Chinese Journal of Communication, 17(4):452–470. doi: 10.1080/17544750.2024.2354698. 
-7. 申报评论对于西方列强的叙事：写作中
-8. 外交部发言人叙事：投稿中
+8. 申报评论对于西方列强的叙事：写作中
+9. 外交部发言人叙事：投稿中
    - Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences
-9. 《参考消息》与《毛泽东年谱》：写作中
+10. 《参考消息》与《毛泽东年谱》：写作中
     - The Power of Media in Authoritarian Regimes: The Impact of International News on Political Elites in China (1957-1972) (March 17, 2025). Available at SSRN: https://ssrn.com/abstract=5181247 or http://dx.doi.org/10.2139/ssrn.5181247
-10. 公共危机中的微博捐款：已发表
+11. 公共危机中的微博捐款：已发表
     - Zhang, Yaotian; Sun, Yixiao; Chen, Zhicong *; Wang, Cheng-Jun * (2025) Let us not wallow in the valley of despair: The role of emotion, panic, and sympathy discourses in promoting productive actions. International Journal of Business Communication. doi: 10.1177/23294884251333665. 
-11. 网络民族主义研究：已发表
+12. 网络民族主义研究：已发表
     - Zhang Q. & Wang C.J. * (2024) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. Humanities and Social Sciences Communications.11:484. doi: 10.1057/s41599-024-02983-w.
-12. 网易云音乐叙事传输研究：已发表
+13. 网易云音乐叙事传输研究：已发表
     - Cheng-Jun Wang, Xinzhi Zhang *, Zepeng Gou, Youqing Wu (2024) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. Humanities and Social Sciences Communications. 11:1173. doi: 10.1057/s41599-024-03636-8. Data & Code: https://doi.org/10.17605/OSF.IO/MTASG
-13. 《黑神话》与西游记的国际传播：写作中
+14. 《黑神话》与西游记的国际传播：写作中
     - 本科毕业论文
-14. 短剧出海：写作中
+15. 短剧出海：写作中
     - 本科毕业论文
 
 
