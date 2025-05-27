@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/d2ea5b88-708b-4b02-9658-cdddc5f5d285)---
 layout: archive
 title: "研究项目"
 permalink: /project/
@@ -10,8 +10,40 @@ author_profile: true
 ![image](https://github.com/chengjun/zh/assets/543384/bda67b7c-d081-4d74-b3a7-aaf3fd14b963)
 
 ## 主持项目
-### 在研项目
+### 国家项目
 1. 数字媒体时代中国故事和中国声音的计算叙事研究，**国家社会科学基金一般项目**（项目编号 22BXW032，20万元），2022/10-2025/12，主持
+
+**阶段性成果**
+1. 引言：
+   - 王成军（2024）计算叙事：人工智能时代的叙事传播研究新范式. 论文手稿.
+2. 万神殿项目：写作中
+   - 杰出历史人物的跨文化叙事传播研究
+4. 新闻联播项目：投稿中
+   - Mirror or Molder? Uncovering the Nexus Between Xinwen Lianbo's International News Narrative and China’s International Economic Relations (2006–2023)
+5. China Daily项目：中美贸易冲突
+6. 民国报纸中外商广告的全球化叙事：已发表
+   - Sun, Y., Yan, X. F., Zhang, Y., Chen, J., Chen, Z. *, & Wang, C. J. * (2024) Globalization in International Tensions: The Impact of Military Conflicts on the Cultural Orientations of Multinational Corporations’ Advertising in Modern China (1932-1937). Chinese Journal of Communication, 17(4):452–470. doi: 10.1080/17544750.2024.2354698. 
+7. 申报评论对于西方列强的叙事：写作中
+8. 外交部发言人叙事：投稿中
+   - Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences
+9. 《参考消息》与《毛泽东年谱》：写作中
+    - The Power of Media in Authoritarian Regimes: The Impact of International News on Political Elites in China (1957-1972) (March 17, 2025). Available at SSRN: https://ssrn.com/abstract=5181247 or http://dx.doi.org/10.2139/ssrn.5181247
+10. 公共危机中的微博捐款：已发表
+    - Zhang, Yaotian; Sun, Yixiao; Chen, Zhicong *; Wang, Cheng-Jun * (2025) Let us not wallow in the valley of despair: The role of emotion, panic, and sympathy discourses in promoting productive actions. International Journal of Business Communication. doi: 10.1177/23294884251333665. 
+11. 网络民族主义研究：已发表
+    - Zhang Q. & Wang C.J. * (2024) Chinese Online Nationalism as Imaginary Engagement: An Automated Sentiment Analysis of Tencent News Comments on the 2012 Diaoyu (Senkaku) Islands Incident. Humanities and Social Sciences Communications.11:484. doi: 10.1057/s41599-024-02983-w.
+12. 网易云音乐叙事传输研究：已发表
+    - Cheng-Jun Wang, Xinzhi Zhang *, Zepeng Gou, Youqing Wu (2024) Yesterday Once More: Collective Storytelling Constitutes the Success of Digital Cultural Products on Music Streaming Platforms. Humanities and Social Sciences Communications. 11:1173. doi: 10.1057/s41599-024-03636-8. Data & Code: https://doi.org/10.17605/OSF.IO/MTASG
+13. 《黑神话》与西游记的国际传播：写作中
+    - 本科毕业论文
+14. 短剧出海：写作中
+    - 本科毕业论文
+
+
+
+
+
+### 其它项目
 2. 增强中华文明传播力的计算叙事研究，南京大学文科人工智能交叉研究计划 （AI for HASS）首批专项课题（10万元，项目编号 2025300128），2025/01-2027/11，主持
 3. 人工智能时代的计算叙事研究，南京大学新时代文科卓越研究计划“中长期研究专项”（项目编号 14914211），2022/01-2024/12，主持
    
