@@ -18,7 +18,7 @@ main:
   - title: "服务"
     url: /service/
 
-  - title: "实验室"
+  - title: "团队"
     url: /lab/
         
   # - title: "博客"
