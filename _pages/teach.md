@@ -28,10 +28,8 @@ author_profile: true
 ## 2025年秋季学期排课信息
 
 - 《计算社会科学导论》05000770 周二 7-8节 1-16周 基础实验楼乙109 [代码仓库](https://github.com/SocratesAcademy/css/)、[课程网站](https://chengjun.github.io/cssbook/)
-- 《计算传播学导论》（3-17周） 新传院
-- 《专业训练营-计算传播训练营》 052200C20
-
-![image](https://github.com/user-attachments/assets/498ec78c-825a-4b08-bbd8-d583eff08d6b)
+- 《计算传播学导论》（3-17周） 新传院 1-16周 周四 7-8节 
+- 《专业训练营-计算传播训练营》 052200C20 1-16周 周二 上午 3-4节 
 
 
 ## 开设课程
