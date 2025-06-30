@@ -94,8 +94,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 ### 硕士生
 
-- 孙逸潇 (2022-2025) https://sun-yixiao.github.io/ 
-- 费韵洁 (2022-2025) https://yunjiefei.github.io/ 
+
 - 韦婉茜 (2023-2026) https://weiwanxi-999.github.io/
 - 张含融 (2023-2026) https://Zhang-Hanrong.github.io/
 - 周振锋 (2023-2026) https://zhou-zhen-feng.github.io/
@@ -119,6 +118,8 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 - 周钰   (2020-2023) https://18005176298.github.io/
 - 苟泽鹏 (2020-2023) https://pennygou.github.io/
 - 姜新雅 (2021-2024) https://alexandrajiang.github.io/
+- 孙逸潇 (2022-2025) https://sun-yixiao.github.io/ 
+- 费韵洁 (2022-2025) https://yunjiefei.github.io/ 
 
 # 实验室活动
 
