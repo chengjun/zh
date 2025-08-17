@@ -78,8 +78,9 @@ redirect_from:
 5. 欢迎来玩我使用[Microsoft MakeCode Arcade](https://arcade.makecode.com/)制作的[飞车游戏](https://chengjun.github.io/racer-makecode/)和[jumpy platformer](https://chengjun.github.io/jumpy-platformer)，后者修改了一些基本设置。
 6. 我最喜欢的苏格拉底漫画：[https://existentialcomics.com](https://existentialcomics.com/philosopher/Socrates)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=800&t=tt&d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
-  
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8&cmn=933acc'></script>
+
 <br>
   
 <a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/about.md">
