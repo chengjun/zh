@@ -8,6 +8,11 @@ author_profile: true
 
 现在和未来十年的主要研究兴趣分为两个方面：一、发展叙事瀑流模型，开展一系列国际传播的计算叙事研究；二、构建计算中心论，提炼计算传播学的理论逻辑。
 
+
+<a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/publications.md">
+  <img src="https://github.com/user-attachments/assets/d374d1e6-3a40-4d2f-9f98-6f5617c1409f" width = "200" align="middle" />
+</a>
+
 ## 《计算中心论》
 
 > 计算传播学如何思考理论或有什么理论贡献？事实上，这样的提问也有失公允。这让人想起霍华德·贝克尔（Howard Becker）在其名著《社会学家的窍门》（Tricks of the Trade）中讲到他的导师埃弗里特·休斯（Everett Hughes）的故事。当一群学生围着休斯请教该如何思考理论时，休斯气呼呼地瞪着学生们反问：“关于什么的理论？”因为休斯认为宏大理论是没有价值的，理论是与具体的事物相关的。休斯的这种回答方式颇有禅宗的风采：“本来无一物，何处惹尘埃。”如果提问者没有一个明确的研究对象，没有一个明确的研究问题，就无法空洞地去谈论背后的理论框架。计算传播直接对应的具体事物是计算传播现象和计算传播产业。比如，现在人们都在关注以推荐系统为主要特点的智能媒体对政治极化的影响。如果不去关注这些计算传播现象、不去追踪智能媒体上的人类传播行为、不去测量推荐系统所引入的偏见，就很难回答这种问题。然而休斯式的回答固然高明，也存在问题，主要是没有从认识论的高度明确计算传播学的理论逻辑。比如，当我们思考传播学是什么的时候，我们往往会回到5W模型。当我们思考计算传播学的时候，我们是否存在合适的理论和模型呢？这构成了本书的**核心问题**。
@@ -64,16 +69,13 @@ author_profile: true
 6. Chen Z., Meng X., **Wang C.J.** * (2023) The Dark Web Privacy Dilemma: Linguistic Diversity, Talkativeness, and User Engagement on the Cryptomarket Forums. Humanities and Social Sciences Communications.10:903 [doi: 10.1057/s41599-023-02424-0](https://doi.org/10.1057/s41599-023-02424-0). Data & Code: [https://osf.io/cv4ef/](https://osf.io/cv4ef/)
 7. Xu H, Zhang Z, Wu L *, **Wang C.J.** * (2019) The Cinderella Complex: Word embeddings reveal gender stereotypes in movies and books. PLoS ONE. 14(11): e0225385. [doi:10.1371/journal.pone.0225385](https://doi.org/10.1371/journal.pone.0225385)
   
-![image](https://github.com/chengjun/zh/assets/543384/56e00c04-d23a-409e-91b7-ee3f4cb75764)
-
-![image](https://github.com/chengjun/zh/assets/543384/4319634c-582e-4bf2-92b0-ea156e4f0828)
-
 
 <br>
 
 
+
+
+
+
 <img width="964" alt="image" src="https://github.com/chengjun/zh/assets/543384/6efa85e2-8413-44fe-915b-0b0045c3960f">
-
-
-✏️ [Edit this page](https://github.com/{{site.repository}}edit/gh-pages/_pages/publications.md)
 
