@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+# 开学了！
+
 ![image](https://github.com/chengjun/zh/assets/543384/5d3fbf7a-2076-45a2-94ed-142f94f3f626)
 
 《计算传播学导论》（第二版）在2024年底出版了!
