@@ -249,13 +249,15 @@ redirect_from:
    - 副理事长（20241109-至今）
 2. 中国信息学会社交媒体处理专业委员会（SMP)
    - 委员
-3. [SocialMeta2023](https://socialmeta2023.github.io/)
+3. 《新闻传播研究前沿》集刊
+   - 编辑学术委员会成员
+4. [SocialMeta2023](https://socialmeta2023.github.io/)
    - *Programme Commitee* member
-4. Complex System Society (CSS)
-5. International Communication Association (ICA)
-6. World Association of Public Opinion Research (WAPOR)
-7. International Telecommunications Society (ITS)
-8. **International Conference of Computational Social Science (IC2S2)**
+5. Complex System Society (CSS)
+6. International Communication Association (ICA)
+7. World Association of Public Opinion Research (WAPOR)
+8. International Telecommunications Society (ITS)
+9. **International Conference of Computational Social Science (IC2S2)**
    - I served as a *Programme Commitee* member
 
 
