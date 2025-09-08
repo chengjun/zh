@@ -26,6 +26,12 @@ redirect_from:
 
 **治学自述**：我唯一知道的就是我一无所知 [链接🔗](https://chengjun.github.io/zh/posts/2024/04/my-story/)
 
+<img width="749" height="176" alt="image" src="https://github.com/user-attachments/assets/f416af07-8a1f-4d6d-98cf-906f3a00073c" />
+
+
+我和许小可、张子柯、廖好老师一起发起组织**AI × 传播读书会**。汇聚传播学、计算机科学和媒体研究专家，通过跨学科对话探讨AI时代的机遇。我们将分析技术变革背后的传播逻辑，构建包容的理论框架，帮助理解技术与人文的互动。链接： https://pattern.swarma.org/study_group/67
+
+
 ## 教材
 
 《计算传播学导论》（第二版）于2024年12月正式出版!
