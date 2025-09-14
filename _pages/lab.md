@@ -102,6 +102,12 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 - 张潇逸 (2024-2027) https://xiaoyizhang833.github.io/
 - 黄靖翔 (2024-2027) https://huang-jingxiang.github.io/
 - 安静静 (2024-2027) https://Jingjing-An.github.io/
+- 郑亦佳 (2025-2028) https://Zoe-ZhengYijia.github.io/
+- 马卫华 (2025-2028) https://ma-weihua.github.io/
+- 陆阳 (2025-2028) https://yanglu729.github.io/
+- 朱明君 (2025-2028) https://zhu-mingjun.github.io/
+- 刘禹希 (2025-2028) https://Yuxia-liu.github.io/
+
 
 ## 毕业生
 ### 硕士毕业生
