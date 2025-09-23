@@ -134,7 +134,7 @@ redirect_from:
 
 ### 书籍
 1. 王成军（2022）[《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/). 北京：科学出版社. ISBN: 9787030721648 [Github Repository](https://github.com/chengjun/thresholdbook) & [References](https://www.zotero.org/wangchj2020/collections/AEYS2R5X).
-2. 郑丽勇, 朱江丽, 王成军, & 胡菡菡. (2025). 数字营销传播. 中国传媒大学出版社. [ISBN: 9787565739675](https://book.douban.com/subject/37533533/)
+2. 郑丽勇, 朱江丽, 王成军, & 胡菡菡. (2025). [数字营销传播](https://book.douban.com/subject/37533533/). 中国传媒大学出版社. ISBN: 9787565739675
 3. 王成军 (2019) [《计算传播学讲义》](https://chengjun.github.io/mybook/). Jupyter Book.
 4. 张伦、王成军、许小可（2024）[《计算传播学导论》(第二版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社. ISBN: 978-7-303-28461-0
 5. 张伦、王成军、许小可（2018）[《计算传播学导论》(第一版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社. ISBN: 978-7-303-24120-0
