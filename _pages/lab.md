@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-<img width="600" height="600" alt="e25b21a138d5b668234ed585b7cd3710" src="https://github.com/user-attachments/assets/200e9d05-ddd4-43be-b010-7d4e9bf0620f" />
+<img width="300" height="300" alt="e25b21a138d5b668234ed585b7cd3710" src="https://github.com/user-attachments/assets/200e9d05-ddd4-43be-b010-7d4e9bf0620f" />
 
 欢迎来到王成军老师的课题组———**苏格拉底实验室**（**Socrates Lab**）! 我们是隶属于南京大学[新闻传播学院](https://jc.nju.edu.cn/)[计算传播学实验中心](https://socrateslab.github.io/)的一个小团队，主要的研究方向是计算叙事传播，致力于采用计算方法分析叙事传播如何重塑时代精神并对人类行为产生深刻的影响。苏格拉底在《高尔吉亚篇》当中与修辞学派的卡利克勒关于“知识与权力”的辩论构成我们研究的起点。
 
