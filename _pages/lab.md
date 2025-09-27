@@ -14,7 +14,6 @@ author_profile: true
 
 Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
-![image](https://github.com/user-attachments/assets/61b7c86d-b233-4bfe-b231-1f5aeae0e56a)
 
 
 # 成员
@@ -161,5 +160,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 ![2024年12月6日下午](https://github.com/user-attachments/assets/ef5df179-9303-464c-854d-df4155e0b43a)
 
+
+![image](https://github.com/user-attachments/assets/61b7c86d-b233-4bfe-b231-1f5aeae0e56a)
 
 [🖋 Know yourself and kindle the fire in your heart!](https://github.com/chengjun/zh/edit/gh-pages/_pages/lab.md)
