@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const text = "人啊，认识你自己！点燃内心的火焰🔥";
+    const text = "桃李春风一杯酒，江湖夜雨十年灯。人啊，认识你自己！点燃内心的火焰🔥 ";
     const typingSpeed = 100; // 每个字母出现的速度 (毫秒)
     let index = 0;
 
