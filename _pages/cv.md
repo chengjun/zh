@@ -105,7 +105,7 @@ redirect_from:
 9. **Wang C.J.**, Wu L. *(2016) The Scaling of Attention Networks. Physica A: Statistical Mechanics and its Applications. 448:196–204, [doi: 10.1016/j.physa.2015.12.081](http://dx.doi.org/10.1016/j.physa.2015.12.081)
 10. Chandra Y. *, Jiang, C.L., **Wang C.J.** (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE. 11(3):e0151342, [doi: 10.1371/journal.pone.0151342](http://dx.doi.org/10.1371/journal.pone.0151342)
 11. **Wang C.J.** *, Wang P.P., Zhu J.J.H. (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking. 16(9): 679-685. [doi:10.1089/cyber.2012.0409](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409). [SSCI, Ranking 4/72 in Communication by 5-year IF].
-18. **王成军** * （2025）计算传播学的方法、实践与理论逻辑：国内新闻传播学当中的计算社会科学研究综述（2014-2024）. 教育传媒研究, 1-13. [doi:10.19400/j.cnki.cn10-1407/g2.20250430.001](https://link.cnki.net/doi/10.19400/j.cnki.cn10-1407/g2.20250430.001)
+18. **王成军** * （2025）计算传播学的方法、实践与理论逻辑：国内新闻传播学当中的计算社会科学研究综述（2014-2024）. 教育传媒研究, 59（6）5-13. [doi:10.19400/j.cnki.cn10-1407/g2.20250430.001](https://link.cnki.net/doi/10.19400/j.cnki.cn10-1407/g2.20250430.001)
 19. **王成军** *，李蔼洁，张耀天（2024）算法想象视角下推特用户对ChatGPT的技术恐惧.新媒体与网络.1(4):35-47. doi: 10.20233/j.cnki.xmtwl.202404004
 20. 李媛媛, 闫丽涵, 姜新雅, 任磊, **王成军** * (2023) 应急科普中的多元行动者:使用微博数据分析应急科普主体间的议程设置. 中国网络传播研究. 23:183-214.
 21. 卢林艳, 李玉端, **王成军** * (2023) 人工智能对媒体行业技能与未来就业的影响——基于机器学习和网络分析的方法. 新闻大学. 201(1):106-122, [doi: 10.20050/j.cnki.xwdx.2023.01.009](	http://dx.doi.org/10.20050/j.cnki.xwdx.2023.01.009). [数据&代码](https://github.com/socrateslab/future-employment).
