@@ -210,7 +210,8 @@ redirect_from:
 
 - 博士课程 [计算传播研究工作坊](https://github.com/socrateslab/workshop/) (2020-Now)
 - 硕士课程 [计算传播学导论](https://github.com/chengjun/mybook/discussions) (2018-Now)
-- 本科课程 [计算社会科学导论](https://github.com/SocratesAcademy/css/) (2020-Now)
+- 本科课程 [数智传播导论](https://github.com/SocratesAcademy/css/) (2020-Now)
+  - 2025年度南京大学“人工智能通识核心课程体系”立项课程（X层次模块三）
 - MOOC课程 [数字营销](https://www.icourse163.org/course/20201232-1462060162) (2020-Now)
 
 ### 以往课程  
