@@ -21,6 +21,7 @@ redirect_from:
 
 南京大学新闻传播学院，计算传播学实验中心
 - 地址: 中国江苏省南京市栖霞区仙林大道163号，南京大学（仙林校区）新闻传播学院 (邮编210023)
+- 地图：[https://vr.nju.edu.cn/#/](https://vr.nju.edu.cn/#/pages/test/demo?school_id=0)
 - 邮箱: wangchj04 at 126.com
 - 网站: [https://chengjun.github.io/](https://chengjun.github.io/)
 - ORCID: [0000-0002-9507-2888](http://orcid.org/0000-0002-9507-2888)
