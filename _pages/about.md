@@ -79,8 +79,7 @@ redirect_from:
 
 <br>
 
-
-![image](https://github.com/user-attachments/assets/10d2293b-c90e-4acd-bb76-0e2c305bc198)
+<img  height="400" alt="fD5wImx2P" src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4" />
 
 ## 苏格拉底学园
  
