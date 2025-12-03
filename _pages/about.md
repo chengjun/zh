@@ -92,7 +92,7 @@ redirect_from:
 
 <div align="center">
   <iframe 
-    src="/games/asteroid.html" 
+    src="https://chengjun.github.io/game/asteroid.html" 
     width="100%" 
     height="600px" 
     style="border: none; max-width: 800px; box-shadow: 0 0 20px rgba(0,0,0,0.5);"
