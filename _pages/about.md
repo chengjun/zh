@@ -100,7 +100,7 @@ redirect_from:
     title="Asteroid Defender">
   </iframe>
   <p>
-    <small>点击上方区域开始游戏 | <a href="../game/asteroid.html" target="_blank">全屏游玩</a></small>
+    <small>点击上方区域开始游戏 | <a href="./game/asteroid.html" target="_blank">全屏游玩</a></small>
   </p>
 </div>
 
