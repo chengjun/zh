@@ -90,6 +90,20 @@ redirect_from:
 5. 欢迎来玩我使用[Microsoft MakeCode Arcade](https://arcade.makecode.com/)制作的[飞车游戏](https://chengjun.github.io/racer-makecode/)和[jumpy platformer](https://chengjun.github.io/jumpy-platformer)，后者修改了一些基本设置。
 6. 我最喜欢的苏格拉底漫画：[https://existentialcomics.com](https://existentialcomics.com/philosopher/Socrates)
 
+<div align="center">
+  <iframe 
+    src="/games/asteroid.html" 
+    width="100%" 
+    height="600px" 
+    style="border: none; max-width: 800px; box-shadow: 0 0 20px rgba(0,0,0,0.5);"
+    allow="autoplay; fullscreen"
+    title="Asteroid Defender">
+  </iframe>
+  <p>
+    <small>点击上方区域开始游戏 | <a href="../game/asteroid.html" target="_blank">全屏游玩</a></small>
+  </p>
+</div>
+
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8&cmn=933acc'></script>
 
