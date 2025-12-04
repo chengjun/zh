@@ -266,33 +266,34 @@ redirect_from:
 
 
 ## 获奖
-1. 指导学生获得**第七届传播数据挖掘竞赛一等奖**（2025）
-2. CAAI-BDSC2025社会计算创新大赛二等奖指导教师奖（2025）
-3. 第十三届江苏省高校哲学社会科学研究成果奖二等奖（2024）
-4. 中国人民大学新闻学院“明新青年访问学者”计划（2024）
-5. 《新闻与传播研究》[2024年度优秀审稿专家](https://mp.weixin.qq.com/s/kbF1Ps455-JXRkgWPARC9Q)（2024） 
-6. 第五届青年新媒体学术研究“启皓奖”卓越学术奖（2024）
-7. 中国银行青年教师优秀教学奖（2024）
-8. 南京大学教师教学竞赛二等奖（2024）
-9. 南京大学研究生德育导师（2024）
-10. 《中国新闻传播学年鉴》2021-2022年度优秀青年学人（2023）
-11. 江苏省委宣传部与南京大学部校共建新闻传播学院“紫金学者奖励计划”（2021-2024）
-12. 中国新闻史学会2023年“新闻传播学学术精品”推介计划优秀作品（2023）
-13. 2023年度南京大学“师德先进”青年教师奖（2023）
-14. 2022年度“南京大学育教融合奖” (2022）
-15. 2023年度南京大学工会积极分子（2023）
-16. 2023年第八届中国数据新闻大赛优秀指导教师奖（2023）
-17. 南京大学校级本科优秀毕业论文指导教师奖（2022）
-18. 中国新闻史学会计算传播学研究委员会年会优秀论文三等奖（2021）
-19. 江苏省第六届"互联网+"大学生创新创业大赛优秀指导教师奖（2020）
-20. 辽宁省优秀教材（高等教育类）（2020）
-21. Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)
-22. Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)
-23. Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)
-24. Outstanding Academic Performance Award for Research Degree Students (OAPA, Aug, 2012)
-25. Travel Grant from Interpersonal Communication Division of ICA 2012 (May, 2012)
-26. Top 3 Conference Paper Award of 2nd Honours Symposium for Asian Ph.D Students in Communication Research, Singapore (Nov, 2011)
-27. 第十一届中国传播学大会优秀论文奖 (2010)
+1. 江苏省第十八届哲学社会科学优秀成果奖三等奖 （2025）
+2. 指导学生获得**第七届传播数据挖掘竞赛一等奖**（2025）
+3. CAAI-BDSC2025社会计算创新大赛二等奖指导教师奖（2025）
+4. 第十三届江苏省高校哲学社会科学研究成果奖二等奖（2024）
+5. 中国人民大学新闻学院“明新青年访问学者”计划（2024）
+6. 《新闻与传播研究》[2024年度优秀审稿专家](https://mp.weixin.qq.com/s/kbF1Ps455-JXRkgWPARC9Q)（2024） 
+7. 第五届青年新媒体学术研究“启皓奖”卓越学术奖（2024）
+8. 中国银行青年教师优秀教学奖（2024）
+9. 南京大学教师教学竞赛二等奖（2024）
+10. 南京大学研究生德育导师（2024）
+11. 《中国新闻传播学年鉴》2021-2022年度优秀青年学人（2023）
+12. 江苏省委宣传部与南京大学部校共建新闻传播学院“紫金学者奖励计划”（2021-2024）
+13. 中国新闻史学会2023年“新闻传播学学术精品”推介计划优秀作品（2023）
+14. 2023年度南京大学“师德先进”青年教师奖（2023）
+15. 2022年度“南京大学育教融合奖” (2022）
+16. 2023年度南京大学工会积极分子（2023）
+17. 2023年第八届中国数据新闻大赛优秀指导教师奖（2023）
+18. 南京大学校级本科优秀毕业论文指导教师奖（2022）
+19. 中国新闻史学会计算传播学研究委员会年会优秀论文三等奖（2021）
+20. 江苏省第六届"互联网+"大学生创新创业大赛优秀指导教师奖（2020）
+21. 辽宁省优秀教材（高等教育类）（2020）
+22. Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)
+23. Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)
+24. Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)
+25. Outstanding Academic Performance Award for Research Degree Students (OAPA, Aug, 2012)
+26. Travel Grant from Interpersonal Communication Division of ICA 2012 (May, 2012)
+27. Top 3 Conference Paper Award of 2nd Honours Symposium for Asian Ph.D Students in Communication Research, Singapore (Nov, 2011)
+28. 第十一届中国传播学大会优秀论文奖 (2010)
 
 
 ## 软件
