@@ -48,6 +48,19 @@ layout: default
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
+
+        <style>
+          .moving-image {
+              position: absolute;
+              right: -300px; /* 初始位置在右侧视口外 */
+              animation: moveLeft 5s linear infinite; /* 5秒内从右向左移动，循环执行 */
+          }
+
+          @keyframes moveLeft {
+              from { right: -300px; } /* 起始位置 */
+              to { right: 100%; } /* 结束位置（移动到左侧视口外） */
+          }
+        </style>  
     
         </header>
       {% endunless %}
