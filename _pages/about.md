@@ -108,6 +108,90 @@ redirect_from:
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8&cmn=933acc'></script>
 
 <br>
+
+
+<!-- 直接粘贴到目标页面的 <body> 任意位置 -->
+<style>
+  .nju-svg-container { width: 100%; min-height: 500px; display: flex; flex-direction: column; align-items: center; justify-content: center; background: #f9f9f9; padding: 2rem 0; }
+  .nju-svg { width: 50%; pointer-events: none; }
+  .nju-nav { list-style: none; display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 2rem; }
+  .nju-nav-item { padding: 0.8rem 1.5rem; background: #fff; border: 2px solid; border-radius: 4px; cursor: pointer; }
+  .nju-nav-item a { color: inherit; text-decoration: none; }
+  .cls-1 { fill: none; stroke: #63065f; stroke-width: 2; transition: stroke 0.3s; }
+  @keyframes draw { from { stroke-dashoffset: var(--l); opacity: 0; } to { stroke-dashoffset: 0; opacity: 1; } }
+  .path-1 { --l:3355; stroke-dasharray:3355; animation: draw 2s forwards 0.2s; }
+  .path-2 { --l:2499; stroke-dasharray:2499; animation: draw 2s forwards 0.4s; }
+  .path-3 { --l:613; stroke-dasharray:613; animation: draw 2s forwards 0.6s; }
+  .path-4 { --l:274; stroke-dasharray:274; animation: draw 2s forwards 0.8s; }
+  .path-5 { --l:1621; stroke-dasharray:1621; animation: draw 2s forwards 1s; }
+  .path-6 { --l:2638; stroke-dasharray:2638; animation: draw 2s forwards 1.2s; }
+  .path-7 { --l:2399; stroke-dasharray:2399; animation: draw 2s forwards 1.4s; }
+  .path-8 { --l:407; stroke-dasharray:407; animation: draw 2s forwards 1.6s; }
+  .path-9 { --l:856; stroke-dasharray:856; animation: draw 2s forwards 1.8s; }
+</style>
+
+<div class="nju-svg-container" id="nju-container">
+  <!-- SVG 图形 -->
+  <svg class="nju-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 815.99 752.24">
+    <path class="cls-1 path-1" d="M327.12,3.01L287.19,17.54L230.42,8.78L218.88,18.93L227.65,38.54L194.42,39.93L158.19,77.31L171.35,140.31L150.81,153.93L110.65,217.39L54.35,263.31L23.89,413.54L60.58,491.31L51.58,617.77L2.65,640.85L0.51,692.77L60.12,723.7L147.81,676.85L145.5,654.93L200.42,600.7L290.65,612.01L294.35,631.39L237.12,665.08L239.65,690.24L348.58,750.7L389.65,738.7L440.19,743.54L527.88,679.16L542.19,631.16L647.88,598.16L667.27,613.16L635.88,651.7L627.35,704.77L675.12,743.77L806.65,710.54L815.41,689.54L780.12,646.16L806.88,475.85L699.12,325.16L559.27,305.77L450.58,360.01L416.88,318.93L445.73,220.85L438.58,93.24L373.73,0.51L327.12,3.01Z"></path>
+    <path class="cls-1 path-2" d="M373.73,0.51L227.65,38.54L287.19,17.54L445.73,220.85L54.35,263.31L280.27,387.58L452.65,348.47L440.19,743.54L290.65,612.01L348.58,750.7L237.12,665.08L389.65,738.7L294.35,631.39"></path>
+    <path class="cls-1 path-3" d="M158.19,77.31L252.23,241.84L227.65,38.54L438.58,93.24"></path>
+    <path class="cls-1 path-4" d="M110.65,217.39L252.23,241.84L171.35,140.31"></path>
+    <path class="cls-1 path-5" d="M252.23,241.84L23.89,413.54L445.73,220.85L51.58,617.77L145.5,654.93L60.12,723.7L2.65,640.85"></path>
+    <path class="cls-1 path-6" d="M54.35,263.31L452.65,348.47L290.65,612.01L559.27,305.77L542.19,631.16L699.12,325.16L647.88,598.16L806.88,475.85L667.27,613.16L806.65,710.54"></path>
+    <path class="cls-1 path-7" d="M280.27,387.58L23.89,413.54L200.42,600.7L699.12,325.16L290.65,612.01L542.19,631.16L23.89,413.54"></path>
+    <path class="cls-1 path-8" d="M675.12,743.77L780.12,646.16L627.35,704.77L667.27,613.16"></path>
+    <path class="cls-1 path-9" d="M635.88,651.7L780.12,646.16L559.27,305.77L647.88,598.16"></path>
+  </svg>
+
+  <!-- 导航项 -->
+  <ul class="nju-nav">
+    <li class="nju-nav-item" style="color: #f09f02; border-color: #f09f02;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">奋进南大</a>
+    </li>
+    <li class="nju-nav-item" style="color: #63065f; border-color: #63065f;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">厚重南大</a>
+    </li>
+    <li class="nju-nav-item" style="color: #0f64b9; border-color: #0f64b9;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">卓越南大</a>
+    </li>
+    <li class="nju-nav-item" style="color: #f09f02; border-color: #f09f02;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">创新南大</a>
+    </li>
+    <li class="nju-nav-item" style="color: #63065f; border-color: #63065f;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">励学敦行</a>
+    </li>
+    <li class="nju-nav-item" style="color: #0f64b9; border-color: #0f64b9;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">诚朴雄伟</a>
+    </li>
+  </ul>
+</div>
+
+<!-- 核心交互脚本（精简版） -->
+<script>
+// 1. 导航hover变色
+const items = document.querySelectorAll('.nju-nav-item');
+const paths = document.querySelectorAll('.cls-1');
+const defaultColor = getComputedStyle(paths[0]).stroke;
+items.forEach(item => {
+  item.addEventListener('mouseenter', () => {
+    const color = getComputedStyle(item).color;
+    paths.forEach(p => p.style.stroke = color);
+  });
+  item.addEventListener('mouseleave', () => {
+    paths.forEach(p => p.style.stroke = defaultColor);
+  });
+});
+
+// 2. 简易视差效果
+const container = document.getElementById('nju-container');
+const svg = document.querySelector('.nju-svg');
+container.addEventListener('mousemove', (e) => {
+  const x = (e.clientX - container.offsetLeft - container.offsetWidth/2) * 0.05;
+  const y = (e.clientY - container.offsetTop - container.offsetHeight/2) * 0.05;
+  svg.style.transform = `translate(${-x}px, ${-y}px)`;
+});
+</script>
   
 <a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/about.md">
   <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
