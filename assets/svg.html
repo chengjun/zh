@@ -2,23 +2,45 @@
 <style>
   .nju-svg-container { 
     width: 100%; 
-    min-height: 500px; 
+    min-height: 600px; /* 适当加高，容纳分散的导航项 */
     display: flex; 
     flex-direction: column; 
     align-items: center; 
     justify-content: center; 
     padding: 2rem 0; 
+    position: relative; /* 作为导航项的定位容器 */
   }
-  .nju-svg { width: 50%; pointer-events: none; }
-  .nju-nav { list-style: none; display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 2rem; }
+  .nju-svg { 
+    width: 60%; /* 适当放大SVG，留出导航项位置 */
+    pointer-events: none; 
+  }
+  /* 导航项通用样式：绝对定位 + 基础样式 */
   .nju-nav-item { 
+    position: absolute; /* 绝对定位 */
     padding: 0.8rem 1.5rem; 
-    background: rgba(255, 255, 255, 0.8); /* 导航项半透明 */
+    background: rgba(255, 255, 255, 0.9); /* 半透明白色背景 */
     border: 2px solid; 
     border-radius: 4px; 
     cursor: pointer; 
+    list-style: none; /* 去掉列表样式 */
+    transition: all 0.3s ease; /* 过渡效果 */
+    z-index: 10; /* 确保在SVG上层 */
   }
+  /* 每个导航项的具体位置（可根据需要调整坐标） */
+  .nav-item-1 { top: 10%; left: 20%; } /* SVG左上 */
+  .nav-item-2 { top: 20%; right: 40%; } /* SVG右上 */
+  .nav-item-3 { top: 50%; left: 10%; } /* SVG左中 */
+  .nav-item-4 { top: 50%; right: 20%; } /* SVG右中 */
+  .nav-item-5 { bottom: 20%; left: 20%; } /* SVG左下 */
+  .nav-item-6 { bottom: 10%; right: 20%; } /* SVG右下 */
+  
   .nju-nav-item a { color: inherit; text-decoration: none; }
+  .nju-nav-item:hover {
+    transform: translateY(-3px); /* 悬浮上移 */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* 悬浮阴影 */
+  }
+
+  /* SVG 描边样式 + 动画 */
   .cls-1 { fill: none; stroke: #63065f; stroke-width: 2; transition: stroke 0.3s; }
   @keyframes draw { from { stroke-dashoffset: var(--l); opacity: 0; } to { stroke-dashoffset: 0; opacity: 1; } }
   .path-1 { --l:3355; stroke-dasharray:3355; animation: draw 2s forwards 0.2s; }
@@ -30,6 +52,30 @@
   .path-7 { --l:2399; stroke-dasharray:2399; animation: draw 2s forwards 1.4s; }
   .path-8 { --l:407; stroke-dasharray:407; animation: draw 2s forwards 1.6s; }
   .path-9 { --l:856; stroke-dasharray:856; animation: draw 2s forwards 1.8s; }
+
+  /* 响应式适配：小屏幕恢复堆叠布局 */
+  @media (max-width: 768px) {
+    .nju-svg { width: 80%; }
+    .nju-nav-item {
+      position: relative; /* 恢复相对定位 */
+      margin: 0.5rem;
+      top: auto !important;
+      left: auto !important;
+      right: auto !important;
+      bottom: auto !important;
+    }
+    .nju-svg-container {
+      min-height: auto;
+      gap: 1rem;
+    }
+    /* 小屏幕导航项容器 */
+    .nju-nav-mobile {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 2rem;
+    }
+  }
 </style>
 
 <div class="nju-svg-container" id="nju-container">
@@ -46,27 +92,28 @@
     <path class="cls-1 path-9" d="M635.88,651.7L780.12,646.16L559.27,305.77L647.88,598.16"></path>
   </svg>
 
-  <!-- 导航项 -->
-  <ul class="nju-nav">
-    <li class="nju-nav-item" style="color: #f09f02; border-color: #f09f02;">
-      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">奋进南大</a>
-    </li>
-    <li class="nju-nav-item" style="color: #63065f; border-color: #63065f;">
-      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">厚重南大</a>
-    </li>
-    <li class="nju-nav-item" style="color: #0f64b9; border-color: #0f64b9;">
-      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">卓越南大</a>
-    </li>
-    <li class="nju-nav-item" style="color: #f09f02; border-color: #f09f02;">
-      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">创新南大</a>
-    </li>
-    <li class="nju-nav-item" style="color: #63065f; border-color: #63065f;">
-      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">励学敦行</a>
-    </li>
-    <li class="nju-nav-item" style="color: #0f64b9; border-color: #0f64b9;">
-      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">诚朴雄伟</a>
-    </li>
-  </ul>
+  <!-- 导航项：分散定位 -->
+  <li class="nju-nav-item nav-item-1" style="color: #f09f02; border-color: #f09f02;">
+    <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">奋进南大</a>
+  </li>
+  <li class="nju-nav-item nav-item-2" style="color: #63065f; border-color: #63065f;">
+    <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">厚重南大</a>
+  </li>
+  <li class="nju-nav-item nav-item-3" style="color: #0f64b9; border-color: #0f64b9;">
+    <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">卓越南大</a>
+  </li>
+  <li class="nju-nav-item nav-item-4" style="color: #f09f02; border-color: #f09f02;">
+    <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">创新南大</a>
+  </li>
+  <li class="nju-nav-item nav-item-5" style="color: #63065f; border-color: #63065f;">
+    <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">励学敦行</a>
+  </li>
+  <li class="nju-nav-item nav-item-6" style="color: #0f64b9; border-color: #0f64b9;">
+    <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">诚朴雄伟</a>
+  </li>
+
+  <!-- 移动端导航容器（响应式适配） -->
+  <div class="nju-nav-mobile"></div>
 </div>
 
 <!-- 核心交互脚本（精简版） -->
@@ -93,4 +140,13 @@ container.addEventListener('mousemove', (e) => {
   const y = (e.clientY - container.offsetTop - container.offsetHeight/2) * 0.05;
   svg.style.transform = `translate(${-x}px, ${-y}px)`;
 });
+
+// 3. 响应式适配：移动端将分散的导航项移到移动端容器
+if (window.innerWidth <= 768) {
+  const mobileContainer = document.querySelector('.nju-nav-mobile');
+  const navItems = document.querySelectorAll('.nju-nav-item');
+  navItems.forEach(item => {
+    mobileContainer.appendChild(item);
+  });
+}
 </script>
