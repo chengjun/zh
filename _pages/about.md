@@ -81,30 +81,6 @@ redirect_from:
 
 <!-- 引入图片并添加移动逻辑 -->
 <img width="300px" class="moving-img" src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4">
-<style>
-  .moving-img {
-    /* 初始位置（可根据需求调整） */
-    position: absolute;
-    top: 50px;
-    left: 0;
-    width: 200px; /* 图片宽度 */
-    
-    /* 应用动画：动画名称、时长、重复次数 */
-    animation: move 3s linear infinite;
-  }
-
-  /* 定义动画关键帧 */
-  @keyframes move {
-    0% {
-      /* 起始位置：左侧 */
-      left: 0;
-    }
-    100% {
-      /* 结束位置：右侧（距离左侧500px） */
-      left: 500px;
-    }
-  }
-</style>
 
 ## 苏格拉底学园
  
