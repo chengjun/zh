@@ -80,40 +80,31 @@ redirect_from:
 <br>
 
 <!-- 引入图片并添加移动逻辑 -->
-<img width="300px" id="movingImg" src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4" style="position: absolute;">
-<script>
-  // 获取图片元素
-  const img = document.getElementById('movingImg');
-  let x = 0;
-  let y = 0;
-  let speedX = 2;
-  let speedY = 2;
-
-  // 移动图片的函数
-  function moveImage() {
-    // 更新位置
-    x += speedX;
-    y += speedY;
-
-    // 边界检测（碰到窗口边缘反弹）
-    if (x + img.width > window.innerWidth || x < 0) {
-      speedX = -speedX;
-    }
-    if (y + img.height > window.innerHeight || y < 0) {
-      speedY = -speedY;
-    }
-
-    // 应用位置
-    img.style.left = x + 'px';
-    img.style.top = y + 'px';
-
-    // 循环执行
-    requestAnimationFrame(moveImage);
+<img width="300px" class="moving-img" src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4" style="position: absolute;">
+<style>
+  .moving-img {
+    /* 初始位置（可根据需求调整） */
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 200px; /* 图片宽度 */
+    
+    /* 应用动画：动画名称、时长、重复次数 */
+    animation: move 3s linear infinite;
   }
 
-  // 启动移动
-  moveImage();
-</script>
+  /* 定义动画关键帧 */
+  @keyframes move {
+    0% {
+      /* 起始位置：左侧 */
+      left: 0;
+    }
+    100% {
+      /* 结束位置：右侧（距离左侧500px） */
+      left: 500px;
+    }
+  }
+</style>
 
 ## 苏格拉底学园
  
