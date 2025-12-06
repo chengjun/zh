@@ -1,354 +1,96 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>动态 SVG 示例</title>
-  <style>
-    /* 全局样式重置 */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: "Microsoft Yahei", sans-serif;
-    }
+<!-- 直接粘贴到目标页面的 <body> 任意位置，背景透明 -->
+<style>
+  .nju-svg-container { 
+    width: 100%; 
+    min-height: 500px; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 2rem 0; 
+  }
+  .nju-svg { width: 50%; pointer-events: none; }
+  .nju-nav { list-style: none; display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 2rem; }
+  .nju-nav-item { 
+    padding: 0.8rem 1.5rem; 
+    background: rgba(255, 255, 255, 0.8); /* 导航项半透明 */
+    border: 2px solid; 
+    border-radius: 4px; 
+    cursor: pointer; 
+  }
+  .nju-nav-item a { color: inherit; text-decoration: none; }
+  .cls-1 { fill: none; stroke: #63065f; stroke-width: 2; transition: stroke 0.3s; }
+  @keyframes draw { from { stroke-dashoffset: var(--l); opacity: 0; } to { stroke-dashoffset: 0; opacity: 1; } }
+  .path-1 { --l:3355; stroke-dasharray:3355; animation: draw 2s forwards 0.2s; }
+  .path-2 { --l:2499; stroke-dasharray:2499; animation: draw 2s forwards 0.4s; }
+  .path-3 { --l:613; stroke-dasharray:613; animation: draw 2s forwards 0.6s; }
+  .path-4 { --l:274; stroke-dasharray:274; animation: draw 2s forwards 0.8s; }
+  .path-5 { --l:1621; stroke-dasharray:1621; animation: draw 2s forwards 1s; }
+  .path-6 { --l:2638; stroke-dasharray:2638; animation: draw 2s forwards 1.2s; }
+  .path-7 { --l:2399; stroke-dasharray:2399; animation: draw 2s forwards 1.4s; }
+  .path-8 { --l:407; stroke-dasharray:407; animation: draw 2s forwards 1.6s; }
+  .path-9 { --l:856; stroke-dasharray:856; animation: draw 2s forwards 1.8s; }
+</style>
 
-    body {
-      background-color: #f9f9f9;
-    }
+<div class="nju-svg-container" id="nju-container">
+  <!-- SVG 图形 -->
+  <svg class="nju-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 815.99 752.24">
+    <path class="cls-1 path-1" d="M327.12,3.01L287.19,17.54L230.42,8.78L218.88,18.93L227.65,38.54L194.42,39.93L158.19,77.31L171.35,140.31L150.81,153.93L110.65,217.39L54.35,263.31L23.89,413.54L60.58,491.31L51.58,617.77L2.65,640.85L0.51,692.77L60.12,723.7L147.81,676.85L145.5,654.93L200.42,600.7L290.65,612.01L294.35,631.39L237.12,665.08L239.65,690.24L348.58,750.7L389.65,738.7L440.19,743.54L527.88,679.16L542.19,631.16L647.88,598.16L667.27,613.16L635.88,651.7L627.35,704.77L675.12,743.77L806.65,710.54L815.41,689.54L780.12,646.16L806.88,475.85L699.12,325.16L559.27,305.77L450.58,360.01L416.88,318.93L445.73,220.85L438.58,93.24L373.73,0.51L327.12,3.01Z"></path>
+    <path class="cls-1 path-2" d="M373.73,0.51L227.65,38.54L287.19,17.54L445.73,220.85L54.35,263.31L280.27,387.58L452.65,348.47L440.19,743.54L290.65,612.01L348.58,750.7L237.12,665.08L389.65,738.7L294.35,631.39"></path>
+    <path class="cls-1 path-3" d="M158.19,77.31L252.23,241.84L227.65,38.54L438.58,93.24"></path>
+    <path class="cls-1 path-4" d="M110.65,217.39L252.23,241.84L171.35,140.31"></path>
+    <path class="cls-1 path-5" d="M252.23,241.84L23.89,413.54L445.73,220.85L51.58,617.77L145.5,654.93L60.12,723.7L2.65,640.85"></path>
+    <path class="cls-1 path-6" d="M54.35,263.31L452.65,348.47L290.65,612.01L559.27,305.77L542.19,631.16L699.12,325.16L647.88,598.16L806.88,475.85L667.27,613.16L806.65,710.54"></path>
+    <path class="cls-1 path-7" d="M280.27,387.58L23.89,413.54L200.42,600.7L699.12,325.16L290.65,612.01L542.19,631.16L23.89,413.54"></path>
+    <path class="cls-1 path-8" d="M675.12,743.77L780.12,646.16L627.35,704.77L667.27,613.16"></path>
+    <path class="cls-1 path-9" d="M635.88,651.7L780.12,646.16L559.27,305.77L647.88,598.16"></path>
+  </svg>
 
-    /* 外层容器：垂直排列 + 居中，适配SVG在上、导航在下的布局 */
-    .svgbg {
-      width: 100%;
-      min-height: 80vh;
-      position: relative;
-      overflow: hidden;
-      display: flex;
-      flex-direction: column; /* 垂直排列子元素 */
-      justify-content: center;
-      align-items: center;
-      padding: 2rem 0; /* 增加上下内边距，避免内容拥挤 */
-    }
+  <!-- 导航项 -->
+  <ul class="nju-nav">
+    <li class="nju-nav-item" style="color: #f09f02; border-color: #f09f02;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">奋进南大</a>
+    </li>
+    <li class="nju-nav-item" style="color: #63065f; border-color: #63065f;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">厚重南大</a>
+    </li>
+    <li class="nju-nav-item" style="color: #0f64b9; border-color: #0f64b9;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">卓越南大</a>
+    </li>
+    <li class="nju-nav-item" style="color: #f09f02; border-color: #f09f02;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">创新南大</a>
+    </li>
+    <li class="nju-nav-item" style="color: #63065f; border-color: #63065f;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">励学敦行</a>
+    </li>
+    <li class="nju-nav-item" style="color: #0f64b9; border-color: #0f64b9;">
+      <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank">诚朴雄伟</a>
+    </li>
+  </ul>
+</div>
 
-    .pore {
-      position: relative;
-      width: 90%;
-      max-width: 1200px;
-      display: flex;
-      flex-direction: column; /* SVG在上，导航在下 */
-      align-items: center;
-      gap: 3rem; /* SVG与导航之间的间距 */
-    }
+<!-- 核心交互脚本（精简版） -->
+<script>
+// 1. 导航hover变色
+const items = document.querySelectorAll('.nju-nav-item');
+const paths = document.querySelectorAll('.cls-1');
+const defaultColor = getComputedStyle(paths[0]).stroke;
+items.forEach(item => {
+  item.addEventListener('mouseenter', () => {
+    const color = getComputedStyle(item).color;
+    paths.forEach(p => p.style.stroke = color);
+  });
+  item.addEventListener('mouseleave', () => {
+    paths.forEach(p => p.style.stroke = defaultColor);
+  });
+});
 
-    /* SVG 容器：视差层（调整宽度为50%，缩小SVG） */
-    .layerMove {
-      position: relative; /* 改为相对定位，配合垂直布局 */
-      pointer-events: none; /* 不遮挡导航点击 */
-      z-index: 1; /* 低于导航 */
-      width: 50%; /* 缩小后的SVG尺寸 */
-      opacity: 0.9; /* 提升不透明度，弥补缩小后的视觉存在感 */
-    }
-
-    /* 导航列表样式 */
-    .mathColor {
-      list-style: none;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1.5rem;
-      justify-content: center;
-      z-index: 10; /* 确保导航在SVG上层 */
-      margin-top: 1rem; /* 额外间距，优化视觉 */
-    }
-
-    .nav-item {
-      cursor: pointer;
-      border: 2px solid transparent;
-      padding: 0.8rem 1.5rem;
-      border-radius: 4px;
-      transition: all 0.3s ease;
-      position: relative;
-      background-color: #fff; /* 增加白色背景，提升导航可读性 */
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); /* 轻微阴影，区分层级 */
-    }
-
-    .nav-item a {
-      color: inherit;
-      text-decoration: none;
-      font-size: 1.1rem;
-      white-space: nowrap;
-    }
-
-    /* 颜色主题类 */
-    .color-yellow {
-      color: rgb(240, 159, 2);
-      border-color: rgb(240, 159, 2);
-      z-index: 1;
-    }
-
-    .color-purple {
-      color: rgb(99, 6, 95);
-      border-color: rgb(99, 6, 95);
-      z-index: 2;
-    }
-
-    .color-blue {
-      color: rgb(15, 100, 185);
-      border-color: rgb(15, 100, 185);
-      z-index: 0;
-    }
-
-    .bg-white {
-      background-color: rgb(255, 255, 255);
-    }
-
-    /* 导航交互效果 */
-    .nav-item:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-      opacity: 0.9;
-    }
-
-    /* SVG 描边样式 + 动画 */
-    #svgpx {
-      width: 100%;
-      height: auto;
-    }
-
-    .cls-1 {
-      fill: none;
-      stroke: rgb(99, 6, 95); /* 默认紫色 */
-      stroke-width: 2;
-      stroke-dashoffset: 0;
-      transition: stroke 0.3s ease;
-    }
-
-    /* 描边绘制动画 */
-    @keyframes drawPath {
-      from {
-        stroke-dashoffset: var(--dash-length); /* 初始偏移隐藏线条 */
-        opacity: 0;
-      }
-      to {
-        stroke-dashoffset: 0;
-        opacity: 1;
-      }
-    }
-
-    /* 为每个path绑定不同的dash-length变量 */
-    .path-1 {
-      --dash-length: 3355;
-      stroke-dasharray: 3355, 3357;
-      animation: drawPath 2s ease forwards 0.2s;
-    }
-
-    .path-2 {
-      --dash-length: 2499;
-      stroke-dasharray: 2499, 2501;
-      animation: drawPath 2s ease forwards 0.4s;
-    }
-
-    .path-3 {
-      --dash-length: 613;
-      stroke-dasharray: 613, 615;
-      animation: drawPath 2s ease forwards 0.6s;
-    }
-
-    .path-4 {
-      --dash-length: 274;
-      stroke-dasharray: 274, 276;
-      animation: drawPath 2s ease forwards 0.8s;
-    }
-
-    .path-5 {
-      --dash-length: 1621;
-      stroke-dasharray: 1621, 1623;
-      animation: drawPath 2s ease forwards 1s;
-    }
-
-    .path-6 {
-      --dash-length: 2638;
-      stroke-dasharray: 2638, 2640;
-      animation: drawPath 2s ease forwards 1.2s;
-    }
-
-    .path-7 {
-      --dash-length: 2399;
-      stroke-dasharray: 2399, 2401;
-      animation: drawPath 2s ease forwards 1.4s;
-    }
-
-    .path-8 {
-      --dash-length: 407;
-      stroke-dasharray: 407, 409;
-      animation: drawPath 2s ease forwards 1.6s;
-    }
-
-    .path-9 {
-      --dash-length: 856;
-      stroke-dasharray: 856, 858;
-      animation: drawPath 2s ease forwards 1.8s;
-    }
-
-    /* 响应式适配 */
-    @media (max-width: 768px) {
-      .mathColor {
-        flex-direction: column;
-        align-items: center;
-        width: 100%;
-      }
-
-      .layerMove {
-        width: 70%; /* 移动端适当放大，保证可见性 */
-        opacity: 0.7;
-      }
-
-      .nav-item {
-        width: 80%;
-        text-align: center;
-      }
-    }
-  </style>
-</head>
-<body>
-  <!-- 核心容器：动态SVG + 导航（SVG在上，导航在下） -->
-  <div class="svgbg">
-    <div class="pore sicoPx show">
-      <!-- 动态SVG容器（视差层）- 放在上方 -->
-      <div class="layerMove svgp zi1" data-depth="0.8">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 815.99 752.24" id="svgpx">
-          <path class="cls-1 path-1" d="M327.12,3.01L287.19,17.54L230.42,8.78L218.88,18.93L227.65,38.54L194.42,39.93L158.19,77.31L171.35,140.31L150.81,153.93L110.65,217.39L54.35,263.31L23.89,413.54L60.58,491.31L51.58,617.77L2.65,640.85L0.51,692.77L60.12,723.7L147.81,676.85L145.5,654.93L200.42,600.7L290.65,612.01L294.35,631.39L237.12,665.08L239.65,690.24L348.58,750.7L389.65,738.7L440.19,743.54L527.88,679.16L542.19,631.16L647.88,598.16L667.27,613.16L635.88,651.7L627.35,704.77L675.12,743.77L806.65,710.54L815.41,689.54L780.12,646.16L806.88,475.85L699.12,325.16L559.27,305.77L450.58,360.01L416.88,318.93L445.73,220.85L438.58,93.24L373.73,0.51L327.12,3.01Z"></path>
-          <path class="cls-1 path-2" d="M373.73,0.51L227.65,38.54L287.19,17.54L445.73,220.85L54.35,263.31L280.27,387.58L452.65,348.47L440.19,743.54L290.65,612.01L348.58,750.7L237.12,665.08L389.65,738.7L294.35,631.39"></path>
-          <path class="cls-1 path-3" d="M158.19,77.31L252.23,241.84L227.65,38.54L438.58,93.24"></path>
-          <path class="cls-1 path-4" d="M110.65,217.39L252.23,241.84L171.35,140.31"></path>
-          <path class="cls-1 path-5" d="M252.23,241.84L23.89,413.54L445.73,220.85L51.58,617.77L145.5,654.93L60.12,723.7L2.65,640.85"></path>
-          <path class="cls-1 path-6" d="M54.35,263.31L452.65,348.47L290.65,612.01L559.27,305.77L542.19,631.16L699.12,325.16L647.88,598.16L806.88,475.85L667.27,613.16L806.65,710.54"></path>
-          <path class="cls-1 path-7" d="M280.27,387.58L23.89,413.54L200.42,600.7L699.12,325.16L290.65,612.01L542.19,631.16L23.89,413.54"></path>
-          <path class="cls-1 path-8" d="M675.12,743.77L780.12,646.16L627.35,704.77L667.27,613.16"></path>
-          <path class="cls-1 path-9" d="M635.88,651.7L780.12,646.16L559.27,305.77L647.88,598.16"></path>
-        </svg>
-      </div>
-
-      <!-- 导航列表：保留前6个，放在SVG下方 -->
-      <ul class="mathColor nav-list" id="njuNavList">
-        <li class="nav-item color-yellow" data-stat="1889051832,89802">
-          <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank" rel="noopener noreferrer">
-            <span>奋进南大</span>
-          </a>
-        </li>
-        <li class="nav-item color-purple" data-stat="1889051832,89803">
-          <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank" rel="noopener noreferrer">
-            <span>厚重南大</span>
-          </a>
-        </li>
-        <li class="nav-item color-blue" data-stat="1889051832,89804">
-          <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank" rel="noopener noreferrer">
-            <span>卓越南大</span>
-          </a>
-        </li>
-        <li class="nav-item color-yellow" data-stat="1889051832,89818">
-          <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank" rel="noopener noreferrer">
-            <span>创新南大</span>
-          </a>
-        </li>
-        <li class="nav-item color-purple" data-stat="1889051832,89805">
-          <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank" rel="noopener noreferrer">
-            <span>励学敦行</span>
-          </a>
-        </li>
-        <li class="nav-item color-blue" data-stat="1889051832,89806">
-          <a href="https://www.nju.edu.cn/ndgk/ndjj.htm" target="_blank" rel="noopener noreferrer">
-            <span>诚朴雄伟</span>
-          </a>
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <script>
-    // 1. 导航点击统计事件（模拟官网的_addDynClicks）
-    function _addDynClicks(type, param1, param2) {
-      console.log(`统计点击：类型=${type}，参数1=${param1}，参数2=${param2}`);
-      // 实际项目中可替换为埋点接口请求
-      // fetch('/api/track', {
-      //   method: 'POST',
-      //   body: JSON.stringify({ type, param1, param2 })
-      // });
-    }
-
-    // 2. 导航事件委托
-    (function() {
-      const navList = document.getElementById('njuNavList');
-      if (!navList) return;
-
-      navList.addEventListener('click', function(e) {
-        const targetLi = e.target.closest('.nav-item');
-        if (!targetLi) return;
-
-        // 解析统计参数
-        const [param1, param2] = (targetLi.dataset.stat || '').split(',').map(Number);
-        if (param1 && param2) {
-          _addDynClicks("wburl", param1, param2);
-        }
-      });
-    })();
-
-    // 3. 鼠标视差交互（调整视差触发区域为整个svgbg容器）
-    (function() {
-      const layer = document.querySelector('.layerMove');
-      if (!layer) return;
-
-      // 视差深度系数（data-depth越小，移动越明显）
-      const depth = parseFloat(layer.dataset.depth) || 1;
-      const moveFactor = 0.08 * depth; 
-      const svgContainer = document.querySelector('.svgbg');
-      let isHover = false;
-
-      // 鼠标移动触发视差
-      svgContainer.addEventListener('mousemove', (e) => {
-        if (!isHover) return;
-        const rect = svgContainer.getBoundingClientRect();
-        // 计算鼠标在容器内的相对位置
-        const x = (e.clientX - rect.left - rect.width / 2) * moveFactor;
-        const y = (e.clientY - rect.top - rect.height / 2) * moveFactor;
-        // 应用位移（反向偏移更符合视觉直觉）
-        layer.style.transform = `translate(${-x}px, ${-y}px)`;
-      });
-
-      // 鼠标进入/离开控制视差开关
-      svgContainer.addEventListener('mouseenter', () => {
-        isHover = true;
-        layer.style.transition = 'transform 0.1s ease'; // 快速响应
-      });
-
-      svgContainer.addEventListener('mouseleave', () => {
-        isHover = false;
-        // 恢复初始位置
-        layer.style.transition = 'transform 0.5s ease';
-        layer.style.transform = 'translate(0, 0)';
-      });
-    })();
-
-    // 4. 导航hover联动SVG颜色
-    (function() {
-      const navItems = document.querySelectorAll('.nav-item');
-      const svgPaths = document.querySelectorAll('#svgpx .cls-1');
-      const defaultColor = getComputedStyle(svgPaths[0]).stroke;
-
-      navItems.forEach(item => {
-        item.addEventListener('mouseenter', () => {
-          const color = getComputedStyle(item).color;
-          svgPaths.forEach(path => {
-            path.style.stroke = color;
-          });
-        });
-
-        item.addEventListener('mouseleave', () => {
-          svgPaths.forEach(path => {
-            path.style.stroke = defaultColor;
-          });
-        });
-      });
-    })();
-  </script>
-</body>
-</html>
+// 2. 简易视差效果
+const container = document.getElementById('nju-container');
+const svg = document.querySelector('.nju-svg');
+container.addEventListener('mousemove', (e) => {
+  const x = (e.clientX - container.offsetLeft - container.offsetWidth/2) * 0.05;
+  const y = (e.clientY - container.offsetTop - container.offsetHeight/2) * 0.05;
+  svg.style.transform = `translate(${-x}px, ${-y}px)`;
+});
+</script>
