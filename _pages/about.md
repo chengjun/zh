@@ -80,7 +80,7 @@ redirect_from:
 <br>
 
 <!-- 引入图片并添加移动逻辑 -->
-<img width="200px" id="movingImg"  src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4" style="position: absolute;">
+<img width="200px" id="movingImg"  src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4">
 
 
 ## 苏格拉底学园
