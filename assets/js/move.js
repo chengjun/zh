@@ -1,18 +1,31 @@
 const img = document.getElementById('movingImg');
-let x = 0, speed = 1.5, direction = 1;
+let x = 0;
+let y = 0;
+let speedX = 2;
+let speedY = 2;
 
+// 移动图片的函数
 function animate() {
-  const container = img.parentElement;
-  const maxRight = container.offsetWidth - img.width;
+  // 更新位置
+  x += speedX;
+  y += speedY;
 
-  x += speed * direction;
+  // 边界检测（碰到窗口边缘反弹）
+  if (x + img.width > window.innerWidth || x < 0) {
+    speedX = -speedX;
+  }
+  if (y + img.height > window.innerHeight || y < 0) {
+    speedY = -speedY;
+  }
 
-  if (x >= maxRight) direction = -1;
-  if (x <= 0) direction = 1;
-
+  // 应用位置
   img.style.left = x + 'px';
+  img.style.top = y + 'px';
 
-  requestAnimationFrame(animate);
-}
+  // 循环执行
+  requestAnimationFrame(moveImage);
+  }
 
+// 启动移动
 animate();
+
