@@ -80,7 +80,37 @@ redirect_from:
 <br>
 
 <!-- 引入图片并添加移动逻辑 -->
-<img width="200px" id="movingImg"  src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4">
+<style>
+#floatImg {
+    position: absolute;
+    width: 150px;
+    pointer-events: none;
+}
+</style>
+
+<img id="floatImg" src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4">
+
+<script>
+const img = document.getElementById("floatImg");
+let x = 100, y = 100;
+let speedX = 2, speedY = 2;
+
+img.onload = () => animate();
+
+function animate() {
+    x += speedX;
+    y += speedY;
+
+    if (x + img.width > window.innerWidth || x < 0) speedX = -speedX;
+    if (y + img.height > window.innerHeight || y < 0) speedY = -speedY;
+
+    img.style.left = x + "px";
+    img.style.top = y + "px";
+
+    requestAnimationFrame(animate);
+}
+</script>
+
 
 
 ## 苏格拉底学园
