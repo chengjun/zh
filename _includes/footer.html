@@ -1,38 +1,5 @@
 {% include base_path %}
 
-<script>
-// 等 DOM 加载后再执行
-const img = document.getElementById('movingImg');
-
-// 初始位置：保持图片本来的位置
-const rect = img.getBoundingClientRect();
-let x = rect.left;
-let y = rect.top;
-
-let speedX = 2;
-let speedY = 2;
-
-function moveImage() {
-    x += speedX;
-    y += speedY;
-
-    // 碰撞检测
-    if (x + img.width > window.innerWidth || x < 0) {
-        speedX = -speedX;
-    }
-    if (y + img.height > window.innerHeight || y < 0) {
-        speedY = -speedY;
-    }
-
-    img.style.left = x + 'px';
-    img.style.top = y + 'px';
-
-    requestAnimationFrame(moveImage);
-}
-
-moveImage();
-</script>
-
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
