@@ -84,30 +84,38 @@ redirect_from:
   <img
     id="movingImg"
     src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4"
-    style="position: relative; left: 0; width: 300px;"
+    style="position: relative; left: 0; width: 200px;"
   >
 </div>
 
 <script>
 const img = document.getElementById('movingImg');
+
 let x = 0;
-let speed = 1;  // 移动速度，可调大或调小
+let speed = 1.5;  // 可调速度
+let direction = 1; // 1 为向右，-1 为向左
 
-function move() {
-  x += speed;
+function animate() {
+  x += speed * direction;
 
-  // 当图片完全走出右侧时，从左边重新出现
-  if (x > window.innerWidth) {
-    x = -img.width;
+  const container = img.parentElement;
+  const maxRight = container.offsetWidth - img.width;
+
+  // 碰到左边或右边后反弹
+  if (x >= maxRight) {
+    direction = -1;
+  } else if (x <= 0) {
+    direction = 1;
   }
 
-  img.style.left = x + 'px';
+  img.style.left = x + "px";
 
-  requestAnimationFrame(move);
+  requestAnimationFrame(animate);
 }
 
-move();
+animate();
 </script>
+
 
 
 
