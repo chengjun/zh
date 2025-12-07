@@ -1,32 +1,30 @@
 document.addEventListener('DOMContentLoaded', () => {
   const img = document.getElementById('movingImg');
 
-  // 初始位置在屏幕中间
-  let x = (window.innerWidth - img.width) / 2;
-  let y = (window.innerHeight - img.height) / 2;
-
-  let speedX = 2;  // 水平速度
-  let speedY = 2;  // 垂直速度
+  let x = 0;           // 初始水平位置
+  let speedX = 2;      // 水平速度
+  let direction = 1;   // 1 向右，-1 向左
 
   function animate() {
-    x += speedX;
-    y += speedY;
+    x += speedX * direction;
 
-    // 边界反弹
-    if (x + img.width > window.innerWidth || x < 0) speedX = -speedX;
-    if (y + img.height > window.innerHeight || y < 0) speedY = -speedY;
+    const containerWidth = img.parentElement.offsetWidth;
+    const maxX = containerWidth - img.width;
+
+    // 碰到左右边界反弹
+    if (x >= maxX) direction = -1;
+    if (x <= 0) direction = 1;
 
     img.style.left = x + 'px';
-    img.style.top = y + 'px';
 
     requestAnimationFrame(animate);
   }
 
   animate();
 
-  // 窗口大小改变时，保证图片仍在可视区域
+  // 窗口大小改变时，保证图片仍在容器内
   window.addEventListener('resize', () => {
-    if (x + img.width > window.innerWidth) x = window.innerWidth - img.width;
-    if (y + img.height > window.innerHeight) y = window.innerHeight - img.height;
+    const containerWidth = img.parentElement.offsetWidth;
+    if (x + img.width > containerWidth) x = containerWidth - img.width;
   });
 });
