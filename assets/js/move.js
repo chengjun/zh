@@ -23,7 +23,7 @@ function animate() {
   img.style.top = y + 'px';
 
   // 循环执行
-  requestAnimationFrame(moveImage);
+  requestAnimationFrame(animate);
   }
 
 // 启动移动
