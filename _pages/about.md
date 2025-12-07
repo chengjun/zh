@@ -80,44 +80,11 @@ redirect_from:
 <br>
 
 <!-- 引入图片并添加移动逻辑 -->
-<div style="overflow: hidden; width: 100%; position: relative;">
-  <img
-    id="movingImg"
-    src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4"
-    style="position: relative; left: 0; width: 200px;"
-  >
+<div style="overflow:hidden; position:relative;">
+  <img id="movingImg" src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4" style="position:relative; left:0; width:300px;">
 </div>
 
-<script>
-const img = document.getElementById('movingImg');
-
-let x = 0;
-let speed = 1.5;  // 可调速度
-let direction = 1; // 1 为向右，-1 为向左
-
-function animate() {
-  x += speed * direction;
-
-  const container = img.parentElement;
-  const maxRight = container.offsetWidth - img.width;
-
-  // 碰到左边或右边后反弹
-  if (x >= maxRight) {
-    direction = -1;
-  } else if (x <= 0) {
-    direction = 1;
-  }
-
-  img.style.left = x + "px";
-
-  requestAnimationFrame(animate);
-}
-
-animate();
-</script>
-
-
-
+<script src="{{ site.baseurl }}/zh/assets/js/move.js"></script>
 
 
 ## 苏格拉底学园
