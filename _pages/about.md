@@ -80,36 +80,35 @@ redirect_from:
 <br>
 
 <!-- 引入图片并添加移动逻辑 -->
-<style>
-#floatImg {
-    position: absolute;
-    width: 150px;
-    pointer-events: none;
-}
-</style>
-
-<img id="floatImg" src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4">
+<div style="overflow: hidden; width: 100%; position: relative;">
+  <img
+    id="movingImg"
+    src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4"
+    style="position: relative; left: 0; width: 300px;"
+  >
+</div>
 
 <script>
-const img = document.getElementById("floatImg");
-let x = 100, y = 100;
-let speedX = 2, speedY = 2;
+const img = document.getElementById('movingImg');
+let x = 0;
+let speed = 1;  // 移动速度，可调大或调小
 
-img.onload = () => animate();
+function move() {
+  x += speed;
 
-function animate() {
-    x += speedX;
-    y += speedY;
+  // 当图片完全走出右侧时，从左边重新出现
+  if (x > window.innerWidth) {
+    x = -img.width;
+  }
 
-    if (x + img.width > window.innerWidth || x < 0) speedX = -speedX;
-    if (y + img.height > window.innerHeight || y < 0) speedY = -speedY;
+  img.style.left = x + 'px';
 
-    img.style.left = x + "px";
-    img.style.top = y + "px";
-
-    requestAnimationFrame(animate);
+  requestAnimationFrame(move);
 }
+
+move();
 </script>
+
 
 
 
