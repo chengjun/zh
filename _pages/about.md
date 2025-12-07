@@ -78,7 +78,7 @@ redirect_from:
 
 <!-- 引入图片并添加移动逻辑 -->
 <div style="overflow:hidden; position:relative;">
-  <img id="movingImg" src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4" style="position:relative; left:0; width:200px;">
+  <img id="movingImg" src="https://github.com/user-attachments/assets/1eb4b22c-2aa6-4afb-a6a7-300c928c80d4" style="position:absolute; left:0; top:0; width:200px;">
 </div>
 
 <script src="{{ site.baseurl }}/zh/assets/js/move.js"></script>
