@@ -142,7 +142,7 @@ container.addEventListener('mousemove', (e) => {
 });
 
 // 3. 响应式适配：移动端将分散的导航项移到移动端容器
-if (window.innerWidth <= 768) {
+if (window.innerWidth <= 500) {
   const mobileContainer = document.querySelector('.nju-nav-mobile');
   const navItems = document.querySelectorAll('.nju-nav-item');
   navItems.forEach(item => {
