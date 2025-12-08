@@ -107,8 +107,7 @@ redirect_from:
 </div>
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=600&t=tt&d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8&cmn=933acc'></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 <br>
 
 
