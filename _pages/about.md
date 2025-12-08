@@ -76,8 +76,9 @@ redirect_from:
 
 <br>
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/432ba6a8-85a0-432c-80d8-8da0eba0662c" />
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/432ba6a8-85a0-432c-80d8-8da0eba0662c" width="300">
+</div>
 
 
 
