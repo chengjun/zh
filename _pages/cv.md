@@ -17,8 +17,7 @@ redirect_from:
 <div style="width: 100%; max-width: 1200px; margin: 0 auto;">
   <iframe 
     src="https://chengjun.github.io/zh/assets/svg.html" 
-    width="100%" 
-    height="600px" 
+    width="800px" 
     frameborder="0" 
     scrolling="no"
     style="border: none;"
@@ -27,7 +26,7 @@ redirect_from:
 
 
 <a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/cv.md">
-  <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
+  <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800px" align="middle" />
 </a>
 
 ## 联系信息
