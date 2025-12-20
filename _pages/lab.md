@@ -156,7 +156,10 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 『柏拉图说』是由南京大学计算传播学实验中心的成员们于2022年4月发起的论文精读与推介活动，我们将定期推送新闻传播学TOP期刊最新内容、新闻传播学前沿及相关量化研究方法论文。我们致力于深耕传播学领域，紧跟专业研究热点，延伸学术视角，拓展群体智慧。
 
-![image](https://github.com/chengjun/zh/assets/543384/79603db5-e7c8-4f92-a8ad-22ce78baac34)
+
+<div align="center">
+  <img width="300" height="300" alt="e25b21a138d5b668234ed585b7cd3710" src="https://github.com/chengjun/zh/assets/543384/79603db5-e7c8-4f92-a8ad-22ce78baac34" />
+</div>
 
 
 ## 合影
@@ -166,6 +169,8 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 ![image](https://github.com/user-attachments/assets/61b7c86d-b233-4bfe-b231-1f5aeae0e56a)
 
-<a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/lab.md">
-  <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
-</a>
+<div align="center">
+  <a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/lab.md">
+    <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" />
+  </a>
+</div>
