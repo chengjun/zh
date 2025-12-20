@@ -16,7 +16,7 @@ redirect_from:
 
 <div style="width: 100%; max-width: 1200px; margin: 0 auto;">
   <iframe 
-    src="assets/svg.html" 
+    src="https://chengjun.github.io/zh/assets/svg.html" 
     width="100%" 
     height="600px" 
     frameborder="0" 
