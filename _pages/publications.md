@@ -6,12 +6,8 @@ author_profile: true
 ---
 
 
-现在和未来十年的主要研究兴趣分为两个方面：一、发展叙事瀑流模型，开展一系列国际传播的计算叙事研究；二、构建计算中心论，提炼计算传播学的理论逻辑。
+现在和未来十年的主要研究兴趣(专著写作项目）分为两个方面：一、发展叙事瀑流模型，开展一系列国际传播的计算叙事研究；二、构建计算中心论，提炼计算传播学的理论逻辑。
 
-
-<a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/publications.md">
-  <img src="https://github.com/user-attachments/assets/d374d1e6-3a40-4d2f-9f98-6f5617c1409f" width = "200" align="middle" />
-</a>
 
 ## 《计算中心论》
 
@@ -74,8 +70,6 @@ author_profile: true
 
 
 
-
-
-
-<img width="964" alt="image" src="https://github.com/chengjun/zh/assets/543384/6efa85e2-8413-44fe-915b-0b0045c3960f">
-
+<a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/publications.md">
+  <img src="https://github.com/chengjun/zh/assets/543384/6efa85e2-8413-44fe-915b-0b0045c3960f" width = "800" align="middle" />
+</a>
