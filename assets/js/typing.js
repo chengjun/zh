@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const text = "《寄黄几复》    北宋·黄庭坚    我居北海君南海，寄雁传书谢不能。  桃李春风一杯酒，江湖夜雨十年灯。  持家但有四立壁，治病不蕲三折肱。  想见读书头已白，隔溪猿哭瘴溪藤。    人啊，认识你自己！点燃内心的火焰🔥 ";
+    const text = "人啊，认识你自己！点燃内心的火焰🔥    苏格拉底大王";
     const typingSpeed = 150; // 每个字符出现的速度 (毫秒)
     let index = 0;
 
