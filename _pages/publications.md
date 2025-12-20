@@ -69,7 +69,8 @@ author_profile: true
 <br>
 
 
-
-<a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/publications.md">
-  <img src="https://github.com/chengjun/zh/assets/543384/6efa85e2-8413-44fe-915b-0b0045c3960f" width = "800" align="middle" />
-</a>
+<div align="center">
+   <a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/publications.md">
+     <img src="https://github.com/chengjun/zh/assets/543384/6efa85e2-8413-44fe-915b-0b0045c3960f" width = "800" align="middle" />
+   </a>
+</div>
