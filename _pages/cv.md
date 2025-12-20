@@ -18,6 +18,7 @@ redirect_from:
   <iframe 
     src="https://chengjun.github.io/zh/assets/svg.html" 
     width="800px" 
+    height="600px" 
     frameborder="0" 
     scrolling="no"
     style="border: none;"
