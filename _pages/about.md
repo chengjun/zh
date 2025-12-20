@@ -15,6 +15,19 @@ redirect_from:
 ---
 
 
+<!-- 直接粘贴到目标页面的 <body> 任意位置 -->
+
+<div style="width: 100%; max-width: 1200px; margin: 0 auto;">
+  <iframe 
+    src="assets/svg.html" 
+    width="100%" 
+    height="600px" 
+    frameborder="0" 
+    scrolling="no"
+    style="border: none;"
+  ></iframe>
+</div>
+
 <!--<img src="https://user-images.githubusercontent.com/543384/196112048-b50d92cb-2c4c-4999-b851-ef9d0805a141.png" align = "middle" width = "500px">-->
 
 <img src="https://chengjun.github.io/img/tt.gif" align = "middle" width = "800px">
@@ -111,19 +124,6 @@ redirect_from:
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 <br>
 
-
-<!-- 直接粘贴到目标页面的 <body> 任意位置 -->
-
-<div style="width: 100%; max-width: 1200px; margin: 0 auto;">
-  <iframe 
-    src="assets/svg.html" 
-    width="100%" 
-    height="600px" 
-    frameborder="0" 
-    scrolling="no"
-    style="border: none;"
-  ></iframe>
-</div>
   
 <a href="https://github.com/{{site.repository}}edit/gh-pages/_pages/about.md">
   <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
