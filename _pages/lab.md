@@ -139,30 +139,32 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 - 每次一个小时
 - 主讲者提前发研讨会信息
 - 主讲者做好ppt
-- 邀请博士生作为与谈人
+- 邀请与谈人点评
 
+## 组会（写作互助组）
 
-##  苏格拉底学园
+- 每周迭代
+- 由每月轮值主持人负责主持和计时 🕙
+- 每人不超过5分钟
+- 按照changelog方式发帖
+- 简要介绍：进展、问题、计划、论文分享链接
 
-1. 群体动力学播客[上线了!](https://www.ximalaya.com/album/69292192) 
-2. 计算传播学[豆瓣小组](https://www.douban.com/group/webmining/)
-3. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)
+每周一和周二在微信群中报告遇到的问题
+
+##  苏格拉底俱乐部
+
+- 每周一在微信群中发周报
+- 简要汇报：进展、问题、计划
 
 ## 第谷读书会
 
 第谷读书会是南京大学计算传播学实验中心的成员们于2018年9月发起的定期读书会（受研讨会影响，现在改为不定期举办），致力于满足参与者在求学过程交流知识的需要。我们将每个星期一起阅读前沿的学术论文、特定的书目，通过成员的互动、交流，促进思想的碰撞，以期从前沿科学领域获得新的研究灵感，孕育全新的科研思想。你可以通过扫描二维码的方式了解我们正在进行的活动，或者观看往期活动的[视频](https://search.bilibili.com/all?keyword=%E7%AC%AC%E8%B0%B7%E8%AF%BB%E4%B9%A6%E4%BC%9A&order=pubdate&duration=0&tids_1=0)。 
-
-![image](https://github.com/chengjun/zh/assets/543384/f9956b7b-dc4c-4707-a1a6-7894bec6b62f)
-
-『柏拉图说』是由南京大学计算传播学实验中心的成员们于2022年4月发起的论文精读与推介活动，我们将定期推送新闻传播学TOP期刊最新内容、新闻传播学前沿及相关量化研究方法论文。我们致力于深耕传播学领域，紧跟专业研究热点，延伸学术视角，拓展群体智慧。
-
 
 <div align="center">
   <img width="300" height="300" alt="e25b21a138d5b668234ed585b7cd3710" src="https://github.com/chengjun/zh/assets/543384/79603db5-e7c8-4f92-a8ad-22ce78baac34" />
 </div>
 
 
-## 合影
 
 ![2024年12月6日下午](https://github.com/user-attachments/assets/ef5df179-9303-464c-854d-df4155e0b43a)
 
