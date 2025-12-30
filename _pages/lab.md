@@ -9,7 +9,7 @@ author_profile: true
 
 
 <div align="center">
-  <img width="300" height="300" alt="e25b21a138d5b668234ed585b7cd3710" src="https://github.com/user-attachments/assets/200e9d05-ddd4-43be-b010-7d4e9bf0620f" />
+  <img width="200" height="200" alt="e25b21a138d5b668234ed585b7cd3710" src="https://github.com/user-attachments/assets/200e9d05-ddd4-43be-b010-7d4e9bf0620f" />
 </div>
 
 
