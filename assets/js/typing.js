@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const text = "人啊，认识你自己！点燃内心的火焰🔥    苏格拉底大王";
+    const text = "苏格拉底大王：人啊，认识你自己！点燃内心的火焰🔥";
     const typingSpeed = 150; // 每个字符出现的速度 (毫秒)
     let index = 0;
 
