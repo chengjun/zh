@@ -25,7 +25,7 @@ redirect_from:
 - ORCID: [0000-0002-9507-2888](http://orcid.org/0000-0002-9507-2888)
 - 电子邮箱：<a href="mailto: wangchengjun@nju.edu.cn" 
    style="color:#2d7dbb; text-decoration:none; padding:4px 8px; border:1px solid #ddd; border-radius:6px;">
-   📩 
+   📩 wangchengjun@nju.edu.cn
 </a>
 
 ## 教育经历
