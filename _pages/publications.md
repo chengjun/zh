@@ -36,12 +36,14 @@ author_profile: true
 ![image](https://github.com/user-attachments/assets/7c45ac8d-92f5-4373-957f-435e54d09965)
 
 
-## 《计算叙事》
+## 《计算叙事传播》
 
 <img src="https://user-images.githubusercontent.com/543384/195964017-43b9085d-2f13-4f89-9025-61faa1717c70.png" align = "middle" width = "300px">
 
+> 人类本质上是讲故事的人。大语言模型的出现让机器也成为“讲故事的人”。如果说语言是人类存在的家园，在数智时代的机器已经作为行动者入侵人类的家园。当匹诺曹可以开口说话，人类几千年来的叙事传播行为被再次颠覆。一方面，深度伪造等虚假叙事成为热点议题；另一方面，人工智能为叙事传播插上了计算的翅膀。计算叙事传播作为智能与计算传播的一个分支，主要关注的是传播学领域的核心议题：人类的符号化的传播现象如何影响人类行为和社会变迁？人类是讲故事的动物，叙事理性直接影响了人类的行为。作为计算传播学的一个重要分支，计算叙事传播研究致力于采用人工智能等计算方法，挖掘人类所创造的叙事元素、叙事网络和叙事扩散，并分析这些叙事元素与真实人类行为之间的关系。主讲人将会结合一系列研究案例介绍计算叙事传播研究的理论、数据、方法，尤其是叙事瀑流模型。
 
-我正在筹备写作《**计算叙事**》一书，欢迎关注[本书的Github讨论](https://github.com/chengjun/storybook/discussions)！
+
+我正在筹备写作《**计算叙事传播**》一书，欢迎关注[本书的Github讨论](https://github.com/chengjun/storybook/discussions)！
 
 <img src="https://github.com/user-attachments/assets/f460cde3-8edf-4b9f-9474-9954aa67aab1" align = "middle" width = "300px">
 
