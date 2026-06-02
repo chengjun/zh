@@ -85,7 +85,7 @@ redirect_from:
 
 ‡ 表示共同一作
 
-1. Zhicong Chen, Zhengyi Liang*, Zhenyu Wang, Xinya Jiang, Cheng-Jun Wang* （2026）Framing the World: Strategic Narratives of Foreign States in China’s Mainstream Media (1950–2019). conditionally accept. PLOS One. 
+1. Zhicong Chen, Zhengyi Liang*, Zhenyu Wang, Xinya Jiang, **Cheng-Jun Wang** * （2026）Framing the World: Strategic Narratives of Foreign States in China’s Mainstream Media (1950–2019). conditionally accept. PLOS One. 
 2. Yan Xue-Fei, Zhang Yaotian, Zhou Yixin, **Wang Cheng-Jun** * (2026) Shut Your Eyes in the Dark! How Bedtime Media Use Affects Sleep Delay and Increases Anxiety among Young Adults. conditionally accept. Health Communication. 
 3. Yanqin Yan, Suiyu Zhang, Dingguo Yu *, Yijie Zhou, **Cheng-Jun Wang** *, Ke-Ke Shang *（2026) TRGCN: A Hybrid Framework for Social Network Rumor Detection. Humanities and Social Sciences Communications. [doi: 10.1057/s41599-026-06946-1](https://doi.org/10.1057/s41599-026-06946-1). Data & Code: [https://doi.org/10.17605/OSF.IO/STCP5](https://doi.org/10.17605/OSF.IO/STCP5)
 4. Yan Xue-Fei,  Chen Zhicong, Lu Linyan, **Wang Cheng-Jun** * (2025) Who Weaved My Behavior Cocoon? The Impact of ICT Use on Daily Behaviors in an Accelerated Society. Communications: The European Journal of Communication Research. [doi: 10.1515/commun-2024-0160](https://doi.org/10.1515/commun-2024-0160). Data & Code: [https://osf.io/kca32/](https://osf.io/kca32/?view_only=ebb625c3c875440cbc91d2ceeb33e3ff)
