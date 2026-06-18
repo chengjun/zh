@@ -110,11 +110,6 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 ### 硕士生
 
-
-- 韦婉茜 (2023-2026) https://weiwanxi-999.github.io/
-- 张含融 (2023-2026) https://Zhang-Hanrong.github.io/
-- 周振锋 (2023-2026) https://zhou-zhen-feng.github.io/
-- 颜肖锴 (2023-2026) https://Hawaii-Yan.github.io/
 - 梁悠悠 (2024-2027) https://youyou-liang.github.io/
 - 陈敏扬 (2024-2027) https://minyang-chen.github.io/
 - 张潇逸 (2024-2027) https://xiaoyizhang833.github.io/
@@ -142,7 +137,13 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 - 姜新雅 (2021-2024) https://alexandrajiang.github.io/
 - 孙逸潇 (2022-2025) https://sun-yixiao.github.io/ 
 - 费韵洁 (2022-2025) https://yunjiefei.github.io/ 
+- 范宏瑞 (2023-2026)https://fanhr.github.io/
+- 韦婉茜 (2023-2026) https://weiwanxi-999.github.io/
+- 张含融 (2023-2026) https://Zhang-Hanrong.github.io/
+- 周振锋 (2023-2026) https://zhou-zhen-feng.github.io/
+- 颜肖锴 (2023-2026) https://Hawaii-Yan.github.io/
 
+  
 # 实验室活动
 
 ## 苏格拉底研讨会
