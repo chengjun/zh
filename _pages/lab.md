@@ -111,6 +111,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 ### 硕士生
 
 | 姓名 | 在校时间 | 个人网站|
+| ---- | ---------- | -------- | 
 |梁悠悠|2024-2027| https://youyou-liang.github.io/ |
 |陈敏扬|2024-2027| https://minyang-chen.github.io/ |
 |张潇逸|2024-2027| https://xiaoyizhang833.github.io/ |
