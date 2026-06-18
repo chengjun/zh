@@ -110,53 +110,57 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 ### 硕士生
 
-- 梁悠悠 (2024-2027) https://youyou-liang.github.io/
-- 陈敏扬 (2024-2027) https://minyang-chen.github.io/
-- 张潇逸 (2024-2027) https://xiaoyizhang833.github.io/
-- 黄靖翔 (2024-2027) https://huang-jingxiang.github.io/
-- 安静静 (2024-2027) https://Jingjing-An.github.io/
-- 郑亦佳 (2025-2028) https://Zoe-ZhengYijia.github.io/
-- 马卫华 (2025-2028) https://ma-weihua.github.io/
-- 陆阳 (2025-2028) https://yanglu729.github.io/
-- 朱明君 (2025-2028) https://zhu-mingjun.github.io/
-- 刘禹希 (2025-2028) https://Yuxia-liu.github.io/
+| 姓名 | 在校时间 | 个人网站|
+|梁悠悠|2024-2027| https://youyou-liang.github.io/ |
+|陈敏扬|2024-2027| https://minyang-chen.github.io/ |
+|张潇逸|2024-2027| https://xiaoyizhang833.github.io/ |
+|黄靖翔|2024-2027| https://huang-jingxiang.github.io/ |
+|安静静|2024-2027| https://Jingjing-An.github.io/ |
+|郑亦佳|2025-2028| https://Zoe-ZhengYijia.github.io/ |
+|马卫华|2025-2028| https://ma-weihua.github.io/ |
+|陆阳|2025-2028| https://yanglu729.github.io/ |
+|朱明君|2025-2028| https://zhu-mingjun.github.io/ |
+|刘禹希|2025-2028| https://Yuxia-liu.github.io/ |
 
 
 ## 毕业生
 ### 硕士毕业生
-- 陈志聪 (2016-2018) https://zhicongchen.github.io/
-- 李铁薇 (2017-2020) https://tieweill.github.io/
-- 吴友钦 (2018-2021) https://iamyourking007.github.io/
-- 徐绘敏 (2018-2021) https://xuhuimin2017.github.io/
-- 卢功靖 (2019-2022) https://lugongjing.github.io/bbiou218/
-- 卢林艳 (2019-2022) https://linyanlu.github.io/
-- 李媛媛 (2019-2022) https://andrea-lee.github.io/
-- 李玉端 (2020-2023) https://liyuduan817.github.io/
-- 周钰   (2020-2023) https://18005176298.github.io/
-- 苟泽鹏 (2020-2023) https://pennygou.github.io/
-- 姜新雅 (2021-2024) https://alexandrajiang.github.io/
-- 孙逸潇 (2022-2025) https://sun-yixiao.github.io/ 
-- 费韵洁 (2022-2025) https://yunjiefei.github.io/ 
-- 范宏瑞 (2023-2026)https://fanhr.github.io/
-- 韦婉茜 (2023-2026) https://weiwanxi-999.github.io/
-- 张含融 (2023-2026) https://Zhang-Hanrong.github.io/
-- 周振锋 (2023-2026) https://zhou-zhen-feng.github.io/
-- 颜肖锴 (2023-2026) https://Hawaii-Yan.github.io/
 
 
-| 序号 | 研究生姓名 | 入学时间 | 
-| ---- | ---------- | -------- | 
-| 1    | 秦强       | 2015-09  |
-| 2    | 周玮       | 2015-09  | 
-| 3    | 陈志聪     | 2016-09  | 
-| 4    | 张晓雨     | 2017-09  | 
-| 5    | 尹迪       | 2018-09  | 
-| 6    | 李桐辰 | 2018-09 | 
-| 7    | 童浩   | 2018-09 | 
-| 8    | 朱小东 | 2018-09 | 
-| 9    | 韩雪   | 2018-09 | 
-| 10   | 陈虹   | 2018-09 | 
-  
+
+
+| 序号 | 研究生姓名 | 在校时间 | 个人网站|
+| ---- | ---------- | -------- | -------- | 
+| 1    | 秦强       | 2015-2018  |           |
+| 2    | 周玮       | 2015-2017  |           |
+| 3    | 陈志聪     | 2016-2018  | https://zhicongchen.github.io/  |
+| 4    | 张晓雨     | 2017-2019  |           |
+| 5    | 李铁薇     | 2017-2020  | https://tieweill.github.io/   |
+| 6    | 尹迪       | 2018-09  |           |
+| 7    | 李桐辰 | 2018-09 |           |
+| 8    | 童浩   | 2018-09 |           |
+| 9    | 朱小东 | 2018-09 |           |
+| 10    | 韩雪   | 2018-09 |           |
+| 11   | 陈虹   | 2018-09 |           |
+| 12    |吴友钦|2018-2021| https://iamyourking007.github.io/|
+| 13   |徐绘敏|2018-2021| https://xuhuimin2017.github.io/|
+| 14   |卢功靖|2019-2022| https://lugongjing.github.io/bbiou218/|
+| 15   |卢林艳|2019-2022| https://linyanlu.github.io/|
+| 16   |李媛媛|2019-2022| https://andrea-lee.github.io/|
+| 17   |李玉端|2020-2023| https://liyuduan817.github.io/|
+| 18   |周钰  |2020-2023| https://18005176298.github.io/|
+| 19   |苟泽鹏|2020-2023| https://pennygou.github.io/|
+| 20   |姜新雅|2021-2024| https://alexandrajiang.github.io/|
+| 21   |孙逸潇|2022-2025| https://sun-yixiao.github.io/| 
+| 22   |费韵洁|2022-2025| https://yunjiefei.github.io/| 
+| 23   |范宏瑞|2023-2026|https://fanhr.github.io/|
+| 24   |韦婉茜|2023-2026| https://weiwanxi-999.github.io/|
+| 25   |张含融|2023-2026| https://Zhang-Hanrong.github.io/|
+| 26   |周振锋|2023-2026| https://zhou-zhen-feng.github.io/|
+| 27   |颜肖锴|2023-2026| https://Hawaii-Yan.github.io/|  
+
+
+
 # 实验室活动
 
 ## 苏格拉底研讨会
