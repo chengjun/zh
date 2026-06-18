@@ -30,7 +30,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
         <img  alt="Wang Yuchun" src="https://github.com/user-attachments/assets/134c7953-235f-4b41-8b92-deac358e4077"  class="author__avatar" />
         </div>
       <div class="author__content">
-            <p><a href = "https://mythoswang.github.io/">王予纯</a><br/>(2025 - )</p>
+            <p><a href = "https://mythoswang.github.io/">王予纯</a><br/>(2026 - )</p>
       </div>
       </center>
     </div>
@@ -130,7 +130,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 
 
-| 序号 | 研究生姓名 | 在校时间 | 个人网站|
+| 序号 | 姓名 | 在校时间 | 个人网站|
 | ---- | ---------- | -------- | -------- | 
 | 1    | 秦强       | 2015-2018  |           |
 | 2    | 周玮       | 2015-2017  |           |
