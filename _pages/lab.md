@@ -137,12 +137,12 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 | 3    | 陈志聪     | 2016-2018  | https://zhicongchen.github.io/  |
 | 4    | 张晓雨     | 2017-2019  |           |
 | 5    | 李铁薇     | 2017-2020  | https://tieweill.github.io/   |
-| 6    | 尹迪       | 2018-09  |           |
-| 7    | 李桐辰 | 2018-09 |           |
-| 8    | 童浩   | 2018-09 |           |
-| 9    | 朱小东 | 2018-09 |           |
-| 10    | 韩雪   | 2018-09 |           |
-| 11   | 陈虹   | 2018-09 |           |
+| 6    | 尹迪       | 2018-2020  |           |
+| 7    | 李桐辰 | 2018-2020 |           |
+| 8    | 童浩   | 2018-2020 |           |
+| 9    | 朱小东 | 2018-2020 |           |
+| 10    | 韩雪   | 2018-2020 |           |
+| 11   | 陈虹   | 2018-2020 |           |
 | 12    |吴友钦|2018-2021| https://iamyourking007.github.io/|
 | 13   |徐绘敏|2018-2021| https://xuhuimin2017.github.io/|
 | 14   |卢功靖|2019-2022| https://lugongjing.github.io/bbiou218/|
