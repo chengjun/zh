@@ -148,7 +148,7 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 | 14   |卢功靖|2019-2022| https://lugongjing.github.io/bbiou218/|
 | 15   |卢林艳|2019-2022| https://linyanlu.github.io/|
 | 16   |李媛媛|2019-2022| https://andrea-lee.github.io/|
-| 17   |李玉端|2020-2023| https://liyuduan817.github.io/|
+| 17   |李玉端|2020-2023| |
 | 18   |周钰  |2020-2023| |
 | 19   |苟泽鹏|2020-2023| https://pennygou.github.io/|
 | 20   |姜新雅|2021-2024| https://alexandrajiang.github.io/|
