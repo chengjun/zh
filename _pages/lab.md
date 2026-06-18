@@ -23,6 +23,19 @@ Github: [https://github.com/socrateslab](https://github.com/socrateslab)
 
 
 ## 博士生
+<div class="row">
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+        <img  alt="Wang Yuchun" src="https://github.com/user-attachments/assets/134c7953-235f-4b41-8b92-deac358e4077"  class="author__avatar" />
+        </div>
+      <div class="author__content">
+            <p><a href = "https://mythoswang.github.io/">王予纯</a><br/>(2025 - )</p>
+      </div>
+      </center>
+    </div>
+</div>
+
 
 <div class="row">
     <div class="column">
