@@ -99,12 +99,13 @@ redirect_from:
 
 ## 苏格拉底学园
  
-1. **群体动力学播客**已经[上线了!](https://www.ximalaya.com/album/69292192) 
-2. 我正在组织一个名为 “计算传播学”的[豆瓣小组](https://www.douban.com/group/webmining/)，如果你想要看到我平时在鼓捣什么东西，可以看这里。
-3. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)上线了！这里有我和苏格拉底实验室成员以及其他学生正在阅读的文献，欢迎关注。
-4. [**计算传播学讲义**](https://chengjun.github.io/mybook/) 网络版上线! 
-5. 欢迎来玩我使用[Microsoft MakeCode Arcade](https://arcade.makecode.com/)制作的[飞车游戏](https://chengjun.github.io/racer-makecode/)和[jumpy platformer](https://chengjun.github.io/jumpy-platformer)，后者修改了一些基本设置。我比较喜欢玩[小行星射击游戏🎮](https://chengjun.github.io/game/asteroid.html)。
-6. 我最喜欢的苏格拉底漫画：[https://existentialcomics.com](https://existentialcomics.com/philosopher/Socrates)
+1. 我使用豆包编写了一个[文本语音朗读工具](https://chengjun.github.io/zh/assets/readaloud.html)，欢迎使用！
+2. **群体动力学播客**已经[上线了!](https://www.ximalaya.com/album/69292192) 
+3. 我正在组织一个名为 “计算传播学”的[豆瓣小组](https://www.douban.com/group/webmining/)，如果你想要看到我平时在鼓捣什么东西，可以看这里。
+4. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)上线了！这里有我和苏格拉底实验室成员以及其他学生正在阅读的文献，欢迎关注。
+5. [**计算传播学讲义**](https://chengjun.github.io/mybook/) 网络版上线! 
+6. 欢迎来玩我使用[Microsoft MakeCode Arcade](https://arcade.makecode.com/)制作的[飞车游戏](https://chengjun.github.io/racer-makecode/)和[jumpy platformer](https://chengjun.github.io/jumpy-platformer)，后者修改了一些基本设置。我比较喜欢玩[小行星射击游戏🎮](https://chengjun.github.io/game/asteroid.html)。
+7. 我最喜欢的苏格拉底漫画：[https://existentialcomics.com](https://existentialcomics.com/philosopher/Socrates)
 
 <!--
 <div align="center">
