@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文本朗读工具</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: system-ui, -apple-system, sans-serif;
+        }
+        body {
+            min-height: 100vh;
+            padding: 30px 20px;
+            background: #f5f7fa;
+            transition: background 0.3s, color 0.3s;
+        }
+        body.dark {
+            background: #1a1d24;
+            color: #e6e6e6;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 24px;
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: 600;
+        }
+        .theme-btn {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 8px;
+            background: #4080ff;
+            color: white;
+            cursor: pointer;
+        }
+        textarea {
+            width: 100%;
+            min-height: 260px;
+            padding: 16px;
+            border-radius: 12px;
+            border: 1px solid #d0d7e3;
+            font-size: 16px;
+            line-height: 1.6;
+            resize: vertical;
+            background: #fff;
+            color: #222;
+            transition: 0.3s;
+        }
+        body.dark textarea {
+            background: #282c34;
+            color: #eee;
+            border-color: #444;
+        }
+        .control-panel {
+            margin-top: 18px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 16px;
+        }
+        .control-item {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+        label {
+            font-size: 14px;
+            opacity: 0.85;
+        }
+        input[type="range"], select {
+            width: 100%;
+            padding: 6px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+        }
+        .btn-group {
+            margin-top: 22px;
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        button {
+            flex: 1;
+            min-width: 120px;
+            padding: 12px;
+            border: none;
+            border-radius: 10px;
+            font-size: 15px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: opacity 0.2s;
+        }
+        button:active {
+            opacity: 0.8;
+        }
+        #readBtn {
+            background: #27ae60;
+            color: white;
+        }
+        #pauseBtn {
+            background: #f39c12;
+            color: white;
+        }
+        #stopBtn {
+            background: #e74c3c;
+            color: white;
+        }
+        #clearBtn {
+            background: #888;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>文本朗读工具</h1>
+            <button class="theme-btn" id="themeToggle">切换深色模式</button>
+        </div>
+        <textarea id="textInput" placeholder="请粘贴需要朗读的文本，支持中文、英文学术段落..."></textarea>
+        <div class="control-panel">
+            <div class="control-item">
+                <label>朗读语速 (0.1 ~ 10)</label>
+                <input type="range" id="rate" min="0.1" max="10" step="0.1" value="1">
+            </div>
+            <div class="control-item">
+                <label>音量 (0 ~ 1)</label>
+                <input type="range" id="volume" min="0" max="1" step="0.05" value="1">
+            </div>
+            <div class="control-item">
+                <label>选择语音音色</label>
+                <select id="voiceSelect"></select>
+            </div>
+        </div>
+        <div class="btn-group">
+            <button id="readBtn">开始朗读</button>
+            <button id="pauseBtn">暂停/继续</button>
+            <button id="stopBtn">停止朗读</button>
+            <button id="clearBtn">清空文本</button>
+        </div>
+    </div>
+
+    <script>
+        // 语音合成核心对象
+        const synth = window.speechSynthesis;
+        let voices = [];
+        let utterance = null;
+
+        // DOM元素
+        const textInput = document.getElementById('textInput');
+        const voiceSelect = document.getElementById('voiceSelect');
+        const rateInput = document.getElementById('rate');
+        const volumeInput = document.getElementById('volume');
+        const readBtn = document.getElementById('readBtn');
+        const pauseBtn = document.getElementById('pauseBtn');
+        const stopBtn = document.getElementById('stopBtn');
+        const clearBtn = document.getElementById('clearBtn');
+        const themeToggle = document.getElementById('themeToggle');
+
+        // 加载系统语音库
+        function loadVoices() {
+            voices = synth.getVoices();
+            voiceSelect.innerHTML = '';
+            voices.forEach((voice, idx) => {
+                const opt = document.createElement('option');
+                opt.textContent = `${voice.name} (${voice.lang})`;
+                opt.value = idx;
+                voiceSelect.appendChild(opt);
+            });
+        }
+        synth.onvoiceschanged = loadVoices;
+
+        // 朗读函数
+        function readText() {
+            const text = textInput.value.trim();
+            if (!text) {
+                alert('请输入朗读文本！');
+                return;
+            }
+            // 停止正在播放的语音
+            if (synth.speaking) synth.cancel();
+
+            utterance = new SpeechSynthesisUtterance(text);
+            // 参数配置
+            utterance.rate = parseFloat(rateInput.value);
+            utterance.volume = parseFloat(volumeInput.value);
+            utterance.voice = voices[voiceSelect.value];
+            synth.speak(utterance);
+        }
+
+        // 暂停/恢复
+        function togglePause() {
+            if (!synth.speaking) return;
+            if (synth.paused) synth.resume();
+            else synth.pause();
+        }
+
+        // 停止朗读
+        function stopRead() {
+            synth.cancel();
+        }
+
+        // 清空输入框
+        function clearText() {
+            textInput.value = '';
+            stopRead();
+        }
+
+        // 深色模式切换
+        function toggleTheme() {
+            document.body.classList.toggle('dark');
+        }
+
+        // 绑定按钮事件
+        readBtn.addEventListener('click', readText);
+        pauseBtn.addEventListener('click', togglePause);
+        stopBtn.addEventListener('click', stopRead);
+        clearBtn.addEventListener('click', clearText);
+        themeToggle.addEventListener('click', toggleTheme);
+    </script>
+</body>
+</html>
