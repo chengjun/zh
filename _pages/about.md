@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "王成军"
 layout: single
 header:
   overlay_image: socrates2024.jpg
