@@ -282,8 +282,8 @@ redirect_from:
 
 
 ## 获奖
-1. 中国知网2025全国高被引学者 TOP1% （学者ID：[0000002073703289](https://au.cnki.net/author/personalInfo/000068061221)）
-2. [2026 Top Paper Award, Communication & Technology Division, International Communication Association (ICA)](https://www.facebook.com/icacat/posts/pfbid0sgBt7ZsLhZkUFun6kGcWsfvhCPK7SHo5KTjTo5ESzhxoRt3YdKWC85LW5yiRBt7Ql)
+1. 中国知网2025全国高被引学者TOP 1% （学者ID：[0000002073703289](https://au.cnki.net/author/personalInfo/000068061221)）
+2. [2026 Top Paper Award](https://www.facebook.com/icacat/posts/pfbid0sgBt7ZsLhZkUFun6kGcWsfvhCPK7SHo5KTjTo5ESzhxoRt3YdKWC85LW5yiRBt7Ql), Communication & Technology Division, International Communication Association (ICA)
 3. 《傳播與社會學刊》2024-2025年度優秀評審委員獎 (2026年6月）
 4. 复旦大学新闻学院2026年度“中国青年新闻传播学者访问计划” (5月17日-29日)
 5. 江苏省第十八届哲学社会科学优秀成果奖三等奖 （2025）
@@ -291,7 +291,7 @@ redirect_from:
 7. 指导学生获得**第七届传播数据挖掘竞赛一等奖**（2025）
 8. CAAI-BDSC2025社会计算创新大赛二等奖指导教师奖（2025）
 9. 指导大学生创新创业计划项目（已结题，2025）
-10. 中国知网2024全国高被引学者 TOP1% （学者ID：[0000002073703289](https://au.cnki.net/author/personalInfo/000068061221)）
+10. 中国知网2024全国高被引学者TOP 1% （学者ID：[0000002073703289](https://au.cnki.net/author/personalInfo/000068061221)）
 11. 第十三届江苏省高校哲学社会科学研究成果奖二等奖（2024）
 12. 中国人民大学新闻学院“明新青年访问学者”计划（2024）
 13. 《新闻与传播研究》[2024年度优秀审稿专家](https://mp.weixin.qq.com/s/kbF1Ps455-JXRkgWPARC9Q)（2024） 
