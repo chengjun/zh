@@ -112,7 +112,7 @@ redirect_from:
 10. Chandra Y. *, Jiang, C.L., **Wang C.J.** (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE. 11(3):e0151342, [doi: 10.1371/journal.pone.0151342](http://dx.doi.org/10.1371/journal.pone.0151342)
 11. **Wang C.J.** *, Wang P.P., Zhu J.J.H. (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking. 16(9): 679-685. [doi:10.1089/cyber.2012.0409](http://online.liebertpub.com/doi/abs/10.1089/cyber.2012.0409). [SSCI, Ranking 4/72 in Communication by 5-year IF].
 18. 王成军（2025）计算中心论：理解智能传播悖论. [智能传播研究](https://navi.cnki.net/knavi/detail?p=Z6DTxR9STvFU_AbHbXqH26Qesrgj0xdBGW4QBCRuu1XzVAzpbcIqsYarkUpQDtzrXrjqlvQuna5JQXOT4bDR2FPXHhbBB-SzpygUW3lK1ME). 2(1):58-71.
-19. 王成军（2026）走向科学革命：反思数智时代的计算传播学“范式转型”. 中国网络传播研究. 30(2):34-45.
+19. 王成军（2026）走向科学革命?反思数智时代的计算传播学“范式转型”. 中国网络传播研究. 30(2):34-45.
 20. 张耀天,王成军 * （2025）跨越懒人行动主义：公共危机中的科学参与、道德基础与情感表达对公众捐款的影响[J].中国网络传播研究,(02):276-300+309-310.
 21. **王成军** * （2025）计算传播学的方法、实践与理论逻辑：国内新闻传播学当中的计算社会科学研究综述（2014-2024）. 教育传媒研究, 59（6）5-13. [doi:10.19400/j.cnki.cn10-1407/g2.20250430.001](https://link.cnki.net/doi/10.19400/j.cnki.cn10-1407/g2.20250430.001)
 22. **王成军** *，李蔼洁，张耀天（2024）算法想象视角下推特用户对ChatGPT的技术恐惧.新媒体与网络.1(4):35-47. doi: 10.20233/j.cnki.xmtwl.202404004
