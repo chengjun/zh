@@ -24,6 +24,7 @@ redirect_from:
 - 地图：[https://vr.nju.edu.cn/#/](https://vr.nju.edu.cn/#/pages/test/demo?school_id=0)
 - 网站: [https://chengjun.github.io/](https://chengjun.github.io/)
 - ORCID: [0000-0002-9507-2888](http://orcid.org/0000-0002-9507-2888)
+- Web of Science ResearcherID: [GQA-8907-2022](https://www.webofscience.com/wos/author/record/GQA-8907-2022)
 - 电邮：<a href="mailto: wangchengjun@nju.edu.cn"  style="color:#2d7dbb; text-decoration:none; padding:4px 8px; border:1px solid #ddd; border-radius:6px;"> 📩 wangchengjun@nju.edu.cn</a>
 
 ## 教育经历
