@@ -46,6 +46,7 @@ author_profile: true
 
 ### 其它项目
 2. 增强中华文明传播力的计算叙事研究，南京大学文科人工智能交叉研究计划 （AI for HASS）首批专项课题（10万元，项目编号 2025300128），2025/01-2027/11，主持
+  - **Fundamental Research Funds for the Central Universities**（2025300128）
   - Lyu, X., & Wang, C.-J.* (2023, September). Heroic narratives in human civilization communication: Analyzing heroic figures in Wikipedia using word embedding models. Paper presented at the SMP 2023 Conference, Hefei, China.
   - Lyu, X., & Wang, C.-J.* (2024, June). Jumping over the cultural threshold: Analyzing the narrative genes of world memorable figures in Wikipedia with word embedding models. Paper presented at the 74th Annual Conference of the International Communication Association (ICA), Gold Coast, Australia.
 3. 人工智能时代的计算叙事研究，南京大学新时代文科卓越研究计划“中长期研究专项”（项目编号 14914211），2022/01-2024/12，主持
