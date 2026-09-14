@@ -22,6 +22,9 @@ author_profile: true
 - 每周四下午16:00-18:00
 - 学院309
 
+<img width="276" height="432" alt="image" src="https://github.com/user-attachments/assets/436e4787-885e-4547-9d52-dcedc895d514" />
+
+
 ## 招募本科生加入课题组
 - **本科生培养**：欢迎南京大学的本科生加入我的课题组“苏格拉底实验室”。
 - 感兴趣者欢迎发[邮件📮](mailto:wangchengjun@nju.edu.cn)
