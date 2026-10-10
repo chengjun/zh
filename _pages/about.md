@@ -17,16 +17,6 @@ redirect_from:
 
 <!-- 直接粘贴到目标页面的 <body> 任意位置 -->
 
-<div style="width: 100%; max-width: 1200px; margin: 0 auto;">
-  <iframe 
-    src="assets/svg.html" 
-    width="100%" 
-    height="600px" 
-    frameborder="0" 
-    scrolling="no"
-    style="border: none;"
-  ></iframe>
-</div>
 
 <div style="width: 100%; max-width: 1200px; margin: 0 auto;">
   <iframe 
