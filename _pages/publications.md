@@ -8,6 +8,7 @@ author_profile: true
 
 现在和未来十年的主要研究兴趣(专著写作项目）分为两个方面：一、发展叙事瀑流模型，开展一系列国际传播的计算叙事研究；二、构建计算中心论，提炼计算传播学的理论逻辑。
 
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/ac7a3135-82f8-4dad-b334-8c2dcfec7db9" />
 
 ## 《计算中心论》
 
