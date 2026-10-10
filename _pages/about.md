@@ -28,6 +28,19 @@ redirect_from:
   ></iframe>
 </div>
 
+<div style="width: 100%; max-width: 1200px; margin: 0 auto;">
+  <iframe 
+    src="assets/philosophers-svg2026.html" 
+    width="100%" 
+    height="600px" 
+    frameborder="0" 
+    scrolling="no"
+    style="border: none;"
+  ></iframe>
+</div>
+
+
+
 <!--<img src="https://user-images.githubusercontent.com/543384/196112048-b50d92cb-2c4c-4999-b851-ef9d0805a141.png" align = "middle" width = "500px">-->
 
 <img src="https://chengjun.github.io/img/tt.gif" align = "middle" width = "800px">
