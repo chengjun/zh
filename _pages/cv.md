@@ -70,6 +70,7 @@ redirect_from:
 ### 中文
 1. 王成军（2024）《计算中心论》. 书稿. [内容简介&写作进展](https://chengjun.github.io/zh/publications/).
 2. 王成军（2024）计算叙事：人工智能时代的叙事传播研究新范式. 论文手稿.
+3. 肖潇;王予纯; 王成军 *  (2026) 从游玩到传播:基于X平台的数字游戏跨文化传播多阶段分析. 国际传播研究 
 
 ### 英文
 1. Zhou, Zhenfeng and Wang, Cheng-Jun, The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800-1920) (March 30, 2025). Available at SSRN: https://ssrn.com/abstract=5244337 or http://dx.doi.org/10.2139/ssrn.5244337
