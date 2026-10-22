@@ -143,19 +143,23 @@ redirect_from:
 
 ## 书籍、章节和翻译
 
-### 书籍
-1. 王成军（2022）[跨越网络的门槛：社交媒体上的信息扩散](https://book.douban.com/subject/36017047/). 北京：科学出版社. ISBN: 9787030721648 [Github Repository](https://github.com/chengjun/thresholdbook) & [References](https://www.zotero.org/wangchj2020/collections/AEYS2R5X).
-2. 郑丽勇, 朱江丽, 王成军, & 胡菡菡. (2025). [数字营销传播](https://book.douban.com/subject/37533533/). 中国传媒大学出版社. ISBN: 9787565739675
-3. 王成军 (2019) [计算传播学讲义](https://chengjun.github.io/mybook/). Jupyter Book.
-4. 张伦、王成军、许小可（2024）[计算传播学导论(第二版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社. ISBN: 978-7-303-28461-0
-5. 张伦、王成军、许小可（2018）[计算传播学导论(第一版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社. ISBN: 978-7-303-24120-0
-6. 许小可、胡海波、张伦、王成军 （2015）社交网络上的计算传播学. 北京：高等教育出版社.
+### 专著
+1. 王成军（2027）叙事传播论：讲好中国故事的传播学视角. 北京：中国社会科学出版社. 即将出版.
+2. 王成军（2022）[跨越网络的门槛：社交媒体上的信息扩散](https://book.douban.com/subject/36017047/). 北京：科学出版社. ISBN: 9787030721648 [Github Repository](https://github.com/chengjun/thresholdbook) & [References](https://www.zotero.org/wangchj2020/collections/AEYS2R5X).
+   
+### 教材
+1. 郑丽勇, 朱江丽, 王成军, & 胡菡菡. (2025). [数字营销传播](https://book.douban.com/subject/37533533/). 中国传媒大学出版社. ISBN: 9787565739675
+2. 王成军 (2019) [计算传播学讲义](https://chengjun.github.io/mybook/). Jupyter Book.
+3. 张伦、王成军、许小可（2024）[计算传播学导论(第二版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社. ISBN: 978-7-303-28461-0
+4. 张伦、王成军、许小可（2018）[计算传播学导论(第一版)](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社. ISBN: 978-7-303-24120-0
+5. 许小可、胡海波、张伦、王成军 （2015）社交网络上的计算传播学. 北京：高等教育出版社.
 
 ### 章节
-1. 王成军（2024）用钻石切割钻石：反思计算传播学的教学思路.《数智时代的新媒体人才培养》.周葆华（主编）.复旦大学出版社.[链接🔗](https://chengjun.github.io/zh/posts/2024/05/teaching-reflection/).
-2. 王成军 (2022) [沉默的螺旋：多主体模型](https://github.com/socrateslab/sos).《大数据时代的计算舆论学：理论、方法与案例》.周葆华、梁海（主编）.上海：复旦大学出版社. pp. 384-417.
-3. 張倫、彭泰權、**王成軍**、梁海、祝建華 (2021) [從邊陲到主流的自然路徑：華人計算傳播學者的參與和體驗](https://computational-communication.com/blog/2021/11/01/ccr-history/). 《中華傳播研究的傳承與創新》.李立峯、黃煜(主編).香港：香港中文大学出版社.pp. 399-419.
-4. 王成军、吴令飞 (2017) 空间约束的人类行为. 胡泳、王俊秀（编）《连接之后: 公共空间重建与权力再分配》.北京:人民邮电出版社. pp. 262-271.
+1. 王成军（2027）结构计算：社会网、空间模型、复杂系统. 《计算人文社会科学概论》.陈云松（主编）. 新时代教材培育项目. 北京：高等教育出版社.
+2. 王成军（2024）用钻石切割钻石：反思计算传播学的教学思路.《数智时代的新媒体人才培养》.周葆华（主编）.复旦大学出版社.[链接🔗](https://chengjun.github.io/zh/posts/2024/05/teaching-reflection/).
+3. 王成军 (2022) [沉默的螺旋：多主体模型](https://github.com/socrateslab/sos).《大数据时代的计算舆论学：理论、方法与案例》.周葆华、梁海（主编）.上海：复旦大学出版社. pp. 384-417.
+4. 張倫、彭泰權、**王成軍**、梁海、祝建華 (2021) [從邊陲到主流的自然路徑：華人計算傳播學者的參與和體驗](https://computational-communication.com/blog/2021/11/01/ccr-history/). 《中華傳播研究的傳承與創新》.李立峯、黃煜(主編).香港：香港中文大学出版社.pp. 399-419.
+5. 王成军、吴令飞 (2017) 空间约束的人类行为. 胡泳、王俊秀（编）《连接之后: 公共空间重建与权力再分配》.北京:人民邮电出版社. pp. 262-271.
 
 ### 翻译
 1. 王薇、王成军、王颖、刘璟 （翻译）(2013). 《社会网络分析：方法与实践》. 北京：机械工业出版社. [Translation of the book Social Network Analysis for Startups: Finding connections on the Social Web., by Maksim Tsvetovat & Alexander Kouznetsov. (2011). O’Reilly Media]
