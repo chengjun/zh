@@ -15,7 +15,7 @@ author_profile: true
 
 - [Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)编委会（Editorial Board，2022年9月-至今）
 - Frontiers in Physics期刊的[Social Physics编委会](https://www.frontiersin.org/journals/physics/sections/social-physics)，担任[评审编辑](https://loop.frontiersin.org/people/1978496/overview)（Review Editor，2022年8月-至今）
-- [《中国网络传播研究》](https://kns.cnki.net/knavi/journals/ZWCY/detail?uniplatform=NZKPT)编辑部主任 (2020年1月-至今)
+- [《中国网络传播研究》](https://navi.cnki.net/knavi/detail?p=h0-L8hZBgJDGlX2-YRmCCZzH0dxY8O92wFrRnO7eiu9yO5o3bEix4p7iY8OqKKncn46cHtbqDnuqND5_3AfHDSJsRs4IXabXfcY-vJ3J8cM=&uniplatform=NZKPT)编辑部主任 (2020年1月-至今)
 
 >《中国网络传播研究》(Chinese Journal of Computer-Mediated Communication)由南京大学新闻传播学院创办于2007年，连续出版，是目前国内唯一一本以互联网为专门研究对象、探讨互联网传播规律的学术研究刊物(集刊)。2013年，本刊经中国社会科学评价中心评定，入选CSSCl来源集刊。《中国网络传播研究》现每年2期，由南京大学新闻传播学院主办，深圳大学传播学院和中国传媒大学出版社联办，常设栏目包括“学者访谈”、“特稿”、“专题论文”、“一般论文”、“前沿综述”和“书评”等。凡与互联网或新媒体有关的 任何理论、历史或经验研究，只要有所创见:谨遵规范，研究扎实，无论是资深教授或青年研究者，本刊均热烈欢迎。同时，本刊期待搭建互联网传播研究的学术共同体，诚邀相关专家或课题组以相近主题组织系列文章，在本刊集中发表。
 
