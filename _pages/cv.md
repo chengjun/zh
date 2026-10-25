@@ -251,7 +251,7 @@ redirect_from:
 
 ### 学术期刊
 - 《自然》出版集团旗下SSCI一区刊物[Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)编委(2022-至今).
-- CSSCI集刊[《中国网络传播研究》](https://kns.cnki.net/knavi/journals/ZWCY/detail?uniplatform=NZKPT)编辑部主任(2020-至今).
+- CSSCI集刊[《中国网络传播研究》](https://navi.cnki.net/knavi/detail?p=h0-L8hZBgJDGlX2-YRmCCZzH0dxY8O92wFrRnO7eiu9yO5o3bEix4p7iY8OqKKncn46cHtbqDnuqND5_3AfHDSJsRs4IXabXfcY-vJ3J8cM=&uniplatform=NZKPT)编辑部主任(2020-至今).
 
 ### 审稿人
 
