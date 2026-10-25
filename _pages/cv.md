@@ -326,7 +326,8 @@ redirect_from:
 
 
 ## 软件
-1. [flownetwork](https://pypi.python.org/pypi/flownetwork), a Python package for flow network analysis.
+1. [Causal-Narrative](https://pypi.org/project/causal-narrative/), a Python package for causal relation detection, extraction, and narrative analysis, collaborated with Yangdong Liu.
+2. [flownetwork](https://pypi.python.org/pypi/flownetwork), a Python package for flow network analysis.
 1. [iching](https://pypi.python.org/pypi/iching/), a Python package that employs the Achillea millefolium method to practise divination of I Ching (易经的蓍草卜卦方法).
 1. [networkdiffusion](https://github.com/chengjun/networkdiffusion), a R package which can help simulate and visualize the network diffusion.
 
